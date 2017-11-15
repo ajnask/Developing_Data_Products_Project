@@ -1,1 +1,168 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Developing Data Products</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Developing Data Products">
+  <meta name="author" content="Ajnas Mujthabha K">
+  <meta name="generator" content="slidify" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1">
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/default.css" media="all" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/phone.css" 
+    media="only screen and (max-device-width: 480px)" >
+  <link rel="stylesheet" href="libraries/frameworks/io2012/css/slidify.css" >
+  <link rel="stylesheet" href="libraries/highlighters/highlight.js/css/tomorrow.css" />
+  <base target="_blank"> <!-- This amazingness opens all links in a new tab. -->  <link rel=stylesheet href="./assets/css/ribbons.css"></link>
 
+  
+  <!-- Grab CDN jQuery, fall back to local if offline -->
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.min.js"></script>
+  <script>window.jQuery || document.write('<script src="libraries/widgets/quiz/js/jquery.js"><\/script>')</script> 
+  <script data-main="libraries/frameworks/io2012/js/slides" 
+    src="libraries/frameworks/io2012/js/require-1.0.8.min.js">
+  </script>
+  
+  
+
+</head>
+<body style="opacity: 0">
+  <slides class="layout-widescreen">
+    
+    <!-- LOGO SLIDE -->
+        <slide class="title-slide segue nobackground">
+  <hgroup class="auto-fadein">
+    <h1>Developing Data Products</h1>
+    <h2>Course Project</h2>
+    <p>Ajnas Mujthabha K<br/></p>
+  </hgroup>
+  <article></article>  
+</slide>
+    
+
+    <!-- SLIDES -->
+    <slide class="" id="slide-1" style="background:;">
+  <hgroup>
+    <h2>Caste Based Crime In India</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>This presentation is being created as part of the peer assessment for the &quot;Developing Data Products&quot; course in coursera. The assignment is geared toward ensuring the following concepts,</p>
+
+<ul>
+<li><b> Shiny </b> to build data product application</li>
+<li><b> R-Presentatoin</b> or <b>slidify</b> to create data product related presentations</li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-2" style="background:;">
+  <hgroup>
+    <h2>Caste Based Crime In India</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>India&#39;s caste system is among the world&#39;s oldest forms of surviving social stratification.  </p>
+
+<h3>What is <a href="https://en.wikipedia.org/wiki/Caste_system_in_India">Caste System</a>?</h3>
+
+<p>The system which divides Hindus into rigid hierarchical groups based on their karma (work) and dharma (the Hindi word for religion, but here it means duty) is generally accepted to be more than 3,000 years old.</p>
+
+<h3>What is <a href="https://en.wikipedia.org/wiki/Caste-related_violence_in_India">Case Based Crime</a>?</h3>
+
+<p>Caste Based Crime implies the crime against a lower caste member by people in the upper caste. In this application, Crimes against the historically marginalized Scheduled Castes and Scheduled Tribes (SC and ST) by the upper castes in India by extreme form of prejudice, discrimination and violence is studied.  </p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="class" id="id" style="background:;">
+  <hgroup>
+    <h2>The Application</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>To understand the statistics of Caste based violence in India, a small application called <b>Caste Based Crime in India</b> has been developed and deployed <a href="https://ajnask.shinyapps.io/Caste_Based_Crime_in_India/">here</a>.  </p>
+
+<p>The application allows the user to,</p>
+
+<ul>
+<li>Select a particular crime (from a list of crimes)</li>
+<li>Select a state in India to see the trend from 2001 to 2013</li>
+<li>Option to select two states for comparison</li>
+<li>See total statistics of crimes</li>
+</ul>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+<slide class="" id="slide-4" style="background:;">
+  <hgroup>
+    <h2>The data</h2>
+  </hgroup>
+  <article data-timings="">
+    <p>Data for the analysis was taken from <a href= "https://data.gov.in/catalog/crime-against-schedule-caste">Open Government Data Platform India (OGD)</a>. Datasets for years from 2001 to 2013 was downloaded and compiled accordingly. </p>
+
+<pre><code class="r">crime &lt;- read.csv(&quot;CasteCrimeStatusIndia.csv&quot;)
+head(crime)
+</code></pre>
+
+<pre><code>##   Crime          State.UT Year Count
+## 1 Arson       A&amp;N Islands 2001     0
+## 2 Arson    Andhra Pradesh 2001     6
+## 3 Arson Arunachal Pradesh 2001     0
+## 4 Arson             Assam 2001     1
+## 5 Arson             Bihar 2001    17
+## 6 Arson        Chandigarh 2001     0
+</code></pre>
+
+<p>The complete code for the application along with the data set is available <b><a href= "https://github.com/ajnask/Developing_Data_Products_Project">here</a></b></p>
+
+  </article>
+  <!-- Presenter Notes -->
+</slide>
+
+    <slide class="backdrop"></slide>
+  </slides>
+  <div class="pagination pagination-small" id='io2012-ptoc' style="display:none;">
+    <ul>
+      <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=1 title='Caste Based Crime In India'>
+         1
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=2 title='Caste Based Crime In India'>
+         2
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=3 title='The Application'>
+         3
+      </a>
+    </li>
+    <li>
+      <a href="#" target="_self" rel='tooltip' 
+        data-slide=4 title='The data'>
+         4
+      </a>
+    </li>
+  </ul>
+  </div>  <!--[if IE]>
+    <script 
+      src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js">  
+    </script>
+    <script>CFInstall.check({mode: 'overlay'});</script>
+  <![endif]-->
+</body>
+  <!-- Load Javascripts for Widgets -->
+  
+  <!-- LOAD HIGHLIGHTER JS FILES -->
+  <script src="libraries/highlighters/highlight.js/highlight.pack.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <!-- DONE LOADING HIGHLIGHTER JS FILES -->
+   
+  </html>

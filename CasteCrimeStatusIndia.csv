@@ -1,0 +1,5006 @@
+"Crime","State/UT","Year","Count"
+"Arson","A&N Islands","2001",0
+"Arson","Andhra Pradesh","2001",6
+"Arson","Arunachal Pradesh","2001",0
+"Arson","Assam","2001",1
+"Arson","Bihar","2001",17
+"Arson","Chandigarh","2001",0
+"Arson","Chhattisgarh","2001",0
+"Arson","D&N Haveli","2001",0
+"Arson","Daman & Diu","2001",0
+"Arson","Delhi UT","2001",0
+"Arson","Goa","2001",0
+"Arson","Gujarat","2001",9
+"Arson","Haryana","2001",5
+"Arson","Himachal Pradesh","2001",0
+"Arson","Jammu & Kashmir","2001",0
+"Arson","Jharkhand","2001",2
+"Arson","Karnataka","2001",0
+"Arson","Kerala","2001",2
+"Arson","Lakshadweep","2001",0
+"Arson","Madhya Pradesh","2001",50
+"Arson","Maharashtra","2001",5
+"Arson","Manipur","2001",0
+"Arson","Meghalaya","2001",0
+"Arson","Mizoram","2001",0
+"Arson","Nagaland","2001",0
+"Arson","Odisha","2001",13
+"Arson","Puducherry","2001",0
+"Arson","Punjab","2001",0
+"Arson","Rajasthan","2001",47
+"Arson","Sikkim","2001",0
+"Arson","Tamil Nadu","2001",18
+"Arson","Tripura","2001",0
+"Arson","Uttar Pradesh","2001",178
+"Arson","Uttarakhand","2001",1
+"Arson","West Bengal","2001",0
+"Dacoity","A&N Islands","2001",0
+"Dacoity","Andhra Pradesh","2001",3
+"Dacoity","Arunachal Pradesh","2001",0
+"Dacoity","Assam","2001",0
+"Dacoity","Bihar","2001",2
+"Dacoity","Chandigarh","2001",0
+"Dacoity","Chhattisgarh","2001",0
+"Dacoity","D&N Haveli","2001",0
+"Dacoity","Daman & Diu","2001",0
+"Dacoity","Delhi UT","2001",0
+"Dacoity","Goa","2001",0
+"Dacoity","Gujarat","2001",8
+"Dacoity","Haryana","2001",0
+"Dacoity","Himachal Pradesh","2001",0
+"Dacoity","Jammu & Kashmir","2001",0
+"Dacoity","Jharkhand","2001",1
+"Dacoity","Karnataka","2001",1
+"Dacoity","Kerala","2001",0
+"Dacoity","Lakshadweep","2001",0
+"Dacoity","Madhya Pradesh","2001",1
+"Dacoity","Maharashtra","2001",4
+"Dacoity","Manipur","2001",0
+"Dacoity","Meghalaya","2001",0
+"Dacoity","Mizoram","2001",0
+"Dacoity","Nagaland","2001",0
+"Dacoity","Odisha","2001",0
+"Dacoity","Puducherry","2001",0
+"Dacoity","Punjab","2001",0
+"Dacoity","Rajasthan","2001",0
+"Dacoity","Sikkim","2001",0
+"Dacoity","Tamil Nadu","2001",5
+"Dacoity","Tripura","2001",0
+"Dacoity","Uttar Pradesh","2001",16
+"Dacoity","Uttarakhand","2001",0
+"Dacoity","West Bengal","2001",0
+"Hurt","A&N Islands","2001",0
+"Hurt","Andhra Pradesh","2001",518
+"Hurt","Arunachal Pradesh","2001",0
+"Hurt","Assam","2001",4
+"Hurt","Bihar","2001",378
+"Hurt","Chandigarh","2001",0
+"Hurt","Chhattisgarh","2001",101
+"Hurt","D&N Haveli","2001",0
+"Hurt","Daman & Diu","2001",0
+"Hurt","Delhi UT","2001",0
+"Hurt","Goa","2001",0
+"Hurt","Gujarat","2001",284
+"Hurt","Haryana","2001",76
+"Hurt","Himachal Pradesh","2001",1
+"Hurt","Jammu & Kashmir","2001",5
+"Hurt","Jharkhand","2001",37
+"Hurt","Karnataka","2001",181
+"Hurt","Kerala","2001",169
+"Hurt","Lakshadweep","2001",0
+"Hurt","Madhya Pradesh","2001",663
+"Hurt","Maharashtra","2001",48
+"Hurt","Manipur","2001",0
+"Hurt","Meghalaya","2001",0
+"Hurt","Mizoram","2001",0
+"Hurt","Nagaland","2001",0
+"Hurt","Odisha","2001",380
+"Hurt","Puducherry","2001",0
+"Hurt","Punjab","2001",14
+"Hurt","Rajasthan","2001",419
+"Hurt","Sikkim","2001",2
+"Hurt","Tamil Nadu","2001",422
+"Hurt","Tripura","2001",0
+"Hurt","Uttar Pradesh","2001",821
+"Hurt","Uttarakhand","2001",23
+"Hurt","West Bengal","2001",1
+"Kidnapping & Abduction","A&N Islands","2001",0
+"Kidnapping & Abduction","Andhra Pradesh","2001",22
+"Kidnapping & Abduction","Arunachal Pradesh","2001",0
+"Kidnapping & Abduction","Assam","2001",0
+"Kidnapping & Abduction","Bihar","2001",8
+"Kidnapping & Abduction","Chandigarh","2001",0
+"Kidnapping & Abduction","Chhattisgarh","2001",8
+"Kidnapping & Abduction","D&N Haveli","2001",0
+"Kidnapping & Abduction","Daman & Diu","2001",0
+"Kidnapping & Abduction","Delhi UT","2001",0
+"Kidnapping & Abduction","Goa","2001",0
+"Kidnapping & Abduction","Gujarat","2001",20
+"Kidnapping & Abduction","Haryana","2001",15
+"Kidnapping & Abduction","Himachal Pradesh","2001",0
+"Kidnapping & Abduction","Jammu & Kashmir","2001",0
+"Kidnapping & Abduction","Jharkhand","2001",4
+"Kidnapping & Abduction","Karnataka","2001",1
+"Kidnapping & Abduction","Kerala","2001",0
+"Kidnapping & Abduction","Lakshadweep","2001",0
+"Kidnapping & Abduction","Madhya Pradesh","2001",31
+"Kidnapping & Abduction","Maharashtra","2001",5
+"Kidnapping & Abduction","Manipur","2001",0
+"Kidnapping & Abduction","Meghalaya","2001",0
+"Kidnapping & Abduction","Mizoram","2001",0
+"Kidnapping & Abduction","Nagaland","2001",0
+"Kidnapping & Abduction","Odisha","2001",7
+"Kidnapping & Abduction","Puducherry","2001",0
+"Kidnapping & Abduction","Punjab","2001",4
+"Kidnapping & Abduction","Rajasthan","2001",35
+"Kidnapping & Abduction","Sikkim","2001",2
+"Kidnapping & Abduction","Tamil Nadu","2001",16
+"Kidnapping & Abduction","Tripura","2001",0
+"Kidnapping & Abduction","Uttar Pradesh","2001",219
+"Kidnapping & Abduction","Uttarakhand","2001",3
+"Kidnapping & Abduction","West Bengal","2001",0
+"Murder","A&N Islands","2001",0
+"Murder","Andhra Pradesh","2001",45
+"Murder","Arunachal Pradesh","2001",0
+"Murder","Assam","2001",0
+"Murder","Bihar","2001",28
+"Murder","Chandigarh","2001",0
+"Murder","Chhattisgarh","2001",8
+"Murder","D&N Haveli","2001",0
+"Murder","Daman & Diu","2001",0
+"Murder","Delhi UT","2001",0
+"Murder","Goa","2001",0
+"Murder","Gujarat","2001",17
+"Murder","Haryana","2001",7
+"Murder","Himachal Pradesh","2001",1
+"Murder","Jammu & Kashmir","2001",1
+"Murder","Jharkhand","2001",6
+"Murder","Karnataka","2001",22
+"Murder","Kerala","2001",5
+"Murder","Lakshadweep","2001",0
+"Murder","Madhya Pradesh","2001",72
+"Murder","Maharashtra","2001",14
+"Murder","Manipur","2001",0
+"Murder","Meghalaya","2001",0
+"Murder","Mizoram","2001",0
+"Murder","Nagaland","2001",1
+"Murder","Odisha","2001",9
+"Murder","Puducherry","2001",0
+"Murder","Punjab","2001",5
+"Murder","Rajasthan","2001",51
+"Murder","Sikkim","2001",0
+"Murder","Tamil Nadu","2001",38
+"Murder","Tripura","2001",0
+"Murder","Uttar Pradesh","2001",423
+"Murder","Uttarakhand","2001",10
+"Murder","West Bengal","2001",0
+"Other Crimes Against SCs","A&N Islands","2001",0
+"Other Crimes Against SCs","Andhra Pradesh","2001",1006
+"Other Crimes Against SCs","Arunachal Pradesh","2001",0
+"Other Crimes Against SCs","Assam","2001",0
+"Other Crimes Against SCs","Bihar","2001",240
+"Other Crimes Against SCs","Chandigarh","2001",0
+"Other Crimes Against SCs","Chhattisgarh","2001",166
+"Other Crimes Against SCs","D&N Haveli","2001",0
+"Other Crimes Against SCs","Daman & Diu","2001",0
+"Other Crimes Against SCs","Delhi UT","2001",0
+"Other Crimes Against SCs","Goa","2001",0
+"Other Crimes Against SCs","Gujarat","2001",500
+"Other Crimes Against SCs","Haryana","2001",67
+"Other Crimes Against SCs","Himachal Pradesh","2001",56
+"Other Crimes Against SCs","Jammu & Kashmir","2001",3
+"Other Crimes Against SCs","Jharkhand","2001",62
+"Other Crimes Against SCs","Karnataka","2001",316
+"Other Crimes Against SCs","Kerala","2001",127
+"Other Crimes Against SCs","Lakshadweep","2001",0
+"Other Crimes Against SCs","Madhya Pradesh","2001",2645
+"Other Crimes Against SCs","Maharashtra","2001",288
+"Other Crimes Against SCs","Manipur","2001",0
+"Other Crimes Against SCs","Meghalaya","2001",0
+"Other Crimes Against SCs","Mizoram","2001",0
+"Other Crimes Against SCs","Nagaland","2001",0
+"Other Crimes Against SCs","Odisha","2001",620
+"Other Crimes Against SCs","Puducherry","2001",0
+"Other Crimes Against SCs","Punjab","2001",51
+"Other Crimes Against SCs","Rajasthan","2001",1219
+"Other Crimes Against SCs","Sikkim","2001",0
+"Other Crimes Against SCs","Tamil Nadu","2001",1105
+"Other Crimes Against SCs","Tripura","2001",1
+"Other Crimes Against SCs","Uttar Pradesh","2001",3683
+"Other Crimes Against SCs","Uttarakhand","2001",45
+"Other Crimes Against SCs","West Bengal","2001",1
+"Protection of Civil Rights Act","A&N Islands","2001",0
+"Protection of Civil Rights Act","Andhra Pradesh","2001",312
+"Protection of Civil Rights Act","Arunachal Pradesh","2001",0
+"Protection of Civil Rights Act","Assam","2001",0
+"Protection of Civil Rights Act","Bihar","2001",81
+"Protection of Civil Rights Act","Chandigarh","2001",0
+"Protection of Civil Rights Act","Chhattisgarh","2001",1
+"Protection of Civil Rights Act","D&N Haveli","2001",0
+"Protection of Civil Rights Act","Daman & Diu","2001",0
+"Protection of Civil Rights Act","Delhi UT","2001",2
+"Protection of Civil Rights Act","Goa","2001",0
+"Protection of Civil Rights Act","Gujarat","2001",16
+"Protection of Civil Rights Act","Haryana","2001",1
+"Protection of Civil Rights Act","Himachal Pradesh","2001",4
+"Protection of Civil Rights Act","Jammu & Kashmir","2001",0
+"Protection of Civil Rights Act","Jharkhand","2001",0
+"Protection of Civil Rights Act","Karnataka","2001",94
+"Protection of Civil Rights Act","Kerala","2001",0
+"Protection of Civil Rights Act","Lakshadweep","2001",0
+"Protection of Civil Rights Act","Madhya Pradesh","2001",1
+"Protection of Civil Rights Act","Maharashtra","2001",61
+"Protection of Civil Rights Act","Manipur","2001",0
+"Protection of Civil Rights Act","Meghalaya","2001",0
+"Protection of Civil Rights Act","Mizoram","2001",0
+"Protection of Civil Rights Act","Nagaland","2001",0
+"Protection of Civil Rights Act","Odisha","2001",12
+"Protection of Civil Rights Act","Puducherry","2001",13
+"Protection of Civil Rights Act","Punjab","2001",1
+"Protection of Civil Rights Act","Rajasthan","2001",0
+"Protection of Civil Rights Act","Sikkim","2001",0
+"Protection of Civil Rights Act","Tamil Nadu","2001",22
+"Protection of Civil Rights Act","Tripura","2001",0
+"Protection of Civil Rights Act","Uttar Pradesh","2001",12
+"Protection of Civil Rights Act","Uttarakhand","2001",0
+"Protection of Civil Rights Act","West Bengal","2001",0
+"Rape","A&N Islands","2001",0
+"Rape","Andhra Pradesh","2001",69
+"Rape","Arunachal Pradesh","2001",0
+"Rape","Assam","2001",0
+"Rape","Bihar","2001",35
+"Rape","Chandigarh","2001",1
+"Rape","Chhattisgarh","2001",52
+"Rape","D&N Haveli","2001",0
+"Rape","Daman & Diu","2001",0
+"Rape","Delhi UT","2001",0
+"Rape","Goa","2001",0
+"Rape","Gujarat","2001",15
+"Rape","Haryana","2001",25
+"Rape","Himachal Pradesh","2001",7
+"Rape","Jammu & Kashmir","2001",1
+"Rape","Jharkhand","2001",11
+"Rape","Karnataka","2001",20
+"Rape","Kerala","2001",75
+"Rape","Lakshadweep","2001",0
+"Rape","Madhya Pradesh","2001",305
+"Rape","Maharashtra","2001",51
+"Rape","Manipur","2001",0
+"Rape","Meghalaya","2001",0
+"Rape","Mizoram","2001",0
+"Rape","Nagaland","2001",0
+"Rape","Odisha","2001",44
+"Rape","Puducherry","2001",0
+"Rape","Punjab","2001",10
+"Rape","Rajasthan","2001",151
+"Rape","Sikkim","2001",0
+"Rape","Tamil Nadu","2001",27
+"Rape","Tripura","2001",0
+"Rape","Uttar Pradesh","2001",412
+"Rape","Uttarakhand","2001",2
+"Rape","West Bengal","2001",3
+"Robbery","A&N Islands","2001",0
+"Robbery","Andhra Pradesh","2001",2
+"Robbery","Arunachal Pradesh","2001",0
+"Robbery","Assam","2001",1
+"Robbery","Bihar","2001",1
+"Robbery","Chandigarh","2001",0
+"Robbery","Chhattisgarh","2001",1
+"Robbery","D&N Haveli","2001",0
+"Robbery","Daman & Diu","2001",0
+"Robbery","Delhi UT","2001",0
+"Robbery","Goa","2001",0
+"Robbery","Gujarat","2001",17
+"Robbery","Haryana","2001",0
+"Robbery","Himachal Pradesh","2001",0
+"Robbery","Jammu & Kashmir","2001",0
+"Robbery","Jharkhand","2001",0
+"Robbery","Karnataka","2001",3
+"Robbery","Kerala","2001",0
+"Robbery","Lakshadweep","2001",0
+"Robbery","Madhya Pradesh","2001",9
+"Robbery","Maharashtra","2001",3
+"Robbery","Manipur","2001",0
+"Robbery","Meghalaya","2001",0
+"Robbery","Mizoram","2001",1
+"Robbery","Nagaland","2001",0
+"Robbery","Odisha","2001",4
+"Robbery","Puducherry","2001",0
+"Robbery","Punjab","2001",0
+"Robbery","Rajasthan","2001",5
+"Robbery","Sikkim","2001",2
+"Robbery","Tamil Nadu","2001",1
+"Robbery","Tripura","2001",0
+"Robbery","Uttar Pradesh","2001",83
+"Robbery","Uttarakhand","2001",0
+"Robbery","West Bengal","2001",0
+"SC/ST (POA) Act","A&N Islands","2001",0
+"SC/ST (POA) Act","Andhra Pradesh","2001",950
+"SC/ST (POA) Act","Arunachal Pradesh","2001",0
+"SC/ST (POA) Act","Assam","2001",0
+"SC/ST (POA) Act","Bihar","2001",513
+"SC/ST (POA) Act","Chandigarh","2001",2
+"SC/ST (POA) Act","Chhattisgarh","2001",164
+"SC/ST (POA) Act","D&N Haveli","2001",0
+"SC/ST (POA) Act","Daman & Diu","2001",0
+"SC/ST (POA) Act","Delhi UT","2001",17
+"SC/ST (POA) Act","Goa","2001",1
+"SC/ST (POA) Act","Gujarat","2001",356
+"SC/ST (POA) Act","Haryana","2001",33
+"SC/ST (POA) Act","Himachal Pradesh","2001",41
+"SC/ST (POA) Act","Jammu & Kashmir","2001",0
+"SC/ST (POA) Act","Jharkhand","2001",35
+"SC/ST (POA) Act","Karnataka","2001",983
+"SC/ST (POA) Act","Kerala","2001",121
+"SC/ST (POA) Act","Lakshadweep","2001",0
+"SC/ST (POA) Act","Madhya Pradesh","2001",435
+"SC/ST (POA) Act","Maharashtra","2001",146
+"SC/ST (POA) Act","Manipur","2001",0
+"SC/ST (POA) Act","Meghalaya","2001",0
+"SC/ST (POA) Act","Mizoram","2001",0
+"SC/ST (POA) Act","Nagaland","2001",0
+"SC/ST (POA) Act","Odisha","2001",645
+"SC/ST (POA) Act","Puducherry","2001",0
+"SC/ST (POA) Act","Punjab","2001",49
+"SC/ST (POA) Act","Rajasthan","2001",2965
+"SC/ST (POA) Act","Sikkim","2001",0
+"SC/ST (POA) Act","Tamil Nadu","2001",682
+"SC/ST (POA) Act","Tripura","2001",1
+"SC/ST (POA) Act","Uttar Pradesh","2001",4885
+"SC/ST (POA) Act","Uttarakhand","2001",84
+"SC/ST (POA) Act","West Bengal","2001",5
+"Total Crimes against SCs","A&N Islands","2001",0
+"Total Crimes against SCs","Andhra Pradesh","2001",2933
+"Total Crimes against SCs","Arunachal Pradesh","2001",0
+"Total Crimes against SCs","Assam","2001",6
+"Total Crimes against SCs","Bihar","2001",1303
+"Total Crimes against SCs","Chandigarh","2001",3
+"Total Crimes against SCs","Chhattisgarh","2001",501
+"Total Crimes against SCs","D&N Haveli","2001",0
+"Total Crimes against SCs","Daman & Diu","2001",0
+"Total Crimes against SCs","Delhi UT","2001",19
+"Total Crimes against SCs","Goa","2001",1
+"Total Crimes against SCs","Gujarat","2001",1242
+"Total Crimes against SCs","Haryana","2001",229
+"Total Crimes against SCs","Himachal Pradesh","2001",110
+"Total Crimes against SCs","Jammu & Kashmir","2001",10
+"Total Crimes against SCs","Jharkhand","2001",158
+"Total Crimes against SCs","Karnataka","2001",1621
+"Total Crimes against SCs","Kerala","2001",499
+"Total Crimes against SCs","Lakshadweep","2001",0
+"Total Crimes against SCs","Madhya Pradesh","2001",4212
+"Total Crimes against SCs","Maharashtra","2001",625
+"Total Crimes against SCs","Manipur","2001",0
+"Total Crimes against SCs","Meghalaya","2001",0
+"Total Crimes against SCs","Mizoram","2001",1
+"Total Crimes against SCs","Nagaland","2001",1
+"Total Crimes against SCs","Odisha","2001",1734
+"Total Crimes against SCs","Puducherry","2001",13
+"Total Crimes against SCs","Punjab","2001",134
+"Total Crimes against SCs","Rajasthan","2001",4892
+"Total Crimes against SCs","Sikkim","2001",6
+"Total Crimes against SCs","Tamil Nadu","2001",2336
+"Total Crimes against SCs","Tripura","2001",2
+"Total Crimes against SCs","Uttar Pradesh","2001",10732
+"Total Crimes against SCs","Uttarakhand","2001",168
+"Total Crimes against SCs","West Bengal","2001",10
+"Arson","A&N Islands","2002",0
+"Arson","Andhra Pradesh","2002",12
+"Arson","Arunachal Pradesh","2002",0
+"Arson","Assam","2002",2
+"Arson","Bihar","2002",8
+"Arson","Chandigarh","2002",0
+"Arson","Chhattisgarh","2002",5
+"Arson","D&N Haveli","2002",0
+"Arson","Daman & Diu","2002",0
+"Arson","Delhi UT","2002",0
+"Arson","Goa","2002",0
+"Arson","Gujarat","2002",13
+"Arson","Haryana","2002",4
+"Arson","Himachal Pradesh","2002",1
+"Arson","Jammu & Kashmir","2002",1
+"Arson","Jharkhand","2002",2
+"Arson","Karnataka","2002",2
+"Arson","Kerala","2002",4
+"Arson","Lakshadweep","2002",0
+"Arson","Madhya Pradesh","2002",62
+"Arson","Maharashtra","2002",7
+"Arson","Manipur","2002",0
+"Arson","Meghalaya","2002",0
+"Arson","Mizoram","2002",0
+"Arson","Nagaland","2002",0
+"Arson","Odisha","2002",10
+"Arson","Puducherry","2002",0
+"Arson","Punjab","2002",0
+"Arson","Rajasthan","2002",76
+"Arson","Sikkim","2002",0
+"Arson","Tamil Nadu","2002",10
+"Arson","Tripura","2002",0
+"Arson","Uttar Pradesh","2002",103
+"Arson","Uttarakhand","2002",0
+"Arson","West Bengal","2002",0
+"Dacoity","A&N Islands","2002",0
+"Dacoity","Andhra Pradesh","2002",0
+"Dacoity","Arunachal Pradesh","2002",0
+"Dacoity","Assam","2002",0
+"Dacoity","Bihar","2002",3
+"Dacoity","Chandigarh","2002",0
+"Dacoity","Chhattisgarh","2002",1
+"Dacoity","D&N Haveli","2002",0
+"Dacoity","Daman & Diu","2002",0
+"Dacoity","Delhi UT","2002",0
+"Dacoity","Goa","2002",0
+"Dacoity","Gujarat","2002",11
+"Dacoity","Haryana","2002",0
+"Dacoity","Himachal Pradesh","2002",0
+"Dacoity","Jammu & Kashmir","2002",0
+"Dacoity","Jharkhand","2002",2
+"Dacoity","Karnataka","2002",3
+"Dacoity","Kerala","2002",0
+"Dacoity","Lakshadweep","2002",0
+"Dacoity","Madhya Pradesh","2002",0
+"Dacoity","Maharashtra","2002",2
+"Dacoity","Manipur","2002",0
+"Dacoity","Meghalaya","2002",0
+"Dacoity","Mizoram","2002",0
+"Dacoity","Nagaland","2002",0
+"Dacoity","Odisha","2002",2
+"Dacoity","Puducherry","2002",0
+"Dacoity","Punjab","2002",0
+"Dacoity","Rajasthan","2002",1
+"Dacoity","Sikkim","2002",0
+"Dacoity","Tamil Nadu","2002",0
+"Dacoity","Tripura","2002",0
+"Dacoity","Uttar Pradesh","2002",4
+"Dacoity","Uttarakhand","2002",0
+"Dacoity","West Bengal","2002",0
+"Hurt","A&N Islands","2002",0
+"Hurt","Andhra Pradesh","2002",568
+"Hurt","Arunachal Pradesh","2002",0
+"Hurt","Assam","2002",14
+"Hurt","Bihar","2002",360
+"Hurt","Chandigarh","2002",0
+"Hurt","Chhattisgarh","2002",72
+"Hurt","D&N Haveli","2002",0
+"Hurt","Daman & Diu","2002",0
+"Hurt","Delhi UT","2002",0
+"Hurt","Goa","2002",0
+"Hurt","Gujarat","2002",340
+"Hurt","Haryana","2002",61
+"Hurt","Himachal Pradesh","2002",3
+"Hurt","Jammu & Kashmir","2002",2
+"Hurt","Jharkhand","2002",24
+"Hurt","Karnataka","2002",132
+"Hurt","Kerala","2002",162
+"Hurt","Lakshadweep","2002",0
+"Hurt","Madhya Pradesh","2002",1252
+"Hurt","Maharashtra","2002",42
+"Hurt","Manipur","2002",0
+"Hurt","Meghalaya","2002",0
+"Hurt","Mizoram","2002",0
+"Hurt","Nagaland","2002",0
+"Hurt","Odisha","2002",267
+"Hurt","Puducherry","2002",0
+"Hurt","Punjab","2002",6
+"Hurt","Rajasthan","2002",361
+"Hurt","Sikkim","2002",0
+"Hurt","Tamil Nadu","2002",251
+"Hurt","Tripura","2002",0
+"Hurt","Uttar Pradesh","2002",567
+"Hurt","Uttarakhand","2002",7
+"Hurt","West Bengal","2002",0
+"Kidnapping & Abduction","A&N Islands","2002",0
+"Kidnapping & Abduction","Andhra Pradesh","2002",18
+"Kidnapping & Abduction","Arunachal Pradesh","2002",0
+"Kidnapping & Abduction","Assam","2002",4
+"Kidnapping & Abduction","Bihar","2002",1
+"Kidnapping & Abduction","Chandigarh","2002",0
+"Kidnapping & Abduction","Chhattisgarh","2002",10
+"Kidnapping & Abduction","D&N Haveli","2002",0
+"Kidnapping & Abduction","Daman & Diu","2002",0
+"Kidnapping & Abduction","Delhi UT","2002",0
+"Kidnapping & Abduction","Goa","2002",0
+"Kidnapping & Abduction","Gujarat","2002",27
+"Kidnapping & Abduction","Haryana","2002",16
+"Kidnapping & Abduction","Himachal Pradesh","2002",1
+"Kidnapping & Abduction","Jammu & Kashmir","2002",0
+"Kidnapping & Abduction","Jharkhand","2002",3
+"Kidnapping & Abduction","Karnataka","2002",3
+"Kidnapping & Abduction","Kerala","2002",2
+"Kidnapping & Abduction","Lakshadweep","2002",0
+"Kidnapping & Abduction","Madhya Pradesh","2002",49
+"Kidnapping & Abduction","Maharashtra","2002",10
+"Kidnapping & Abduction","Manipur","2002",0
+"Kidnapping & Abduction","Meghalaya","2002",0
+"Kidnapping & Abduction","Mizoram","2002",1
+"Kidnapping & Abduction","Nagaland","2002",0
+"Kidnapping & Abduction","Odisha","2002",6
+"Kidnapping & Abduction","Puducherry","2002",0
+"Kidnapping & Abduction","Punjab","2002",1
+"Kidnapping & Abduction","Rajasthan","2002",27
+"Kidnapping & Abduction","Sikkim","2002",0
+"Kidnapping & Abduction","Tamil Nadu","2002",10
+"Kidnapping & Abduction","Tripura","2002",0
+"Kidnapping & Abduction","Uttar Pradesh","2002",130
+"Kidnapping & Abduction","Uttarakhand","2002",0
+"Kidnapping & Abduction","West Bengal","2002",0
+"Murder","A&N Islands","2002",0
+"Murder","Andhra Pradesh","2002",60
+"Murder","Arunachal Pradesh","2002",0
+"Murder","Assam","2002",3
+"Murder","Bihar","2002",33
+"Murder","Chandigarh","2002",0
+"Murder","Chhattisgarh","2002",11
+"Murder","D&N Haveli","2002",0
+"Murder","Daman & Diu","2002",0
+"Murder","Delhi UT","2002",0
+"Murder","Goa","2002",0
+"Murder","Gujarat","2002",34
+"Murder","Haryana","2002",12
+"Murder","Himachal Pradesh","2002",2
+"Murder","Jammu & Kashmir","2002",1
+"Murder","Jharkhand","2002",1
+"Murder","Karnataka","2002",19
+"Murder","Kerala","2002",2
+"Murder","Lakshadweep","2002",0
+"Murder","Madhya Pradesh","2002",79
+"Murder","Maharashtra","2002",12
+"Murder","Manipur","2002",0
+"Murder","Meghalaya","2002",0
+"Murder","Mizoram","2002",0
+"Murder","Nagaland","2002",3
+"Murder","Odisha","2002",11
+"Murder","Puducherry","2002",0
+"Murder","Punjab","2002",3
+"Murder","Rajasthan","2002",44
+"Murder","Sikkim","2002",0
+"Murder","Tamil Nadu","2002",34
+"Murder","Tripura","2002",0
+"Murder","Uttar Pradesh","2002",371
+"Murder","Uttarakhand","2002",4
+"Murder","West Bengal","2002",0
+"Other Crimes Against SCs","A&N Islands","2002",0
+"Other Crimes Against SCs","Andhra Pradesh","2002",1336
+"Other Crimes Against SCs","Arunachal Pradesh","2002",0
+"Other Crimes Against SCs","Assam","2002",22
+"Other Crimes Against SCs","Bihar","2002",306
+"Other Crimes Against SCs","Chandigarh","2002",0
+"Other Crimes Against SCs","Chhattisgarh","2002",181
+"Other Crimes Against SCs","D&N Haveli","2002",0
+"Other Crimes Against SCs","Daman & Diu","2002",0
+"Other Crimes Against SCs","Delhi UT","2002",0
+"Other Crimes Against SCs","Goa","2002",1
+"Other Crimes Against SCs","Gujarat","2002",566
+"Other Crimes Against SCs","Haryana","2002",91
+"Other Crimes Against SCs","Himachal Pradesh","2002",36
+"Other Crimes Against SCs","Jammu & Kashmir","2002",5
+"Other Crimes Against SCs","Jharkhand","2002",31
+"Other Crimes Against SCs","Karnataka","2002",405
+"Other Crimes Against SCs","Kerala","2002",77
+"Other Crimes Against SCs","Lakshadweep","2002",0
+"Other Crimes Against SCs","Madhya Pradesh","2002",4771
+"Other Crimes Against SCs","Maharashtra","2002",283
+"Other Crimes Against SCs","Manipur","2002",0
+"Other Crimes Against SCs","Meghalaya","2002",0
+"Other Crimes Against SCs","Mizoram","2002",0
+"Other Crimes Against SCs","Nagaland","2002",11
+"Other Crimes Against SCs","Odisha","2002",386
+"Other Crimes Against SCs","Puducherry","2002",0
+"Other Crimes Against SCs","Punjab","2002",54
+"Other Crimes Against SCs","Rajasthan","2002",1513
+"Other Crimes Against SCs","Sikkim","2002",0
+"Other Crimes Against SCs","Tamil Nadu","2002",993
+"Other Crimes Against SCs","Tripura","2002",0
+"Other Crimes Against SCs","Uttar Pradesh","2002",3314
+"Other Crimes Against SCs","Uttarakhand","2002",0
+"Other Crimes Against SCs","West Bengal","2002",1
+"Protection of Civil Rights Act","A&N Islands","2002",0
+"Protection of Civil Rights Act","Andhra Pradesh","2002",459
+"Protection of Civil Rights Act","Arunachal Pradesh","2002",0
+"Protection of Civil Rights Act","Assam","2002",0
+"Protection of Civil Rights Act","Bihar","2002",113
+"Protection of Civil Rights Act","Chandigarh","2002",0
+"Protection of Civil Rights Act","Chhattisgarh","2002",22
+"Protection of Civil Rights Act","D&N Haveli","2002",0
+"Protection of Civil Rights Act","Daman & Diu","2002",0
+"Protection of Civil Rights Act","Delhi UT","2002",1
+"Protection of Civil Rights Act","Goa","2002",0
+"Protection of Civil Rights Act","Gujarat","2002",6
+"Protection of Civil Rights Act","Haryana","2002",0
+"Protection of Civil Rights Act","Himachal Pradesh","2002",10
+"Protection of Civil Rights Act","Jammu & Kashmir","2002",0
+"Protection of Civil Rights Act","Jharkhand","2002",0
+"Protection of Civil Rights Act","Karnataka","2002",101
+"Protection of Civil Rights Act","Kerala","2002",0
+"Protection of Civil Rights Act","Lakshadweep","2002",0
+"Protection of Civil Rights Act","Madhya Pradesh","2002",5
+"Protection of Civil Rights Act","Maharashtra","2002",76
+"Protection of Civil Rights Act","Manipur","2002",0
+"Protection of Civil Rights Act","Meghalaya","2002",0
+"Protection of Civil Rights Act","Mizoram","2002",0
+"Protection of Civil Rights Act","Nagaland","2002",0
+"Protection of Civil Rights Act","Odisha","2002",3
+"Protection of Civil Rights Act","Puducherry","2002",18
+"Protection of Civil Rights Act","Punjab","2002",2
+"Protection of Civil Rights Act","Rajasthan","2002",1
+"Protection of Civil Rights Act","Sikkim","2002",0
+"Protection of Civil Rights Act","Tamil Nadu","2002",79
+"Protection of Civil Rights Act","Tripura","2002",0
+"Protection of Civil Rights Act","Uttar Pradesh","2002",122
+"Protection of Civil Rights Act","Uttarakhand","2002",0
+"Protection of Civil Rights Act","West Bengal","2002",0
+"Rape","A&N Islands","2002",0
+"Rape","Andhra Pradesh","2002",98
+"Rape","Arunachal Pradesh","2002",0
+"Rape","Assam","2002",0
+"Rape","Bihar","2002",36
+"Rape","Chandigarh","2002",0
+"Rape","Chhattisgarh","2002",64
+"Rape","D&N Haveli","2002",0
+"Rape","Daman & Diu","2002",0
+"Rape","Delhi UT","2002",0
+"Rape","Goa","2002",0
+"Rape","Gujarat","2002",17
+"Rape","Haryana","2002",26
+"Rape","Himachal Pradesh","2002",12
+"Rape","Jammu & Kashmir","2002",4
+"Rape","Jharkhand","2002",9
+"Rape","Karnataka","2002",22
+"Rape","Kerala","2002",48
+"Rape","Lakshadweep","2002",0
+"Rape","Madhya Pradesh","2002",412
+"Rape","Maharashtra","2002",64
+"Rape","Manipur","2002",0
+"Rape","Meghalaya","2002",0
+"Rape","Mizoram","2002",0
+"Rape","Nagaland","2002",3
+"Rape","Odisha","2002",38
+"Rape","Puducherry","2002",0
+"Rape","Punjab","2002",12
+"Rape","Rajasthan","2002",123
+"Rape","Sikkim","2002",1
+"Rape","Tamil Nadu","2002",33
+"Rape","Tripura","2002",0
+"Rape","Uttar Pradesh","2002",305
+"Rape","Uttarakhand","2002",3
+"Rape","West Bengal","2002",1
+"Robbery","A&N Islands","2002",0
+"Robbery","Andhra Pradesh","2002",4
+"Robbery","Arunachal Pradesh","2002",0
+"Robbery","Assam","2002",2
+"Robbery","Bihar","2002",4
+"Robbery","Chandigarh","2002",0
+"Robbery","Chhattisgarh","2002",0
+"Robbery","D&N Haveli","2002",0
+"Robbery","Daman & Diu","2002",0
+"Robbery","Delhi UT","2002",0
+"Robbery","Goa","2002",0
+"Robbery","Gujarat","2002",24
+"Robbery","Haryana","2002",1
+"Robbery","Himachal Pradesh","2002",0
+"Robbery","Jammu & Kashmir","2002",0
+"Robbery","Jharkhand","2002",0
+"Robbery","Karnataka","2002",1
+"Robbery","Kerala","2002",0
+"Robbery","Lakshadweep","2002",0
+"Robbery","Madhya Pradesh","2002",17
+"Robbery","Maharashtra","2002",2
+"Robbery","Manipur","2002",0
+"Robbery","Meghalaya","2002",0
+"Robbery","Mizoram","2002",0
+"Robbery","Nagaland","2002",0
+"Robbery","Odisha","2002",6
+"Robbery","Puducherry","2002",0
+"Robbery","Punjab","2002",0
+"Robbery","Rajasthan","2002",5
+"Robbery","Sikkim","2002",0
+"Robbery","Tamil Nadu","2002",2
+"Robbery","Tripura","2002",0
+"Robbery","Uttar Pradesh","2002",37
+"Robbery","Uttarakhand","2002",0
+"Robbery","West Bengal","2002",0
+"SC/ST (POA) Act","A&N Islands","2002",0
+"SC/ST (POA) Act","Andhra Pradesh","2002",830
+"SC/ST (POA) Act","Arunachal Pradesh","2002",0
+"SC/ST (POA) Act","Assam","2002",0
+"SC/ST (POA) Act","Bihar","2002",715
+"SC/ST (POA) Act","Chandigarh","2002",0
+"SC/ST (POA) Act","Chhattisgarh","2002",77
+"SC/ST (POA) Act","D&N Haveli","2002",0
+"SC/ST (POA) Act","Daman & Diu","2002",0
+"SC/ST (POA) Act","Delhi UT","2002",15
+"SC/ST (POA) Act","Goa","2002",1
+"SC/ST (POA) Act","Gujarat","2002",332
+"SC/ST (POA) Act","Haryana","2002",32
+"SC/ST (POA) Act","Himachal Pradesh","2002",32
+"SC/ST (POA) Act","Jammu & Kashmir","2002",0
+"SC/ST (POA) Act","Jharkhand","2002",53
+"SC/ST (POA) Act","Karnataka","2002",1099
+"SC/ST (POA) Act","Kerala","2002",229
+"SC/ST (POA) Act","Lakshadweep","2002",0
+"SC/ST (POA) Act","Madhya Pradesh","2002",570
+"SC/ST (POA) Act","Maharashtra","2002",136
+"SC/ST (POA) Act","Manipur","2002",0
+"SC/ST (POA) Act","Meghalaya","2002",0
+"SC/ST (POA) Act","Mizoram","2002",0
+"SC/ST (POA) Act","Nagaland","2002",0
+"SC/ST (POA) Act","Odisha","2002",466
+"SC/ST (POA) Act","Puducherry","2002",0
+"SC/ST (POA) Act","Punjab","2002",53
+"SC/ST (POA) Act","Rajasthan","2002",2384
+"SC/ST (POA) Act","Sikkim","2002",0
+"SC/ST (POA) Act","Tamil Nadu","2002",685
+"SC/ST (POA) Act","Tripura","2002",0
+"SC/ST (POA) Act","Uttar Pradesh","2002",2974
+"SC/ST (POA) Act","Uttarakhand","2002",85
+"SC/ST (POA) Act","West Bengal","2002",2
+"Total Crimes against SCs","A&N Islands","2002",0
+"Total Crimes against SCs","Andhra Pradesh","2002",3385
+"Total Crimes against SCs","Arunachal Pradesh","2002",0
+"Total Crimes against SCs","Assam","2002",47
+"Total Crimes against SCs","Bihar","2002",1579
+"Total Crimes against SCs","Chandigarh","2002",0
+"Total Crimes against SCs","Chhattisgarh","2002",443
+"Total Crimes against SCs","D&N Haveli","2002",0
+"Total Crimes against SCs","Daman & Diu","2002",0
+"Total Crimes against SCs","Delhi UT","2002",16
+"Total Crimes against SCs","Goa","2002",2
+"Total Crimes against SCs","Gujarat","2002",1370
+"Total Crimes against SCs","Haryana","2002",243
+"Total Crimes against SCs","Himachal Pradesh","2002",97
+"Total Crimes against SCs","Jammu & Kashmir","2002",13
+"Total Crimes against SCs","Jharkhand","2002",125
+"Total Crimes against SCs","Karnataka","2002",1787
+"Total Crimes against SCs","Kerala","2002",524
+"Total Crimes against SCs","Lakshadweep","2002",0
+"Total Crimes against SCs","Madhya Pradesh","2002",7217
+"Total Crimes against SCs","Maharashtra","2002",634
+"Total Crimes against SCs","Manipur","2002",0
+"Total Crimes against SCs","Meghalaya","2002",0
+"Total Crimes against SCs","Mizoram","2002",1
+"Total Crimes against SCs","Nagaland","2002",17
+"Total Crimes against SCs","Odisha","2002",1195
+"Total Crimes against SCs","Puducherry","2002",18
+"Total Crimes against SCs","Punjab","2002",131
+"Total Crimes against SCs","Rajasthan","2002",4535
+"Total Crimes against SCs","Sikkim","2002",1
+"Total Crimes against SCs","Tamil Nadu","2002",2097
+"Total Crimes against SCs","Tripura","2002",0
+"Total Crimes against SCs","Uttar Pradesh","2002",7927
+"Total Crimes against SCs","Uttarakhand","2002",99
+"Total Crimes against SCs","West Bengal","2002",4
+"Arson","A&N Islands","2003",0
+"Arson","Andhra Pradesh","2003",4
+"Arson","Arunachal Pradesh","2003",0
+"Arson","Assam","2003",3
+"Arson","Bihar","2003",42
+"Arson","Chandigarh","2003",0
+"Arson","Chhattisgarh","2003",1
+"Arson","D&N Haveli","2003",0
+"Arson","Daman & Diu","2003",0
+"Arson","Delhi UT","2003",0
+"Arson","Goa","2003",0
+"Arson","Gujarat","2003",13
+"Arson","Haryana","2003",1
+"Arson","Himachal Pradesh","2003",0
+"Arson","Jammu & Kashmir","2003",0
+"Arson","Jharkhand","2003",2
+"Arson","Karnataka","2003",3
+"Arson","Kerala","2003",2
+"Arson","Lakshadweep","2003",0
+"Arson","Madhya Pradesh","2003",53
+"Arson","Maharashtra","2003",5
+"Arson","Manipur","2003",0
+"Arson","Meghalaya","2003",0
+"Arson","Mizoram","2003",0
+"Arson","Nagaland","2003",0
+"Arson","Odisha","2003",12
+"Arson","Puducherry","2003",0
+"Arson","Punjab","2003",0
+"Arson","Rajasthan","2003",51
+"Arson","Sikkim","2003",0
+"Arson","Tamil Nadu","2003",0
+"Arson","Tripura","2003",0
+"Arson","Uttar Pradesh","2003",12
+"Arson","Uttarakhand","2003",0
+"Arson","West Bengal","2003",0
+"Dacoity","A&N Islands","2003",0
+"Dacoity","Andhra Pradesh","2003",1
+"Dacoity","Arunachal Pradesh","2003",0
+"Dacoity","Assam","2003",0
+"Dacoity","Bihar","2003",2
+"Dacoity","Chandigarh","2003",0
+"Dacoity","Chhattisgarh","2003",0
+"Dacoity","D&N Haveli","2003",0
+"Dacoity","Daman & Diu","2003",0
+"Dacoity","Delhi UT","2003",0
+"Dacoity","Goa","2003",0
+"Dacoity","Gujarat","2003",7
+"Dacoity","Haryana","2003",0
+"Dacoity","Himachal Pradesh","2003",8
+"Dacoity","Jammu & Kashmir","2003",0
+"Dacoity","Jharkhand","2003",0
+"Dacoity","Karnataka","2003",0
+"Dacoity","Kerala","2003",1
+"Dacoity","Lakshadweep","2003",0
+"Dacoity","Madhya Pradesh","2003",0
+"Dacoity","Maharashtra","2003",1
+"Dacoity","Manipur","2003",0
+"Dacoity","Meghalaya","2003",0
+"Dacoity","Mizoram","2003",0
+"Dacoity","Nagaland","2003",0
+"Dacoity","Odisha","2003",0
+"Dacoity","Puducherry","2003",0
+"Dacoity","Punjab","2003",0
+"Dacoity","Rajasthan","2003",0
+"Dacoity","Sikkim","2003",0
+"Dacoity","Tamil Nadu","2003",0
+"Dacoity","Tripura","2003",0
+"Dacoity","Uttar Pradesh","2003",4
+"Dacoity","Uttarakhand","2003",0
+"Dacoity","West Bengal","2003",0
+"Hurt","A&N Islands","2003",0
+"Hurt","Andhra Pradesh","2003",615
+"Hurt","Arunachal Pradesh","2003",0
+"Hurt","Assam","2003",23
+"Hurt","Bihar","2003",492
+"Hurt","Chandigarh","2003",0
+"Hurt","Chhattisgarh","2003",102
+"Hurt","D&N Haveli","2003",0
+"Hurt","Daman & Diu","2003",0
+"Hurt","Delhi UT","2003",0
+"Hurt","Goa","2003",0
+"Hurt","Gujarat","2003",305
+"Hurt","Haryana","2003",43
+"Hurt","Himachal Pradesh","2003",3
+"Hurt","Jammu & Kashmir","2003",0
+"Hurt","Jharkhand","2003",9
+"Hurt","Karnataka","2003",99
+"Hurt","Kerala","2003",114
+"Hurt","Lakshadweep","2003",0
+"Hurt","Madhya Pradesh","2003",858
+"Hurt","Maharashtra","2003",41
+"Hurt","Manipur","2003",0
+"Hurt","Meghalaya","2003",0
+"Hurt","Mizoram","2003",0
+"Hurt","Nagaland","2003",0
+"Hurt","Odisha","2003",234
+"Hurt","Puducherry","2003",4
+"Hurt","Punjab","2003",10
+"Hurt","Rajasthan","2003",632
+"Hurt","Sikkim","2003",1
+"Hurt","Tamil Nadu","2003",163
+"Hurt","Tripura","2003",0
+"Hurt","Uttar Pradesh","2003",172
+"Hurt","Uttarakhand","2003",48
+"Hurt","West Bengal","2003",1
+"Kidnapping & Abduction","A&N Islands","2003",0
+"Kidnapping & Abduction","Andhra Pradesh","2003",27
+"Kidnapping & Abduction","Arunachal Pradesh","2003",0
+"Kidnapping & Abduction","Assam","2003",4
+"Kidnapping & Abduction","Bihar","2003",4
+"Kidnapping & Abduction","Chandigarh","2003",0
+"Kidnapping & Abduction","Chhattisgarh","2003",7
+"Kidnapping & Abduction","D&N Haveli","2003",0
+"Kidnapping & Abduction","Daman & Diu","2003",0
+"Kidnapping & Abduction","Delhi UT","2003",0
+"Kidnapping & Abduction","Goa","2003",0
+"Kidnapping & Abduction","Gujarat","2003",18
+"Kidnapping & Abduction","Haryana","2003",9
+"Kidnapping & Abduction","Himachal Pradesh","2003",0
+"Kidnapping & Abduction","Jammu & Kashmir","2003",0
+"Kidnapping & Abduction","Jharkhand","2003",0
+"Kidnapping & Abduction","Karnataka","2003",2
+"Kidnapping & Abduction","Kerala","2003",2
+"Kidnapping & Abduction","Lakshadweep","2003",0
+"Kidnapping & Abduction","Madhya Pradesh","2003",33
+"Kidnapping & Abduction","Maharashtra","2003",7
+"Kidnapping & Abduction","Manipur","2003",0
+"Kidnapping & Abduction","Meghalaya","2003",0
+"Kidnapping & Abduction","Mizoram","2003",0
+"Kidnapping & Abduction","Nagaland","2003",0
+"Kidnapping & Abduction","Odisha","2003",8
+"Kidnapping & Abduction","Puducherry","2003",0
+"Kidnapping & Abduction","Punjab","2003",1
+"Kidnapping & Abduction","Rajasthan","2003",23
+"Kidnapping & Abduction","Sikkim","2003",0
+"Kidnapping & Abduction","Tamil Nadu","2003",5
+"Kidnapping & Abduction","Tripura","2003",0
+"Kidnapping & Abduction","Uttar Pradesh","2003",78
+"Kidnapping & Abduction","Uttarakhand","2003",4
+"Kidnapping & Abduction","West Bengal","2003",0
+"Murder","A&N Islands","2003",0
+"Murder","Andhra Pradesh","2003",33
+"Murder","Arunachal Pradesh","2003",0
+"Murder","Assam","2003",8
+"Murder","Bihar","2003",9
+"Murder","Chandigarh","2003",0
+"Murder","Chhattisgarh","2003",12
+"Murder","D&N Haveli","2003",0
+"Murder","Daman & Diu","2003",0
+"Murder","Delhi UT","2003",1
+"Murder","Goa","2003",0
+"Murder","Gujarat","2003",12
+"Murder","Haryana","2003",9
+"Murder","Himachal Pradesh","2003",3
+"Murder","Jammu & Kashmir","2003",1
+"Murder","Jharkhand","2003",4
+"Murder","Karnataka","2003",31
+"Murder","Kerala","2003",3
+"Murder","Lakshadweep","2003",0
+"Murder","Madhya Pradesh","2003",83
+"Murder","Maharashtra","2003",19
+"Murder","Manipur","2003",0
+"Murder","Meghalaya","2003",0
+"Murder","Mizoram","2003",0
+"Murder","Nagaland","2003",5
+"Murder","Odisha","2003",8
+"Murder","Puducherry","2003",0
+"Murder","Punjab","2003",0
+"Murder","Rajasthan","2003",30
+"Murder","Sikkim","2003",1
+"Murder","Tamil Nadu","2003",16
+"Murder","Tripura","2003",0
+"Murder","Uttar Pradesh","2003",288
+"Murder","Uttarakhand","2003",5
+"Murder","West Bengal","2003",0
+"Other Crimes Against SCs","A&N Islands","2003",0
+"Other Crimes Against SCs","Andhra Pradesh","2003",1386
+"Other Crimes Against SCs","Arunachal Pradesh","2003",0
+"Other Crimes Against SCs","Assam","2003",21
+"Other Crimes Against SCs","Bihar","2003",204
+"Other Crimes Against SCs","Chandigarh","2003",0
+"Other Crimes Against SCs","Chhattisgarh","2003",383
+"Other Crimes Against SCs","D&N Haveli","2003",0
+"Other Crimes Against SCs","Daman & Diu","2003",0
+"Other Crimes Against SCs","Delhi UT","2003",0
+"Other Crimes Against SCs","Goa","2003",1
+"Other Crimes Against SCs","Gujarat","2003",445
+"Other Crimes Against SCs","Haryana","2003",73
+"Other Crimes Against SCs","Himachal Pradesh","2003",43
+"Other Crimes Against SCs","Jammu & Kashmir","2003",2
+"Other Crimes Against SCs","Jharkhand","2003",22
+"Other Crimes Against SCs","Karnataka","2003",460
+"Other Crimes Against SCs","Kerala","2003",120
+"Other Crimes Against SCs","Lakshadweep","2003",0
+"Other Crimes Against SCs","Madhya Pradesh","2003",3676
+"Other Crimes Against SCs","Maharashtra","2003",290
+"Other Crimes Against SCs","Manipur","2003",0
+"Other Crimes Against SCs","Meghalaya","2003",0
+"Other Crimes Against SCs","Mizoram","2003",0
+"Other Crimes Against SCs","Nagaland","2003",20
+"Other Crimes Against SCs","Odisha","2003",427
+"Other Crimes Against SCs","Puducherry","2003",1
+"Other Crimes Against SCs","Punjab","2003",56
+"Other Crimes Against SCs","Rajasthan","2003",2569
+"Other Crimes Against SCs","Sikkim","2003",3
+"Other Crimes Against SCs","Tamil Nadu","2003",311
+"Other Crimes Against SCs","Tripura","2003",0
+"Other Crimes Against SCs","Uttar Pradesh","2003",885
+"Other Crimes Against SCs","Uttarakhand","2003",0
+"Other Crimes Against SCs","West Bengal","2003",3
+"Protection of Civil Rights Act","A&N Islands","2003",0
+"Protection of Civil Rights Act","Andhra Pradesh","2003",165
+"Protection of Civil Rights Act","Arunachal Pradesh","2003",0
+"Protection of Civil Rights Act","Assam","2003",0
+"Protection of Civil Rights Act","Bihar","2003",82
+"Protection of Civil Rights Act","Chandigarh","2003",0
+"Protection of Civil Rights Act","Chhattisgarh","2003",0
+"Protection of Civil Rights Act","D&N Haveli","2003",0
+"Protection of Civil Rights Act","Daman & Diu","2003",0
+"Protection of Civil Rights Act","Delhi UT","2003",0
+"Protection of Civil Rights Act","Goa","2003",0
+"Protection of Civil Rights Act","Gujarat","2003",7
+"Protection of Civil Rights Act","Haryana","2003",0
+"Protection of Civil Rights Act","Himachal Pradesh","2003",1
+"Protection of Civil Rights Act","Jammu & Kashmir","2003",0
+"Protection of Civil Rights Act","Jharkhand","2003",0
+"Protection of Civil Rights Act","Karnataka","2003",68
+"Protection of Civil Rights Act","Kerala","2003",0
+"Protection of Civil Rights Act","Lakshadweep","2003",0
+"Protection of Civil Rights Act","Madhya Pradesh","2003",1
+"Protection of Civil Rights Act","Maharashtra","2003",43
+"Protection of Civil Rights Act","Manipur","2003",0
+"Protection of Civil Rights Act","Meghalaya","2003",0
+"Protection of Civil Rights Act","Mizoram","2003",0
+"Protection of Civil Rights Act","Nagaland","2003",0
+"Protection of Civil Rights Act","Odisha","2003",0
+"Protection of Civil Rights Act","Puducherry","2003",16
+"Protection of Civil Rights Act","Punjab","2003",1
+"Protection of Civil Rights Act","Rajasthan","2003",0
+"Protection of Civil Rights Act","Sikkim","2003",0
+"Protection of Civil Rights Act","Tamil Nadu","2003",198
+"Protection of Civil Rights Act","Tripura","2003",0
+"Protection of Civil Rights Act","Uttar Pradesh","2003",52
+"Protection of Civil Rights Act","Uttarakhand","2003",0
+"Protection of Civil Rights Act","West Bengal","2003",0
+"Rape","A&N Islands","2003",0
+"Rape","Andhra Pradesh","2003",79
+"Rape","Arunachal Pradesh","2003",0
+"Rape","Assam","2003",7
+"Rape","Bihar","2003",6
+"Rape","Chandigarh","2003",1
+"Rape","Chhattisgarh","2003",46
+"Rape","D&N Haveli","2003",0
+"Rape","Daman & Diu","2003",0
+"Rape","Delhi UT","2003",0
+"Rape","Goa","2003",0
+"Rape","Gujarat","2003",23
+"Rape","Haryana","2003",24
+"Rape","Himachal Pradesh","2003",7
+"Rape","Jammu & Kashmir","2003",2
+"Rape","Jharkhand","2003",3
+"Rape","Karnataka","2003",26
+"Rape","Kerala","2003",24
+"Rape","Lakshadweep","2003",0
+"Rape","Madhya Pradesh","2003",349
+"Rape","Maharashtra","2003",72
+"Rape","Manipur","2003",0
+"Rape","Meghalaya","2003",0
+"Rape","Mizoram","2003",0
+"Rape","Nagaland","2003",2
+"Rape","Odisha","2003",29
+"Rape","Puducherry","2003",0
+"Rape","Punjab","2003",8
+"Rape","Rajasthan","2003",154
+"Rape","Sikkim","2003",2
+"Rape","Tamil Nadu","2003",25
+"Rape","Tripura","2003",0
+"Rape","Uttar Pradesh","2003",194
+"Rape","Uttarakhand","2003",6
+"Rape","West Bengal","2003",0
+"Robbery","A&N Islands","2003",0
+"Robbery","Andhra Pradesh","2003",15
+"Robbery","Arunachal Pradesh","2003",0
+"Robbery","Assam","2003",1
+"Robbery","Bihar","2003",2
+"Robbery","Chandigarh","2003",0
+"Robbery","Chhattisgarh","2003",3
+"Robbery","D&N Haveli","2003",0
+"Robbery","Daman & Diu","2003",0
+"Robbery","Delhi UT","2003",0
+"Robbery","Goa","2003",0
+"Robbery","Gujarat","2003",15
+"Robbery","Haryana","2003",0
+"Robbery","Himachal Pradesh","2003",6
+"Robbery","Jammu & Kashmir","2003",0
+"Robbery","Jharkhand","2003",0
+"Robbery","Karnataka","2003",0
+"Robbery","Kerala","2003",0
+"Robbery","Lakshadweep","2003",0
+"Robbery","Madhya Pradesh","2003",9
+"Robbery","Maharashtra","2003",3
+"Robbery","Manipur","2003",0
+"Robbery","Meghalaya","2003",0
+"Robbery","Mizoram","2003",0
+"Robbery","Nagaland","2003",0
+"Robbery","Odisha","2003",4
+"Robbery","Puducherry","2003",0
+"Robbery","Punjab","2003",0
+"Robbery","Rajasthan","2003",3
+"Robbery","Sikkim","2003",0
+"Robbery","Tamil Nadu","2003",1
+"Robbery","Tripura","2003",0
+"Robbery","Uttar Pradesh","2003",8
+"Robbery","Uttarakhand","2003",0
+"Robbery","West Bengal","2003",0
+"SC/ST (POA) Act","A&N Islands","2003",0
+"SC/ST (POA) Act","Andhra Pradesh","2003",1234
+"SC/ST (POA) Act","Arunachal Pradesh","2003",0
+"SC/ST (POA) Act","Assam","2003",0
+"SC/ST (POA) Act","Bihar","2003",904
+"SC/ST (POA) Act","Chandigarh","2003",0
+"SC/ST (POA) Act","Chhattisgarh","2003",155
+"SC/ST (POA) Act","D&N Haveli","2003",0
+"SC/ST (POA) Act","Daman & Diu","2003",0
+"SC/ST (POA) Act","Delhi UT","2003",12
+"SC/ST (POA) Act","Goa","2003",1
+"SC/ST (POA) Act","Gujarat","2003",320
+"SC/ST (POA) Act","Haryana","2003",36
+"SC/ST (POA) Act","Himachal Pradesh","2003",36
+"SC/ST (POA) Act","Jammu & Kashmir","2003",0
+"SC/ST (POA) Act","Jharkhand","2003",36
+"SC/ST (POA) Act","Karnataka","2003",1155
+"SC/ST (POA) Act","Kerala","2003",173
+"SC/ST (POA) Act","Lakshadweep","2003",0
+"SC/ST (POA) Act","Madhya Pradesh","2003",445
+"SC/ST (POA) Act","Maharashtra","2003",216
+"SC/ST (POA) Act","Manipur","2003",0
+"SC/ST (POA) Act","Meghalaya","2003",0
+"SC/ST (POA) Act","Mizoram","2003",0
+"SC/ST (POA) Act","Nagaland","2003",0
+"SC/ST (POA) Act","Odisha","2003",435
+"SC/ST (POA) Act","Puducherry","2003",1
+"SC/ST (POA) Act","Punjab","2003",51
+"SC/ST (POA) Act","Rajasthan","2003",867
+"SC/ST (POA) Act","Sikkim","2003",0
+"SC/ST (POA) Act","Tamil Nadu","2003",776
+"SC/ST (POA) Act","Tripura","2003",0
+"SC/ST (POA) Act","Uttar Pradesh","2003",1128
+"SC/ST (POA) Act","Uttarakhand","2003",66
+"SC/ST (POA) Act","West Bengal","2003",1
+"Total Crimes against SCs","A&N Islands","2003",0
+"Total Crimes against SCs","Andhra Pradesh","2003",3559
+"Total Crimes against SCs","Arunachal Pradesh","2003",0
+"Total Crimes against SCs","Assam","2003",67
+"Total Crimes against SCs","Bihar","2003",1747
+"Total Crimes against SCs","Chandigarh","2003",1
+"Total Crimes against SCs","Chhattisgarh","2003",709
+"Total Crimes against SCs","D&N Haveli","2003",0
+"Total Crimes against SCs","Daman & Diu","2003",0
+"Total Crimes against SCs","Delhi UT","2003",13
+"Total Crimes against SCs","Goa","2003",2
+"Total Crimes against SCs","Gujarat","2003",1165
+"Total Crimes against SCs","Haryana","2003",195
+"Total Crimes against SCs","Himachal Pradesh","2003",107
+"Total Crimes against SCs","Jammu & Kashmir","2003",5
+"Total Crimes against SCs","Jharkhand","2003",76
+"Total Crimes against SCs","Karnataka","2003",1844
+"Total Crimes against SCs","Kerala","2003",439
+"Total Crimes against SCs","Lakshadweep","2003",0
+"Total Crimes against SCs","Madhya Pradesh","2003",5507
+"Total Crimes against SCs","Maharashtra","2003",697
+"Total Crimes against SCs","Manipur","2003",0
+"Total Crimes against SCs","Meghalaya","2003",0
+"Total Crimes against SCs","Mizoram","2003",0
+"Total Crimes against SCs","Nagaland","2003",27
+"Total Crimes against SCs","Odisha","2003",1157
+"Total Crimes against SCs","Puducherry","2003",22
+"Total Crimes against SCs","Punjab","2003",127
+"Total Crimes against SCs","Rajasthan","2003",4329
+"Total Crimes against SCs","Sikkim","2003",7
+"Total Crimes against SCs","Tamil Nadu","2003",1495
+"Total Crimes against SCs","Tripura","2003",0
+"Total Crimes against SCs","Uttar Pradesh","2003",2821
+"Total Crimes against SCs","Uttarakhand","2003",129
+"Total Crimes against SCs","West Bengal","2003",5
+"Arson","A&N Islands","2004",0
+"Arson","Andhra Pradesh","2004",20
+"Arson","Arunachal Pradesh","2004",0
+"Arson","Assam","2004",1
+"Arson","Bihar","2004",30
+"Arson","Chandigarh","2004",0
+"Arson","Chhattisgarh","2004",4
+"Arson","D&N Haveli","2004",0
+"Arson","Daman & Diu","2004",0
+"Arson","Delhi UT","2004",0
+"Arson","Goa","2004",0
+"Arson","Gujarat","2004",15
+"Arson","Haryana","2004",0
+"Arson","Himachal Pradesh","2004",0
+"Arson","Jammu & Kashmir","2004",0
+"Arson","Jharkhand","2004",2
+"Arson","Karnataka","2004",5
+"Arson","Kerala","2004",1
+"Arson","Lakshadweep","2004",0
+"Arson","Madhya Pradesh","2004",26
+"Arson","Maharashtra","2004",11
+"Arson","Manipur","2004",0
+"Arson","Meghalaya","2004",0
+"Arson","Mizoram","2004",0
+"Arson","Nagaland","2004",0
+"Arson","Odisha","2004",10
+"Arson","Puducherry","2004",0
+"Arson","Punjab","2004",0
+"Arson","Rajasthan","2004",41
+"Arson","Sikkim","2004",0
+"Arson","Tamil Nadu","2004",3
+"Arson","Tripura","2004",0
+"Arson","Uttar Pradesh","2004",40
+"Arson","Uttarakhand","2004",2
+"Arson","West Bengal","2004",0
+"Dacoity","A&N Islands","2004",0
+"Dacoity","Andhra Pradesh","2004",0
+"Dacoity","Arunachal Pradesh","2004",0
+"Dacoity","Assam","2004",0
+"Dacoity","Bihar","2004",3
+"Dacoity","Chandigarh","2004",0
+"Dacoity","Chhattisgarh","2004",0
+"Dacoity","D&N Haveli","2004",0
+"Dacoity","Daman & Diu","2004",0
+"Dacoity","Delhi UT","2004",0
+"Dacoity","Goa","2004",0
+"Dacoity","Gujarat","2004",4
+"Dacoity","Haryana","2004",0
+"Dacoity","Himachal Pradesh","2004",0
+"Dacoity","Jammu & Kashmir","2004",0
+"Dacoity","Jharkhand","2004",2
+"Dacoity","Karnataka","2004",3
+"Dacoity","Kerala","2004",0
+"Dacoity","Lakshadweep","2004",0
+"Dacoity","Madhya Pradesh","2004",3
+"Dacoity","Maharashtra","2004",6
+"Dacoity","Manipur","2004",0
+"Dacoity","Meghalaya","2004",0
+"Dacoity","Mizoram","2004",0
+"Dacoity","Nagaland","2004",0
+"Dacoity","Odisha","2004",0
+"Dacoity","Puducherry","2004",0
+"Dacoity","Punjab","2004",0
+"Dacoity","Rajasthan","2004",0
+"Dacoity","Sikkim","2004",0
+"Dacoity","Tamil Nadu","2004",0
+"Dacoity","Tripura","2004",0
+"Dacoity","Uttar Pradesh","2004",5
+"Dacoity","Uttarakhand","2004",0
+"Dacoity","West Bengal","2004",0
+"Hurt","A&N Islands","2004",0
+"Hurt","Andhra Pradesh","2004",474
+"Hurt","Arunachal Pradesh","2004",0
+"Hurt","Assam","2004",3
+"Hurt","Bihar","2004",389
+"Hurt","Chandigarh","2004",0
+"Hurt","Chhattisgarh","2004",89
+"Hurt","D&N Haveli","2004",0
+"Hurt","Daman & Diu","2004",0
+"Hurt","Delhi UT","2004",0
+"Hurt","Goa","2004",0
+"Hurt","Gujarat","2004",247
+"Hurt","Haryana","2004",50
+"Hurt","Himachal Pradesh","2004",0
+"Hurt","Jammu & Kashmir","2004",0
+"Hurt","Jharkhand","2004",24
+"Hurt","Karnataka","2004",94
+"Hurt","Kerala","2004",106
+"Hurt","Lakshadweep","2004",0
+"Hurt","Madhya Pradesh","2004",890
+"Hurt","Maharashtra","2004",53
+"Hurt","Manipur","2004",0
+"Hurt","Meghalaya","2004",0
+"Hurt","Mizoram","2004",0
+"Hurt","Nagaland","2004",0
+"Hurt","Odisha","2004",241
+"Hurt","Puducherry","2004",0
+"Hurt","Punjab","2004",12
+"Hurt","Rajasthan","2004",636
+"Hurt","Sikkim","2004",10
+"Hurt","Tamil Nadu","2004",159
+"Hurt","Tripura","2004",0
+"Hurt","Uttar Pradesh","2004",336
+"Hurt","Uttarakhand","2004",9
+"Hurt","West Bengal","2004",2
+"Kidnapping & Abduction","A&N Islands","2004",0
+"Kidnapping & Abduction","Andhra Pradesh","2004",28
+"Kidnapping & Abduction","Arunachal Pradesh","2004",0
+"Kidnapping & Abduction","Assam","2004",1
+"Kidnapping & Abduction","Bihar","2004",6
+"Kidnapping & Abduction","Chandigarh","2004",0
+"Kidnapping & Abduction","Chhattisgarh","2004",7
+"Kidnapping & Abduction","D&N Haveli","2004",0
+"Kidnapping & Abduction","Daman & Diu","2004",0
+"Kidnapping & Abduction","Delhi UT","2004",0
+"Kidnapping & Abduction","Goa","2004",0
+"Kidnapping & Abduction","Gujarat","2004",26
+"Kidnapping & Abduction","Haryana","2004",6
+"Kidnapping & Abduction","Himachal Pradesh","2004",1
+"Kidnapping & Abduction","Jammu & Kashmir","2004",0
+"Kidnapping & Abduction","Jharkhand","2004",3
+"Kidnapping & Abduction","Karnataka","2004",2
+"Kidnapping & Abduction","Kerala","2004",0
+"Kidnapping & Abduction","Lakshadweep","2004",0
+"Kidnapping & Abduction","Madhya Pradesh","2004",34
+"Kidnapping & Abduction","Maharashtra","2004",9
+"Kidnapping & Abduction","Manipur","2004",0
+"Kidnapping & Abduction","Meghalaya","2004",0
+"Kidnapping & Abduction","Mizoram","2004",0
+"Kidnapping & Abduction","Nagaland","2004",0
+"Kidnapping & Abduction","Odisha","2004",6
+"Kidnapping & Abduction","Puducherry","2004",0
+"Kidnapping & Abduction","Punjab","2004",2
+"Kidnapping & Abduction","Rajasthan","2004",26
+"Kidnapping & Abduction","Sikkim","2004",1
+"Kidnapping & Abduction","Tamil Nadu","2004",2
+"Kidnapping & Abduction","Tripura","2004",0
+"Kidnapping & Abduction","Uttar Pradesh","2004",91
+"Kidnapping & Abduction","Uttarakhand","2004",2
+"Kidnapping & Abduction","West Bengal","2004",0
+"Murder","A&N Islands","2004",0
+"Murder","Andhra Pradesh","2004",39
+"Murder","Arunachal Pradesh","2004",0
+"Murder","Assam","2004",0
+"Murder","Bihar","2004",14
+"Murder","Chandigarh","2004",0
+"Murder","Chhattisgarh","2004",25
+"Murder","D&N Haveli","2004",0
+"Murder","Daman & Diu","2004",0
+"Murder","Delhi UT","2004",0
+"Murder","Goa","2004",0
+"Murder","Gujarat","2004",11
+"Murder","Haryana","2004",14
+"Murder","Himachal Pradesh","2004",2
+"Murder","Jammu & Kashmir","2004",0
+"Murder","Jharkhand","2004",2
+"Murder","Karnataka","2004",21
+"Murder","Kerala","2004",2
+"Murder","Lakshadweep","2004",0
+"Murder","Madhya Pradesh","2004",93
+"Murder","Maharashtra","2004",10
+"Murder","Manipur","2004",0
+"Murder","Meghalaya","2004",0
+"Murder","Mizoram","2004",0
+"Murder","Nagaland","2004",0
+"Murder","Odisha","2004",21
+"Murder","Puducherry","2004",0
+"Murder","Punjab","2004",0
+"Murder","Rajasthan","2004",45
+"Murder","Sikkim","2004",3
+"Murder","Tamil Nadu","2004",25
+"Murder","Tripura","2004",0
+"Murder","Uttar Pradesh","2004",321
+"Murder","Uttarakhand","2004",6
+"Murder","West Bengal","2004",0
+"Other Crimes Against SCs","A&N Islands","2004",0
+"Other Crimes Against SCs","Andhra Pradesh","2004",1234
+"Other Crimes Against SCs","Arunachal Pradesh","2004",0
+"Other Crimes Against SCs","Assam","2004",13
+"Other Crimes Against SCs","Bihar","2004",274
+"Other Crimes Against SCs","Chandigarh","2004",0
+"Other Crimes Against SCs","Chhattisgarh","2004",353
+"Other Crimes Against SCs","D&N Haveli","2004",0
+"Other Crimes Against SCs","Daman & Diu","2004",0
+"Other Crimes Against SCs","Delhi UT","2004",0
+"Other Crimes Against SCs","Goa","2004",0
+"Other Crimes Against SCs","Gujarat","2004",558
+"Other Crimes Against SCs","Haryana","2004",83
+"Other Crimes Against SCs","Himachal Pradesh","2004",38
+"Other Crimes Against SCs","Jammu & Kashmir","2004",1
+"Other Crimes Against SCs","Jharkhand","2004",31
+"Other Crimes Against SCs","Karnataka","2004",404
+"Other Crimes Against SCs","Kerala","2004",113
+"Other Crimes Against SCs","Lakshadweep","2004",0
+"Other Crimes Against SCs","Madhya Pradesh","2004",2952
+"Other Crimes Against SCs","Maharashtra","2004",312
+"Other Crimes Against SCs","Manipur","2004",0
+"Other Crimes Against SCs","Meghalaya","2004",0
+"Other Crimes Against SCs","Mizoram","2004",0
+"Other Crimes Against SCs","Nagaland","2004",0
+"Other Crimes Against SCs","Odisha","2004",494
+"Other Crimes Against SCs","Puducherry","2004",3
+"Other Crimes Against SCs","Punjab","2004",50
+"Other Crimes Against SCs","Rajasthan","2004",2902
+"Other Crimes Against SCs","Sikkim","2004",1
+"Other Crimes Against SCs","Tamil Nadu","2004",183
+"Other Crimes Against SCs","Tripura","2004",0
+"Other Crimes Against SCs","Uttar Pradesh","2004",1428
+"Other Crimes Against SCs","Uttarakhand","2004",0
+"Other Crimes Against SCs","West Bengal","2004",8
+"Protection of Civil Rights Act","A&N Islands","2004",0
+"Protection of Civil Rights Act","Andhra Pradesh","2004",68
+"Protection of Civil Rights Act","Arunachal Pradesh","2004",0
+"Protection of Civil Rights Act","Assam","2004",0
+"Protection of Civil Rights Act","Bihar","2004",93
+"Protection of Civil Rights Act","Chandigarh","2004",0
+"Protection of Civil Rights Act","Chhattisgarh","2004",0
+"Protection of Civil Rights Act","D&N Haveli","2004",0
+"Protection of Civil Rights Act","Daman & Diu","2004",0
+"Protection of Civil Rights Act","Delhi UT","2004",0
+"Protection of Civil Rights Act","Goa","2004",0
+"Protection of Civil Rights Act","Gujarat","2004",5
+"Protection of Civil Rights Act","Haryana","2004",0
+"Protection of Civil Rights Act","Himachal Pradesh","2004",2
+"Protection of Civil Rights Act","Jammu & Kashmir","2004",3
+"Protection of Civil Rights Act","Jharkhand","2004",0
+"Protection of Civil Rights Act","Karnataka","2004",38
+"Protection of Civil Rights Act","Kerala","2004",3
+"Protection of Civil Rights Act","Lakshadweep","2004",0
+"Protection of Civil Rights Act","Madhya Pradesh","2004",1
+"Protection of Civil Rights Act","Maharashtra","2004",26
+"Protection of Civil Rights Act","Manipur","2004",0
+"Protection of Civil Rights Act","Meghalaya","2004",0
+"Protection of Civil Rights Act","Mizoram","2004",0
+"Protection of Civil Rights Act","Nagaland","2004",0
+"Protection of Civil Rights Act","Odisha","2004",0
+"Protection of Civil Rights Act","Puducherry","2004",20
+"Protection of Civil Rights Act","Punjab","2004",0
+"Protection of Civil Rights Act","Rajasthan","2004",0
+"Protection of Civil Rights Act","Sikkim","2004",0
+"Protection of Civil Rights Act","Tamil Nadu","2004",70
+"Protection of Civil Rights Act","Tripura","2004",0
+"Protection of Civil Rights Act","Uttar Pradesh","2004",35
+"Protection of Civil Rights Act","Uttarakhand","2004",0
+"Protection of Civil Rights Act","West Bengal","2004",0
+"Rape","A&N Islands","2004",0
+"Rape","Andhra Pradesh","2004",66
+"Rape","Arunachal Pradesh","2004",0
+"Rape","Assam","2004",1
+"Rape","Bihar","2004",14
+"Rape","Chandigarh","2004",0
+"Rape","Chhattisgarh","2004",77
+"Rape","D&N Haveli","2004",0
+"Rape","Daman & Diu","2004",0
+"Rape","Delhi UT","2004",0
+"Rape","Goa","2004",0
+"Rape","Gujarat","2004",19
+"Rape","Haryana","2004",33
+"Rape","Himachal Pradesh","2004",6
+"Rape","Jammu & Kashmir","2004",0
+"Rape","Jharkhand","2004",9
+"Rape","Karnataka","2004",14
+"Rape","Kerala","2004",49
+"Rape","Lakshadweep","2004",0
+"Rape","Madhya Pradesh","2004",335
+"Rape","Maharashtra","2004",63
+"Rape","Manipur","2004",0
+"Rape","Meghalaya","2004",0
+"Rape","Mizoram","2004",0
+"Rape","Nagaland","2004",0
+"Rape","Odisha","2004",45
+"Rape","Puducherry","2004",0
+"Rape","Punjab","2004",9
+"Rape","Rajasthan","2004",126
+"Rape","Sikkim","2004",1
+"Rape","Tamil Nadu","2004",23
+"Rape","Tripura","2004",1
+"Rape","Uttar Pradesh","2004",258
+"Rape","Uttarakhand","2004",6
+"Rape","West Bengal","2004",2
+"Robbery","A&N Islands","2004",0
+"Robbery","Andhra Pradesh","2004",7
+"Robbery","Arunachal Pradesh","2004",0
+"Robbery","Assam","2004",1
+"Robbery","Bihar","2004",10
+"Robbery","Chandigarh","2004",0
+"Robbery","Chhattisgarh","2004",5
+"Robbery","D&N Haveli","2004",0
+"Robbery","Daman & Diu","2004",0
+"Robbery","Delhi UT","2004",0
+"Robbery","Goa","2004",0
+"Robbery","Gujarat","2004",13
+"Robbery","Haryana","2004",0
+"Robbery","Himachal Pradesh","2004",0
+"Robbery","Jammu & Kashmir","2004",0
+"Robbery","Jharkhand","2004",0
+"Robbery","Karnataka","2004",1
+"Robbery","Kerala","2004",2
+"Robbery","Lakshadweep","2004",0
+"Robbery","Madhya Pradesh","2004",8
+"Robbery","Maharashtra","2004",6
+"Robbery","Manipur","2004",0
+"Robbery","Meghalaya","2004",0
+"Robbery","Mizoram","2004",0
+"Robbery","Nagaland","2004",0
+"Robbery","Odisha","2004",7
+"Robbery","Puducherry","2004",0
+"Robbery","Punjab","2004",0
+"Robbery","Rajasthan","2004",5
+"Robbery","Sikkim","2004",0
+"Robbery","Tamil Nadu","2004",0
+"Robbery","Tripura","2004",0
+"Robbery","Uttar Pradesh","2004",7
+"Robbery","Uttarakhand","2004",0
+"Robbery","West Bengal","2004",0
+"SC/ST (POA) Act","A&N Islands","2004",0
+"SC/ST (POA) Act","Andhra Pradesh","2004",1319
+"SC/ST (POA) Act","Arunachal Pradesh","2004",0
+"SC/ST (POA) Act","Assam","2004",0
+"SC/ST (POA) Act","Bihar","2004",1813
+"SC/ST (POA) Act","Chandigarh","2004",0
+"SC/ST (POA) Act","Chhattisgarh","2004",138
+"SC/ST (POA) Act","D&N Haveli","2004",0
+"SC/ST (POA) Act","Daman & Diu","2004",0
+"SC/ST (POA) Act","Delhi UT","2004",4
+"SC/ST (POA) Act","Goa","2004",0
+"SC/ST (POA) Act","Gujarat","2004",411
+"SC/ST (POA) Act","Haryana","2004",31
+"SC/ST (POA) Act","Himachal Pradesh","2004",40
+"SC/ST (POA) Act","Jammu & Kashmir","2004",0
+"SC/ST (POA) Act","Jharkhand","2004",53
+"SC/ST (POA) Act","Karnataka","2004",1061
+"SC/ST (POA) Act","Kerala","2004",162
+"SC/ST (POA) Act","Lakshadweep","2004",0
+"SC/ST (POA) Act","Madhya Pradesh","2004",357
+"SC/ST (POA) Act","Maharashtra","2004",219
+"SC/ST (POA) Act","Manipur","2004",0
+"SC/ST (POA) Act","Meghalaya","2004",0
+"SC/ST (POA) Act","Mizoram","2004",0
+"SC/ST (POA) Act","Nagaland","2004",0
+"SC/ST (POA) Act","Odisha","2004",574
+"SC/ST (POA) Act","Puducherry","2004",0
+"SC/ST (POA) Act","Punjab","2004",61
+"SC/ST (POA) Act","Rajasthan","2004",579
+"SC/ST (POA) Act","Sikkim","2004",0
+"SC/ST (POA) Act","Tamil Nadu","2004",691
+"SC/ST (POA) Act","Tripura","2004",0
+"SC/ST (POA) Act","Uttar Pradesh","2004",1264
+"SC/ST (POA) Act","Uttarakhand","2004",112
+"SC/ST (POA) Act","West Bengal","2004",2
+"Total Crimes against SCs","A&N Islands","2004",0
+"Total Crimes against SCs","Andhra Pradesh","2004",3255
+"Total Crimes against SCs","Arunachal Pradesh","2004",0
+"Total Crimes against SCs","Assam","2004",20
+"Total Crimes against SCs","Bihar","2004",2646
+"Total Crimes against SCs","Chandigarh","2004",0
+"Total Crimes against SCs","Chhattisgarh","2004",698
+"Total Crimes against SCs","D&N Haveli","2004",0
+"Total Crimes against SCs","Daman & Diu","2004",0
+"Total Crimes against SCs","Delhi UT","2004",4
+"Total Crimes against SCs","Goa","2004",0
+"Total Crimes against SCs","Gujarat","2004",1309
+"Total Crimes against SCs","Haryana","2004",217
+"Total Crimes against SCs","Himachal Pradesh","2004",89
+"Total Crimes against SCs","Jammu & Kashmir","2004",4
+"Total Crimes against SCs","Jharkhand","2004",126
+"Total Crimes against SCs","Karnataka","2004",1643
+"Total Crimes against SCs","Kerala","2004",438
+"Total Crimes against SCs","Lakshadweep","2004",0
+"Total Crimes against SCs","Madhya Pradesh","2004",4699
+"Total Crimes against SCs","Maharashtra","2004",715
+"Total Crimes against SCs","Manipur","2004",0
+"Total Crimes against SCs","Meghalaya","2004",0
+"Total Crimes against SCs","Mizoram","2004",0
+"Total Crimes against SCs","Nagaland","2004",0
+"Total Crimes against SCs","Odisha","2004",1398
+"Total Crimes against SCs","Puducherry","2004",23
+"Total Crimes against SCs","Punjab","2004",134
+"Total Crimes against SCs","Rajasthan","2004",4360
+"Total Crimes against SCs","Sikkim","2004",16
+"Total Crimes against SCs","Tamil Nadu","2004",1156
+"Total Crimes against SCs","Tripura","2004",1
+"Total Crimes against SCs","Uttar Pradesh","2004",3785
+"Total Crimes against SCs","Uttarakhand","2004",137
+"Total Crimes against SCs","West Bengal","2004",14
+"Arson","A&N Islands","2005",0
+"Arson","Andhra Pradesh","2005",9
+"Arson","Arunachal Pradesh","2005",0
+"Arson","Assam","2005",7
+"Arson","Bihar","2005",19
+"Arson","Chandigarh","2005",0
+"Arson","Chhattisgarh","2005",0
+"Arson","D&N Haveli","2005",0
+"Arson","Daman & Diu","2005",0
+"Arson","Delhi UT","2005",0
+"Arson","Goa","2005",0
+"Arson","Gujarat","2005",8
+"Arson","Haryana","2005",5
+"Arson","Himachal Pradesh","2005",0
+"Arson","Jammu & Kashmir","2005",0
+"Arson","Jharkhand","2005",8
+"Arson","Karnataka","2005",4
+"Arson","Kerala","2005",0
+"Arson","Lakshadweep","2005",0
+"Arson","Madhya Pradesh","2005",38
+"Arson","Maharashtra","2005",7
+"Arson","Manipur","2005",0
+"Arson","Meghalaya","2005",0
+"Arson","Mizoram","2005",0
+"Arson","Nagaland","2005",0
+"Arson","Odisha","2005",5
+"Arson","Puducherry","2005",0
+"Arson","Punjab","2005",0
+"Arson","Rajasthan","2005",32
+"Arson","Sikkim","2005",0
+"Arson","Tamil Nadu","2005",11
+"Arson","Tripura","2005",0
+"Arson","Uttar Pradesh","2005",57
+"Arson","Uttarakhand","2005",0
+"Arson","West Bengal","2005",0
+"Dacoity","A&N Islands","2005",0
+"Dacoity","Andhra Pradesh","2005",0
+"Dacoity","Arunachal Pradesh","2005",0
+"Dacoity","Assam","2005",3
+"Dacoity","Bihar","2005",4
+"Dacoity","Chandigarh","2005",0
+"Dacoity","Chhattisgarh","2005",0
+"Dacoity","D&N Haveli","2005",0
+"Dacoity","Daman & Diu","2005",0
+"Dacoity","Delhi UT","2005",0
+"Dacoity","Goa","2005",0
+"Dacoity","Gujarat","2005",7
+"Dacoity","Haryana","2005",0
+"Dacoity","Himachal Pradesh","2005",0
+"Dacoity","Jammu & Kashmir","2005",0
+"Dacoity","Jharkhand","2005",0
+"Dacoity","Karnataka","2005",2
+"Dacoity","Kerala","2005",0
+"Dacoity","Lakshadweep","2005",0
+"Dacoity","Madhya Pradesh","2005",0
+"Dacoity","Maharashtra","2005",5
+"Dacoity","Manipur","2005",0
+"Dacoity","Meghalaya","2005",0
+"Dacoity","Mizoram","2005",0
+"Dacoity","Nagaland","2005",0
+"Dacoity","Odisha","2005",0
+"Dacoity","Puducherry","2005",0
+"Dacoity","Punjab","2005",0
+"Dacoity","Rajasthan","2005",0
+"Dacoity","Sikkim","2005",0
+"Dacoity","Tamil Nadu","2005",0
+"Dacoity","Tripura","2005",0
+"Dacoity","Uttar Pradesh","2005",5
+"Dacoity","Uttarakhand","2005",0
+"Dacoity","West Bengal","2005",0
+"Hurt","A&N Islands","2005",0
+"Hurt","Andhra Pradesh","2005",459
+"Hurt","Arunachal Pradesh","2005",0
+"Hurt","Assam","2005",111
+"Hurt","Bihar","2005",319
+"Hurt","Chandigarh","2005",0
+"Hurt","Chhattisgarh","2005",71
+"Hurt","D&N Haveli","2005",0
+"Hurt","Daman & Diu","2005",0
+"Hurt","Delhi UT","2005",0
+"Hurt","Goa","2005",0
+"Hurt","Gujarat","2005",270
+"Hurt","Haryana","2005",52
+"Hurt","Himachal Pradesh","2005",1
+"Hurt","Jammu & Kashmir","2005",0
+"Hurt","Jharkhand","2005",71
+"Hurt","Karnataka","2005",86
+"Hurt","Kerala","2005",129
+"Hurt","Lakshadweep","2005",0
+"Hurt","Madhya Pradesh","2005",950
+"Hurt","Maharashtra","2005",52
+"Hurt","Manipur","2005",0
+"Hurt","Meghalaya","2005",0
+"Hurt","Mizoram","2005",0
+"Hurt","Nagaland","2005",0
+"Hurt","Odisha","2005",259
+"Hurt","Puducherry","2005",0
+"Hurt","Punjab","2005",7
+"Hurt","Rajasthan","2005",399
+"Hurt","Sikkim","2005",3
+"Hurt","Tamil Nadu","2005",142
+"Hurt","Tripura","2005",14
+"Hurt","Uttar Pradesh","2005",427
+"Hurt","Uttarakhand","2005",23
+"Hurt","West Bengal","2005",2
+"Kidnapping & Abduction","A&N Islands","2005",0
+"Kidnapping & Abduction","Andhra Pradesh","2005",21
+"Kidnapping & Abduction","Arunachal Pradesh","2005",0
+"Kidnapping & Abduction","Assam","2005",25
+"Kidnapping & Abduction","Bihar","2005",5
+"Kidnapping & Abduction","Chandigarh","2005",0
+"Kidnapping & Abduction","Chhattisgarh","2005",3
+"Kidnapping & Abduction","D&N Haveli","2005",0
+"Kidnapping & Abduction","Daman & Diu","2005",0
+"Kidnapping & Abduction","Delhi UT","2005",0
+"Kidnapping & Abduction","Goa","2005",0
+"Kidnapping & Abduction","Gujarat","2005",18
+"Kidnapping & Abduction","Haryana","2005",15
+"Kidnapping & Abduction","Himachal Pradesh","2005",0
+"Kidnapping & Abduction","Jammu & Kashmir","2005",0
+"Kidnapping & Abduction","Jharkhand","2005",1
+"Kidnapping & Abduction","Karnataka","2005",8
+"Kidnapping & Abduction","Kerala","2005",0
+"Kidnapping & Abduction","Lakshadweep","2005",0
+"Kidnapping & Abduction","Madhya Pradesh","2005",19
+"Kidnapping & Abduction","Maharashtra","2005",8
+"Kidnapping & Abduction","Manipur","2005",0
+"Kidnapping & Abduction","Meghalaya","2005",0
+"Kidnapping & Abduction","Mizoram","2005",0
+"Kidnapping & Abduction","Nagaland","2005",0
+"Kidnapping & Abduction","Odisha","2005",6
+"Kidnapping & Abduction","Puducherry","2005",0
+"Kidnapping & Abduction","Punjab","2005",1
+"Kidnapping & Abduction","Rajasthan","2005",18
+"Kidnapping & Abduction","Sikkim","2005",0
+"Kidnapping & Abduction","Tamil Nadu","2005",2
+"Kidnapping & Abduction","Tripura","2005",0
+"Kidnapping & Abduction","Uttar Pradesh","2005",99
+"Kidnapping & Abduction","Uttarakhand","2005",9
+"Kidnapping & Abduction","West Bengal","2005",0
+"Murder","A&N Islands","2005",0
+"Murder","Andhra Pradesh","2005",37
+"Murder","Arunachal Pradesh","2005",1
+"Murder","Assam","2005",21
+"Murder","Bihar","2005",12
+"Murder","Chandigarh","2005",0
+"Murder","Chhattisgarh","2005",6
+"Murder","D&N Haveli","2005",0
+"Murder","Daman & Diu","2005",0
+"Murder","Delhi UT","2005",0
+"Murder","Goa","2005",0
+"Murder","Gujarat","2005",10
+"Murder","Haryana","2005",10
+"Murder","Himachal Pradesh","2005",0
+"Murder","Jammu & Kashmir","2005",0
+"Murder","Jharkhand","2005",13
+"Murder","Karnataka","2005",18
+"Murder","Kerala","2005",4
+"Murder","Lakshadweep","2005",0
+"Murder","Madhya Pradesh","2005",96
+"Murder","Maharashtra","2005",15
+"Murder","Manipur","2005",0
+"Murder","Meghalaya","2005",0
+"Murder","Mizoram","2005",0
+"Murder","Nagaland","2005",0
+"Murder","Odisha","2005",9
+"Murder","Puducherry","2005",0
+"Murder","Punjab","2005",3
+"Murder","Rajasthan","2005",56
+"Murder","Sikkim","2005",0
+"Murder","Tamil Nadu","2005",30
+"Murder","Tripura","2005",0
+"Murder","Uttar Pradesh","2005",323
+"Murder","Uttarakhand","2005",5
+"Murder","West Bengal","2005",0
+"Other Crimes Against SCs","A&N Islands","2005",0
+"Other Crimes Against SCs","Andhra Pradesh","2005",1212
+"Other Crimes Against SCs","Arunachal Pradesh","2005",0
+"Other Crimes Against SCs","Assam","2005",93
+"Other Crimes Against SCs","Bihar","2005",207
+"Other Crimes Against SCs","Chandigarh","2005",0
+"Other Crimes Against SCs","Chhattisgarh","2005",199
+"Other Crimes Against SCs","D&N Haveli","2005",2
+"Other Crimes Against SCs","Daman & Diu","2005",2
+"Other Crimes Against SCs","Delhi UT","2005",0
+"Other Crimes Against SCs","Goa","2005",0
+"Other Crimes Against SCs","Gujarat","2005",517
+"Other Crimes Against SCs","Haryana","2005",97
+"Other Crimes Against SCs","Himachal Pradesh","2005",24
+"Other Crimes Against SCs","Jammu & Kashmir","2005",0
+"Other Crimes Against SCs","Jharkhand","2005",104
+"Other Crimes Against SCs","Karnataka","2005",494
+"Other Crimes Against SCs","Kerala","2005",127
+"Other Crimes Against SCs","Lakshadweep","2005",0
+"Other Crimes Against SCs","Madhya Pradesh","2005",2559
+"Other Crimes Against SCs","Maharashtra","2005",399
+"Other Crimes Against SCs","Manipur","2005",0
+"Other Crimes Against SCs","Meghalaya","2005",0
+"Other Crimes Against SCs","Mizoram","2005",0
+"Other Crimes Against SCs","Nagaland","2005",0
+"Other Crimes Against SCs","Odisha","2005",484
+"Other Crimes Against SCs","Puducherry","2005",0
+"Other Crimes Against SCs","Punjab","2005",47
+"Other Crimes Against SCs","Rajasthan","2005",2734
+"Other Crimes Against SCs","Sikkim","2005",4
+"Other Crimes Against SCs","Tamil Nadu","2005",161
+"Other Crimes Against SCs","Tripura","2005",18
+"Other Crimes Against SCs","Uttar Pradesh","2005",1589
+"Other Crimes Against SCs","Uttarakhand","2005",0
+"Other Crimes Against SCs","West Bengal","2005",4
+"Protection of Civil Rights Act","A&N Islands","2005",0
+"Protection of Civil Rights Act","Andhra Pradesh","2005",61
+"Protection of Civil Rights Act","Arunachal Pradesh","2005",0
+"Protection of Civil Rights Act","Assam","2005",0
+"Protection of Civil Rights Act","Bihar","2005",95
+"Protection of Civil Rights Act","Chandigarh","2005",0
+"Protection of Civil Rights Act","Chhattisgarh","2005",1
+"Protection of Civil Rights Act","D&N Haveli","2005",0
+"Protection of Civil Rights Act","Daman & Diu","2005",0
+"Protection of Civil Rights Act","Delhi UT","2005",1
+"Protection of Civil Rights Act","Goa","2005",0
+"Protection of Civil Rights Act","Gujarat","2005",6
+"Protection of Civil Rights Act","Haryana","2005",0
+"Protection of Civil Rights Act","Himachal Pradesh","2005",3
+"Protection of Civil Rights Act","Jammu & Kashmir","2005",1
+"Protection of Civil Rights Act","Jharkhand","2005",8
+"Protection of Civil Rights Act","Karnataka","2005",28
+"Protection of Civil Rights Act","Kerala","2005",0
+"Protection of Civil Rights Act","Lakshadweep","2005",0
+"Protection of Civil Rights Act","Madhya Pradesh","2005",1
+"Protection of Civil Rights Act","Maharashtra","2005",32
+"Protection of Civil Rights Act","Manipur","2005",0
+"Protection of Civil Rights Act","Meghalaya","2005",0
+"Protection of Civil Rights Act","Mizoram","2005",0
+"Protection of Civil Rights Act","Nagaland","2005",0
+"Protection of Civil Rights Act","Odisha","2005",0
+"Protection of Civil Rights Act","Puducherry","2005",12
+"Protection of Civil Rights Act","Punjab","2005",1
+"Protection of Civil Rights Act","Rajasthan","2005",1
+"Protection of Civil Rights Act","Sikkim","2005",0
+"Protection of Civil Rights Act","Tamil Nadu","2005",12
+"Protection of Civil Rights Act","Tripura","2005",0
+"Protection of Civil Rights Act","Uttar Pradesh","2005",28
+"Protection of Civil Rights Act","Uttarakhand","2005",0
+"Protection of Civil Rights Act","West Bengal","2005",0
+"Rape","A&N Islands","2005",0
+"Rape","Andhra Pradesh","2005",74
+"Rape","Arunachal Pradesh","2005",0
+"Rape","Assam","2005",14
+"Rape","Bihar","2005",16
+"Rape","Chandigarh","2005",0
+"Rape","Chhattisgarh","2005",59
+"Rape","D&N Haveli","2005",0
+"Rape","Daman & Diu","2005",0
+"Rape","Delhi UT","2005",0
+"Rape","Goa","2005",1
+"Rape","Gujarat","2005",20
+"Rape","Haryana","2005",35
+"Rape","Himachal Pradesh","2005",9
+"Rape","Jammu & Kashmir","2005",0
+"Rape","Jharkhand","2005",8
+"Rape","Karnataka","2005",30
+"Rape","Kerala","2005",44
+"Rape","Lakshadweep","2005",0
+"Rape","Madhya Pradesh","2005",340
+"Rape","Maharashtra","2005",83
+"Rape","Manipur","2005",0
+"Rape","Meghalaya","2005",0
+"Rape","Mizoram","2005",0
+"Rape","Nagaland","2005",0
+"Rape","Odisha","2005",33
+"Rape","Puducherry","2005",0
+"Rape","Punjab","2005",9
+"Rape","Rajasthan","2005",136
+"Rape","Sikkim","2005",0
+"Rape","Tamil Nadu","2005",19
+"Rape","Tripura","2005",5
+"Rape","Uttar Pradesh","2005",224
+"Rape","Uttarakhand","2005",12
+"Rape","West Bengal","2005",1
+"Robbery","A&N Islands","2005",0
+"Robbery","Andhra Pradesh","2005",0
+"Robbery","Arunachal Pradesh","2005",1
+"Robbery","Assam","2005",8
+"Robbery","Bihar","2005",6
+"Robbery","Chandigarh","2005",0
+"Robbery","Chhattisgarh","2005",0
+"Robbery","D&N Haveli","2005",0
+"Robbery","Daman & Diu","2005",0
+"Robbery","Delhi UT","2005",0
+"Robbery","Goa","2005",0
+"Robbery","Gujarat","2005",17
+"Robbery","Haryana","2005",1
+"Robbery","Himachal Pradesh","2005",0
+"Robbery","Jammu & Kashmir","2005",0
+"Robbery","Jharkhand","2005",0
+"Robbery","Karnataka","2005",2
+"Robbery","Kerala","2005",0
+"Robbery","Lakshadweep","2005",0
+"Robbery","Madhya Pradesh","2005",9
+"Robbery","Maharashtra","2005",6
+"Robbery","Manipur","2005",0
+"Robbery","Meghalaya","2005",0
+"Robbery","Mizoram","2005",0
+"Robbery","Nagaland","2005",0
+"Robbery","Odisha","2005",4
+"Robbery","Puducherry","2005",0
+"Robbery","Punjab","2005",0
+"Robbery","Rajasthan","2005",4
+"Robbery","Sikkim","2005",0
+"Robbery","Tamil Nadu","2005",0
+"Robbery","Tripura","2005",0
+"Robbery","Uttar Pradesh","2005",22
+"Robbery","Uttarakhand","2005",0
+"Robbery","West Bengal","2005",0
+"SC/ST (POA) Act","A&N Islands","2005",0
+"SC/ST (POA) Act","Andhra Pradesh","2005",1244
+"SC/ST (POA) Act","Arunachal Pradesh","2005",0
+"SC/ST (POA) Act","Assam","2005",0
+"SC/ST (POA) Act","Bihar","2005",1141
+"SC/ST (POA) Act","Chandigarh","2005",0
+"SC/ST (POA) Act","Chhattisgarh","2005",115
+"SC/ST (POA) Act","D&N Haveli","2005",0
+"SC/ST (POA) Act","Daman & Diu","2005",0
+"SC/ST (POA) Act","Delhi UT","2005",20
+"SC/ST (POA) Act","Goa","2005",1
+"SC/ST (POA) Act","Gujarat","2005",434
+"SC/ST (POA) Act","Haryana","2005",73
+"SC/ST (POA) Act","Himachal Pradesh","2005",18
+"SC/ST (POA) Act","Jammu & Kashmir","2005",0
+"SC/ST (POA) Act","Jharkhand","2005",64
+"SC/ST (POA) Act","Karnataka","2005",1108
+"SC/ST (POA) Act","Kerala","2005",41
+"SC/ST (POA) Act","Lakshadweep","2005",0
+"SC/ST (POA) Act","Madhya Pradesh","2005",344
+"SC/ST (POA) Act","Maharashtra","2005",258
+"SC/ST (POA) Act","Manipur","2005",0
+"SC/ST (POA) Act","Meghalaya","2005",0
+"SC/ST (POA) Act","Mizoram","2005",0
+"SC/ST (POA) Act","Nagaland","2005",0
+"SC/ST (POA) Act","Odisha","2005",639
+"SC/ST (POA) Act","Puducherry","2005",2
+"SC/ST (POA) Act","Punjab","2005",72
+"SC/ST (POA) Act","Rajasthan","2005",415
+"SC/ST (POA) Act","Sikkim","2005",0
+"SC/ST (POA) Act","Tamil Nadu","2005",829
+"SC/ST (POA) Act","Tripura","2005",1
+"SC/ST (POA) Act","Uttar Pradesh","2005",1623
+"SC/ST (POA) Act","Uttarakhand","2005",50
+"SC/ST (POA) Act","West Bengal","2005",5
+"Total Crimes against SCs","A&N Islands","2005",0
+"Total Crimes against SCs","Andhra Pradesh","2005",3117
+"Total Crimes against SCs","Arunachal Pradesh","2005",2
+"Total Crimes against SCs","Assam","2005",282
+"Total Crimes against SCs","Bihar","2005",1824
+"Total Crimes against SCs","Chandigarh","2005",0
+"Total Crimes against SCs","Chhattisgarh","2005",454
+"Total Crimes against SCs","D&N Haveli","2005",2
+"Total Crimes against SCs","Daman & Diu","2005",2
+"Total Crimes against SCs","Delhi UT","2005",21
+"Total Crimes against SCs","Goa","2005",2
+"Total Crimes against SCs","Gujarat","2005",1307
+"Total Crimes against SCs","Haryana","2005",288
+"Total Crimes against SCs","Himachal Pradesh","2005",55
+"Total Crimes against SCs","Jammu & Kashmir","2005",1
+"Total Crimes against SCs","Jharkhand","2005",277
+"Total Crimes against SCs","Karnataka","2005",1780
+"Total Crimes against SCs","Kerala","2005",345
+"Total Crimes against SCs","Lakshadweep","2005",0
+"Total Crimes against SCs","Madhya Pradesh","2005",4356
+"Total Crimes against SCs","Maharashtra","2005",865
+"Total Crimes against SCs","Manipur","2005",0
+"Total Crimes against SCs","Meghalaya","2005",0
+"Total Crimes against SCs","Mizoram","2005",0
+"Total Crimes against SCs","Nagaland","2005",0
+"Total Crimes against SCs","Odisha","2005",1439
+"Total Crimes against SCs","Puducherry","2005",14
+"Total Crimes against SCs","Punjab","2005",140
+"Total Crimes against SCs","Rajasthan","2005",3795
+"Total Crimes against SCs","Sikkim","2005",7
+"Total Crimes against SCs","Tamil Nadu","2005",1206
+"Total Crimes against SCs","Tripura","2005",38
+"Total Crimes against SCs","Uttar Pradesh","2005",4397
+"Total Crimes against SCs","Uttarakhand","2005",99
+"Total Crimes against SCs","West Bengal","2005",12
+"Arson","A&N Islands","2006",0
+"Arson","Andhra Pradesh","2006",13
+"Arson","Arunachal Pradesh","2006",0
+"Arson","Assam","2006",7
+"Arson","Bihar","2006",22
+"Arson","Chandigarh","2006",0
+"Arson","Chhattisgarh","2006",0
+"Arson","D&N Haveli","2006",0
+"Arson","Daman & Diu","2006",0
+"Arson","Delhi UT","2006",0
+"Arson","Goa","2006",0
+"Arson","Gujarat","2006",11
+"Arson","Haryana","2006",1
+"Arson","Himachal Pradesh","2006",0
+"Arson","Jammu & Kashmir","2006",0
+"Arson","Jharkhand","2006",3
+"Arson","Karnataka","2006",1
+"Arson","Kerala","2006",1
+"Arson","Lakshadweep","2006",0
+"Arson","Madhya Pradesh","2006",34
+"Arson","Maharashtra","2006",9
+"Arson","Manipur","2006",0
+"Arson","Meghalaya","2006",0
+"Arson","Mizoram","2006",0
+"Arson","Nagaland","2006",0
+"Arson","Odisha","2006",17
+"Arson","Puducherry","2006",0
+"Arson","Punjab","2006",0
+"Arson","Rajasthan","2006",39
+"Arson","Sikkim","2006",0
+"Arson","Tamil Nadu","2006",7
+"Arson","Tripura","2006",0
+"Arson","Uttar Pradesh","2006",61
+"Arson","Uttarakhand","2006",0
+"Arson","West Bengal","2006",0
+"Dacoity","A&N Islands","2006",0
+"Dacoity","Andhra Pradesh","2006",3
+"Dacoity","Arunachal Pradesh","2006",0
+"Dacoity","Assam","2006",4
+"Dacoity","Bihar","2006",1
+"Dacoity","Chandigarh","2006",0
+"Dacoity","Chhattisgarh","2006",0
+"Dacoity","D&N Haveli","2006",0
+"Dacoity","Daman & Diu","2006",0
+"Dacoity","Delhi UT","2006",0
+"Dacoity","Goa","2006",0
+"Dacoity","Gujarat","2006",6
+"Dacoity","Haryana","2006",0
+"Dacoity","Himachal Pradesh","2006",0
+"Dacoity","Jammu & Kashmir","2006",0
+"Dacoity","Jharkhand","2006",0
+"Dacoity","Karnataka","2006",2
+"Dacoity","Kerala","2006",1
+"Dacoity","Lakshadweep","2006",0
+"Dacoity","Madhya Pradesh","2006",0
+"Dacoity","Maharashtra","2006",11
+"Dacoity","Manipur","2006",0
+"Dacoity","Meghalaya","2006",0
+"Dacoity","Mizoram","2006",0
+"Dacoity","Nagaland","2006",0
+"Dacoity","Odisha","2006",1
+"Dacoity","Puducherry","2006",0
+"Dacoity","Punjab","2006",0
+"Dacoity","Rajasthan","2006",0
+"Dacoity","Sikkim","2006",0
+"Dacoity","Tamil Nadu","2006",0
+"Dacoity","Tripura","2006",0
+"Dacoity","Uttar Pradesh","2006",1
+"Dacoity","Uttarakhand","2006",0
+"Dacoity","West Bengal","2006",0
+"Hurt","A&N Islands","2006",0
+"Hurt","Andhra Pradesh","2006",657
+"Hurt","Arunachal Pradesh","2006",0
+"Hurt","Assam","2006",114
+"Hurt","Bihar","2006",336
+"Hurt","Chandigarh","2006",0
+"Hurt","Chhattisgarh","2006",48
+"Hurt","D&N Haveli","2006",0
+"Hurt","Daman & Diu","2006",0
+"Hurt","Delhi UT","2006",0
+"Hurt","Goa","2006",0
+"Hurt","Gujarat","2006",255
+"Hurt","Haryana","2006",45
+"Hurt","Himachal Pradesh","2006",0
+"Hurt","Jammu & Kashmir","2006",0
+"Hurt","Jharkhand","2006",54
+"Hurt","Karnataka","2006",120
+"Hurt","Kerala","2006",85
+"Hurt","Lakshadweep","2006",0
+"Hurt","Madhya Pradesh","2006",815
+"Hurt","Maharashtra","2006",57
+"Hurt","Manipur","2006",0
+"Hurt","Meghalaya","2006",0
+"Hurt","Mizoram","2006",0
+"Hurt","Nagaland","2006",0
+"Hurt","Odisha","2006",192
+"Hurt","Puducherry","2006",0
+"Hurt","Punjab","2006",5
+"Hurt","Rajasthan","2006",435
+"Hurt","Sikkim","2006",0
+"Hurt","Tamil Nadu","2006",136
+"Hurt","Tripura","2006",1
+"Hurt","Uttar Pradesh","2006",398
+"Hurt","Uttarakhand","2006",6
+"Hurt","West Bengal","2006",1
+"Kidnapping & Abduction","A&N Islands","2006",0
+"Kidnapping & Abduction","Andhra Pradesh","2006",12
+"Kidnapping & Abduction","Arunachal Pradesh","2006",0
+"Kidnapping & Abduction","Assam","2006",27
+"Kidnapping & Abduction","Bihar","2006",2
+"Kidnapping & Abduction","Chandigarh","2006",0
+"Kidnapping & Abduction","Chhattisgarh","2006",1
+"Kidnapping & Abduction","D&N Haveli","2006",0
+"Kidnapping & Abduction","Daman & Diu","2006",0
+"Kidnapping & Abduction","Delhi UT","2006",0
+"Kidnapping & Abduction","Goa","2006",0
+"Kidnapping & Abduction","Gujarat","2006",23
+"Kidnapping & Abduction","Haryana","2006",15
+"Kidnapping & Abduction","Himachal Pradesh","2006",0
+"Kidnapping & Abduction","Jammu & Kashmir","2006",0
+"Kidnapping & Abduction","Jharkhand","2006",2
+"Kidnapping & Abduction","Karnataka","2006",4
+"Kidnapping & Abduction","Kerala","2006",3
+"Kidnapping & Abduction","Lakshadweep","2006",0
+"Kidnapping & Abduction","Madhya Pradesh","2006",37
+"Kidnapping & Abduction","Maharashtra","2006",5
+"Kidnapping & Abduction","Manipur","2006",0
+"Kidnapping & Abduction","Meghalaya","2006",0
+"Kidnapping & Abduction","Mizoram","2006",0
+"Kidnapping & Abduction","Nagaland","2006",1
+"Kidnapping & Abduction","Odisha","2006",7
+"Kidnapping & Abduction","Puducherry","2006",0
+"Kidnapping & Abduction","Punjab","2006",1
+"Kidnapping & Abduction","Rajasthan","2006",23
+"Kidnapping & Abduction","Sikkim","2006",0
+"Kidnapping & Abduction","Tamil Nadu","2006",3
+"Kidnapping & Abduction","Tripura","2006",0
+"Kidnapping & Abduction","Uttar Pradesh","2006",113
+"Kidnapping & Abduction","Uttarakhand","2006",1
+"Kidnapping & Abduction","West Bengal","2006",0
+"Murder","A&N Islands","2006",0
+"Murder","Andhra Pradesh","2006",52
+"Murder","Arunachal Pradesh","2006",0
+"Murder","Assam","2006",5
+"Murder","Bihar","2006",16
+"Murder","Chandigarh","2006",0
+"Murder","Chhattisgarh","2006",10
+"Murder","D&N Haveli","2006",0
+"Murder","Daman & Diu","2006",0
+"Murder","Delhi UT","2006",0
+"Murder","Goa","2006",0
+"Murder","Gujarat","2006",20
+"Murder","Haryana","2006",7
+"Murder","Himachal Pradesh","2006",0
+"Murder","Jammu & Kashmir","2006",0
+"Murder","Jharkhand","2006",5
+"Murder","Karnataka","2006",28
+"Murder","Kerala","2006",3
+"Murder","Lakshadweep","2006",0
+"Murder","Madhya Pradesh","2006",76
+"Murder","Maharashtra","2006",21
+"Murder","Manipur","2006",0
+"Murder","Meghalaya","2006",0
+"Murder","Mizoram","2006",0
+"Murder","Nagaland","2006",3
+"Murder","Odisha","2006",12
+"Murder","Puducherry","2006",0
+"Murder","Punjab","2006",3
+"Murder","Rajasthan","2006",60
+"Murder","Sikkim","2006",0
+"Murder","Tamil Nadu","2006",26
+"Murder","Tripura","2006",0
+"Murder","Uttar Pradesh","2006",318
+"Murder","Uttarakhand","2006",7
+"Murder","West Bengal","2006",1
+"Other Crimes Against SCs","A&N Islands","2006",0
+"Other Crimes Against SCs","Andhra Pradesh","2006",1445
+"Other Crimes Against SCs","Arunachal Pradesh","2006",0
+"Other Crimes Against SCs","Assam","2006",103
+"Other Crimes Against SCs","Bihar","2006",198
+"Other Crimes Against SCs","Chandigarh","2006",1
+"Other Crimes Against SCs","Chhattisgarh","2006",214
+"Other Crimes Against SCs","D&N Haveli","2006",2
+"Other Crimes Against SCs","Daman & Diu","2006",1
+"Other Crimes Against SCs","Delhi UT","2006",0
+"Other Crimes Against SCs","Goa","2006",0
+"Other Crimes Against SCs","Gujarat","2006",279
+"Other Crimes Against SCs","Haryana","2006",97
+"Other Crimes Against SCs","Himachal Pradesh","2006",45
+"Other Crimes Against SCs","Jammu & Kashmir","2006",0
+"Other Crimes Against SCs","Jharkhand","2006",108
+"Other Crimes Against SCs","Karnataka","2006",471
+"Other Crimes Against SCs","Kerala","2006",139
+"Other Crimes Against SCs","Lakshadweep","2006",0
+"Other Crimes Against SCs","Madhya Pradesh","2006",2564
+"Other Crimes Against SCs","Maharashtra","2006",470
+"Other Crimes Against SCs","Manipur","2006",0
+"Other Crimes Against SCs","Meghalaya","2006",0
+"Other Crimes Against SCs","Mizoram","2006",0
+"Other Crimes Against SCs","Nagaland","2006",0
+"Other Crimes Against SCs","Odisha","2006",246
+"Other Crimes Against SCs","Puducherry","2006",0
+"Other Crimes Against SCs","Punjab","2006",65
+"Other Crimes Against SCs","Rajasthan","2006",3098
+"Other Crimes Against SCs","Sikkim","2006",1
+"Other Crimes Against SCs","Tamil Nadu","2006",246
+"Other Crimes Against SCs","Tripura","2006",13
+"Other Crimes Against SCs","Uttar Pradesh","2006",1993
+"Other Crimes Against SCs","Uttarakhand","2006",0
+"Other Crimes Against SCs","West Bengal","2006",9
+"Protection of Civil Rights Act","A&N Islands","2006",0
+"Protection of Civil Rights Act","Andhra Pradesh","2006",93
+"Protection of Civil Rights Act","Arunachal Pradesh","2006",0
+"Protection of Civil Rights Act","Assam","2006",0
+"Protection of Civil Rights Act","Bihar","2006",2
+"Protection of Civil Rights Act","Chandigarh","2006",0
+"Protection of Civil Rights Act","Chhattisgarh","2006",0
+"Protection of Civil Rights Act","D&N Haveli","2006",0
+"Protection of Civil Rights Act","Daman & Diu","2006",0
+"Protection of Civil Rights Act","Delhi UT","2006",0
+"Protection of Civil Rights Act","Goa","2006",0
+"Protection of Civil Rights Act","Gujarat","2006",4
+"Protection of Civil Rights Act","Haryana","2006",0
+"Protection of Civil Rights Act","Himachal Pradesh","2006",0
+"Protection of Civil Rights Act","Jammu & Kashmir","2006",2
+"Protection of Civil Rights Act","Jharkhand","2006",11
+"Protection of Civil Rights Act","Karnataka","2006",25
+"Protection of Civil Rights Act","Kerala","2006",0
+"Protection of Civil Rights Act","Lakshadweep","2006",0
+"Protection of Civil Rights Act","Madhya Pradesh","2006",1
+"Protection of Civil Rights Act","Maharashtra","2006",36
+"Protection of Civil Rights Act","Manipur","2006",0
+"Protection of Civil Rights Act","Meghalaya","2006",0
+"Protection of Civil Rights Act","Mizoram","2006",0
+"Protection of Civil Rights Act","Nagaland","2006",0
+"Protection of Civil Rights Act","Odisha","2006",0
+"Protection of Civil Rights Act","Puducherry","2006",14
+"Protection of Civil Rights Act","Punjab","2006",0
+"Protection of Civil Rights Act","Rajasthan","2006",0
+"Protection of Civil Rights Act","Sikkim","2006",0
+"Protection of Civil Rights Act","Tamil Nadu","2006",84
+"Protection of Civil Rights Act","Tripura","2006",0
+"Protection of Civil Rights Act","Uttar Pradesh","2006",133
+"Protection of Civil Rights Act","Uttarakhand","2006",0
+"Protection of Civil Rights Act","West Bengal","2006",0
+"Rape","A&N Islands","2006",0
+"Rape","Andhra Pradesh","2006",97
+"Rape","Arunachal Pradesh","2006",0
+"Rape","Assam","2006",11
+"Rape","Bihar","2006",19
+"Rape","Chandigarh","2006",0
+"Rape","Chhattisgarh","2006",49
+"Rape","D&N Haveli","2006",0
+"Rape","Daman & Diu","2006",0
+"Rape","Delhi UT","2006",0
+"Rape","Goa","2006",0
+"Rape","Gujarat","2006",19
+"Rape","Haryana","2006",31
+"Rape","Himachal Pradesh","2006",11
+"Rape","Jammu & Kashmir","2006",0
+"Rape","Jharkhand","2006",15
+"Rape","Karnataka","2006",27
+"Rape","Kerala","2006",62
+"Rape","Lakshadweep","2006",0
+"Rape","Madhya Pradesh","2006",335
+"Rape","Maharashtra","2006",87
+"Rape","Manipur","2006",0
+"Rape","Meghalaya","2006",0
+"Rape","Mizoram","2006",0
+"Rape","Nagaland","2006",1
+"Rape","Odisha","2006",52
+"Rape","Puducherry","2006",0
+"Rape","Punjab","2006",11
+"Rape","Rajasthan","2006",132
+"Rape","Sikkim","2006",0
+"Rape","Tamil Nadu","2006",21
+"Rape","Tripura","2006",0
+"Rape","Uttar Pradesh","2006",229
+"Rape","Uttarakhand","2006",6
+"Rape","West Bengal","2006",2
+"Robbery","A&N Islands","2006",0
+"Robbery","Andhra Pradesh","2006",5
+"Robbery","Arunachal Pradesh","2006",0
+"Robbery","Assam","2006",11
+"Robbery","Bihar","2006",9
+"Robbery","Chandigarh","2006",0
+"Robbery","Chhattisgarh","2006",2
+"Robbery","D&N Haveli","2006",0
+"Robbery","Daman & Diu","2006",0
+"Robbery","Delhi UT","2006",0
+"Robbery","Goa","2006",0
+"Robbery","Gujarat","2006",19
+"Robbery","Haryana","2006",1
+"Robbery","Himachal Pradesh","2006",0
+"Robbery","Jammu & Kashmir","2006",0
+"Robbery","Jharkhand","2006",0
+"Robbery","Karnataka","2006",1
+"Robbery","Kerala","2006",0
+"Robbery","Lakshadweep","2006",0
+"Robbery","Madhya Pradesh","2006",14
+"Robbery","Maharashtra","2006",7
+"Robbery","Manipur","2006",0
+"Robbery","Meghalaya","2006",0
+"Robbery","Mizoram","2006",0
+"Robbery","Nagaland","2006",0
+"Robbery","Odisha","2006",5
+"Robbery","Puducherry","2006",0
+"Robbery","Punjab","2006",0
+"Robbery","Rajasthan","2006",4
+"Robbery","Sikkim","2006",0
+"Robbery","Tamil Nadu","2006",0
+"Robbery","Tripura","2006",0
+"Robbery","Uttar Pradesh","2006",12
+"Robbery","Uttarakhand","2006",0
+"Robbery","West Bengal","2006",0
+"SC/ST (POA) Act","A&N Islands","2006",0
+"SC/ST (POA) Act","Andhra Pradesh","2006",1514
+"SC/ST (POA) Act","Arunachal Pradesh","2006",0
+"SC/ST (POA) Act","Assam","2006",0
+"SC/ST (POA) Act","Bihar","2006",1438
+"SC/ST (POA) Act","Chandigarh","2006",1
+"SC/ST (POA) Act","Chhattisgarh","2006",120
+"SC/ST (POA) Act","D&N Haveli","2006",0
+"SC/ST (POA) Act","Daman & Diu","2006",0
+"SC/ST (POA) Act","Delhi UT","2006",21
+"SC/ST (POA) Act","Goa","2006",4
+"SC/ST (POA) Act","Gujarat","2006",359
+"SC/ST (POA) Act","Haryana","2006",86
+"SC/ST (POA) Act","Himachal Pradesh","2006",36
+"SC/ST (POA) Act","Jammu & Kashmir","2006",0
+"SC/ST (POA) Act","Jharkhand","2006",135
+"SC/ST (POA) Act","Karnataka","2006",1051
+"SC/ST (POA) Act","Kerala","2006",70
+"SC/ST (POA) Act","Lakshadweep","2006",0
+"SC/ST (POA) Act","Madhya Pradesh","2006",338
+"SC/ST (POA) Act","Maharashtra","2006",350
+"SC/ST (POA) Act","Manipur","2006",0
+"SC/ST (POA) Act","Meghalaya","2006",0
+"SC/ST (POA) Act","Mizoram","2006",0
+"SC/ST (POA) Act","Nagaland","2006",0
+"SC/ST (POA) Act","Odisha","2006",621
+"SC/ST (POA) Act","Puducherry","2006",0
+"SC/ST (POA) Act","Punjab","2006",99
+"SC/ST (POA) Act","Rajasthan","2006",119
+"SC/ST (POA) Act","Sikkim","2006",1
+"SC/ST (POA) Act","Tamil Nadu","2006",468
+"SC/ST (POA) Act","Tripura","2006",0
+"SC/ST (POA) Act","Uttar Pradesh","2006",1702
+"SC/ST (POA) Act","Uttarakhand","2006",48
+"SC/ST (POA) Act","West Bengal","2006",0
+"Total Crimes against SCs","A&N Islands","2006",0
+"Total Crimes against SCs","Andhra Pradesh","2006",3891
+"Total Crimes against SCs","Arunachal Pradesh","2006",0
+"Total Crimes against SCs","Assam","2006",282
+"Total Crimes against SCs","Bihar","2006",2043
+"Total Crimes against SCs","Chandigarh","2006",2
+"Total Crimes against SCs","Chhattisgarh","2006",444
+"Total Crimes against SCs","D&N Haveli","2006",2
+"Total Crimes against SCs","Daman & Diu","2006",1
+"Total Crimes against SCs","Delhi UT","2006",21
+"Total Crimes against SCs","Goa","2006",4
+"Total Crimes against SCs","Gujarat","2006",995
+"Total Crimes against SCs","Haryana","2006",283
+"Total Crimes against SCs","Himachal Pradesh","2006",92
+"Total Crimes against SCs","Jammu & Kashmir","2006",2
+"Total Crimes against SCs","Jharkhand","2006",333
+"Total Crimes against SCs","Karnataka","2006",1730
+"Total Crimes against SCs","Kerala","2006",364
+"Total Crimes against SCs","Lakshadweep","2006",0
+"Total Crimes against SCs","Madhya Pradesh","2006",4214
+"Total Crimes against SCs","Maharashtra","2006",1053
+"Total Crimes against SCs","Manipur","2006",0
+"Total Crimes against SCs","Meghalaya","2006",0
+"Total Crimes against SCs","Mizoram","2006",0
+"Total Crimes against SCs","Nagaland","2006",5
+"Total Crimes against SCs","Odisha","2006",1153
+"Total Crimes against SCs","Puducherry","2006",14
+"Total Crimes against SCs","Punjab","2006",184
+"Total Crimes against SCs","Rajasthan","2006",3910
+"Total Crimes against SCs","Sikkim","2006",2
+"Total Crimes against SCs","Tamil Nadu","2006",991
+"Total Crimes against SCs","Tripura","2006",14
+"Total Crimes against SCs","Uttar Pradesh","2006",4960
+"Total Crimes against SCs","Uttarakhand","2006",68
+"Total Crimes against SCs","West Bengal","2006",13
+"Arson","A&N Islands","2007",0
+"Arson","Andhra Pradesh","2007",17
+"Arson","Arunachal Pradesh","2007",0
+"Arson","Assam","2007",1
+"Arson","Bihar","2007",12
+"Arson","Chandigarh","2007",0
+"Arson","Chhattisgarh","2007",0
+"Arson","D&N Haveli","2007",0
+"Arson","Daman & Diu","2007",0
+"Arson","Delhi UT","2007",0
+"Arson","Goa","2007",0
+"Arson","Gujarat","2007",16
+"Arson","Haryana","2007",1
+"Arson","Himachal Pradesh","2007",0
+"Arson","Jammu & Kashmir","2007",0
+"Arson","Jharkhand","2007",2
+"Arson","Karnataka","2007",1
+"Arson","Kerala","2007",1
+"Arson","Lakshadweep","2007",0
+"Arson","Madhya Pradesh","2007",32
+"Arson","Maharashtra","2007",19
+"Arson","Manipur","2007",0
+"Arson","Meghalaya","2007",0
+"Arson","Mizoram","2007",0
+"Arson","Nagaland","2007",0
+"Arson","Odisha","2007",19
+"Arson","Puducherry","2007",0
+"Arson","Punjab","2007",0
+"Arson","Rajasthan","2007",36
+"Arson","Sikkim","2007",0
+"Arson","Tamil Nadu","2007",15
+"Arson","Tripura","2007",0
+"Arson","Uttar Pradesh","2007",66
+"Arson","Uttarakhand","2007",0
+"Arson","West Bengal","2007",0
+"Dacoity","A&N Islands","2007",0
+"Dacoity","Andhra Pradesh","2007",0
+"Dacoity","Arunachal Pradesh","2007",0
+"Dacoity","Assam","2007",2
+"Dacoity","Bihar","2007",4
+"Dacoity","Chandigarh","2007",0
+"Dacoity","Chhattisgarh","2007",0
+"Dacoity","D&N Haveli","2007",0
+"Dacoity","Daman & Diu","2007",0
+"Dacoity","Delhi UT","2007",0
+"Dacoity","Goa","2007",0
+"Dacoity","Gujarat","2007",7
+"Dacoity","Haryana","2007",0
+"Dacoity","Himachal Pradesh","2007",0
+"Dacoity","Jammu & Kashmir","2007",0
+"Dacoity","Jharkhand","2007",0
+"Dacoity","Karnataka","2007",1
+"Dacoity","Kerala","2007",1
+"Dacoity","Lakshadweep","2007",0
+"Dacoity","Madhya Pradesh","2007",1
+"Dacoity","Maharashtra","2007",2
+"Dacoity","Manipur","2007",0
+"Dacoity","Meghalaya","2007",0
+"Dacoity","Mizoram","2007",0
+"Dacoity","Nagaland","2007",0
+"Dacoity","Odisha","2007",1
+"Dacoity","Puducherry","2007",0
+"Dacoity","Punjab","2007",0
+"Dacoity","Rajasthan","2007",0
+"Dacoity","Sikkim","2007",0
+"Dacoity","Tamil Nadu","2007",0
+"Dacoity","Tripura","2007",0
+"Dacoity","Uttar Pradesh","2007",4
+"Dacoity","Uttarakhand","2007",0
+"Dacoity","West Bengal","2007",0
+"Hurt","A&N Islands","2007",0
+"Hurt","Andhra Pradesh","2007",541
+"Hurt","Arunachal Pradesh","2007",0
+"Hurt","Assam","2007",48
+"Hurt","Bihar","2007",381
+"Hurt","Chandigarh","2007",0
+"Hurt","Chhattisgarh","2007",57
+"Hurt","D&N Haveli","2007",0
+"Hurt","Daman & Diu","2007",0
+"Hurt","Delhi UT","2007",0
+"Hurt","Goa","2007",0
+"Hurt","Gujarat","2007",283
+"Hurt","Haryana","2007",28
+"Hurt","Himachal Pradesh","2007",0
+"Hurt","Jammu & Kashmir","2007",0
+"Hurt","Jharkhand","2007",66
+"Hurt","Karnataka","2007",165
+"Hurt","Kerala","2007",180
+"Hurt","Lakshadweep","2007",0
+"Hurt","Madhya Pradesh","2007",664
+"Hurt","Maharashtra","2007",78
+"Hurt","Manipur","2007",0
+"Hurt","Meghalaya","2007",0
+"Hurt","Mizoram","2007",0
+"Hurt","Nagaland","2007",0
+"Hurt","Odisha","2007",309
+"Hurt","Puducherry","2007",0
+"Hurt","Punjab","2007",4
+"Hurt","Rajasthan","2007",405
+"Hurt","Sikkim","2007",4
+"Hurt","Tamil Nadu","2007",198
+"Hurt","Tripura","2007",0
+"Hurt","Uttar Pradesh","2007",394
+"Hurt","Uttarakhand","2007",9
+"Hurt","West Bengal","2007",0
+"Kidnapping & Abduction","A&N Islands","2007",0
+"Kidnapping & Abduction","Andhra Pradesh","2007",25
+"Kidnapping & Abduction","Arunachal Pradesh","2007",0
+"Kidnapping & Abduction","Assam","2007",15
+"Kidnapping & Abduction","Bihar","2007",10
+"Kidnapping & Abduction","Chandigarh","2007",0
+"Kidnapping & Abduction","Chhattisgarh","2007",3
+"Kidnapping & Abduction","D&N Haveli","2007",0
+"Kidnapping & Abduction","Daman & Diu","2007",0
+"Kidnapping & Abduction","Delhi UT","2007",0
+"Kidnapping & Abduction","Goa","2007",0
+"Kidnapping & Abduction","Gujarat","2007",22
+"Kidnapping & Abduction","Haryana","2007",13
+"Kidnapping & Abduction","Himachal Pradesh","2007",0
+"Kidnapping & Abduction","Jammu & Kashmir","2007",0
+"Kidnapping & Abduction","Jharkhand","2007",4
+"Kidnapping & Abduction","Karnataka","2007",4
+"Kidnapping & Abduction","Kerala","2007",1
+"Kidnapping & Abduction","Lakshadweep","2007",0
+"Kidnapping & Abduction","Madhya Pradesh","2007",33
+"Kidnapping & Abduction","Maharashtra","2007",13
+"Kidnapping & Abduction","Manipur","2007",0
+"Kidnapping & Abduction","Meghalaya","2007",0
+"Kidnapping & Abduction","Mizoram","2007",0
+"Kidnapping & Abduction","Nagaland","2007",0
+"Kidnapping & Abduction","Odisha","2007",12
+"Kidnapping & Abduction","Puducherry","2007",0
+"Kidnapping & Abduction","Punjab","2007",1
+"Kidnapping & Abduction","Rajasthan","2007",17
+"Kidnapping & Abduction","Sikkim","2007",1
+"Kidnapping & Abduction","Tamil Nadu","2007",3
+"Kidnapping & Abduction","Tripura","2007",1
+"Kidnapping & Abduction","Uttar Pradesh","2007",153
+"Kidnapping & Abduction","Uttarakhand","2007",1
+"Kidnapping & Abduction","West Bengal","2007",0
+"Murder","A&N Islands","2007",0
+"Murder","Andhra Pradesh","2007",46
+"Murder","Arunachal Pradesh","2007",0
+"Murder","Assam","2007",11
+"Murder","Bihar","2007",26
+"Murder","Chandigarh","2007",0
+"Murder","Chhattisgarh","2007",11
+"Murder","D&N Haveli","2007",0
+"Murder","Daman & Diu","2007",0
+"Murder","Delhi UT","2007",0
+"Murder","Goa","2007",0
+"Murder","Gujarat","2007",17
+"Murder","Haryana","2007",10
+"Murder","Himachal Pradesh","2007",0
+"Murder","Jammu & Kashmir","2007",0
+"Murder","Jharkhand","2007",13
+"Murder","Karnataka","2007",15
+"Murder","Kerala","2007",3
+"Murder","Lakshadweep","2007",0
+"Murder","Madhya Pradesh","2007",86
+"Murder","Maharashtra","2007",16
+"Murder","Manipur","2007",0
+"Murder","Meghalaya","2007",0
+"Murder","Mizoram","2007",0
+"Murder","Nagaland","2007",0
+"Murder","Odisha","2007",13
+"Murder","Puducherry","2007",1
+"Murder","Punjab","2007",2
+"Murder","Rajasthan","2007",53
+"Murder","Sikkim","2007",0
+"Murder","Tamil Nadu","2007",39
+"Murder","Tripura","2007",0
+"Murder","Uttar Pradesh","2007",310
+"Murder","Uttarakhand","2007",1
+"Murder","West Bengal","2007",1
+"Other Crimes Against SCs","A&N Islands","2007",0
+"Other Crimes Against SCs","Andhra Pradesh","2007",1327
+"Other Crimes Against SCs","Arunachal Pradesh","2007",0
+"Other Crimes Against SCs","Assam","2007",37
+"Other Crimes Against SCs","Bihar","2007",377
+"Other Crimes Against SCs","Chandigarh","2007",0
+"Other Crimes Against SCs","Chhattisgarh","2007",232
+"Other Crimes Against SCs","D&N Haveli","2007",0
+"Other Crimes Against SCs","Daman & Diu","2007",0
+"Other Crimes Against SCs","Delhi UT","2007",0
+"Other Crimes Against SCs","Goa","2007",0
+"Other Crimes Against SCs","Gujarat","2007",316
+"Other Crimes Against SCs","Haryana","2007",78
+"Other Crimes Against SCs","Himachal Pradesh","2007",0
+"Other Crimes Against SCs","Jammu & Kashmir","2007",0
+"Other Crimes Against SCs","Jharkhand","2007",167
+"Other Crimes Against SCs","Karnataka","2007",605
+"Other Crimes Against SCs","Kerala","2007",177
+"Other Crimes Against SCs","Lakshadweep","2007",0
+"Other Crimes Against SCs","Madhya Pradesh","2007",2589
+"Other Crimes Against SCs","Maharashtra","2007",557
+"Other Crimes Against SCs","Manipur","2007",0
+"Other Crimes Against SCs","Meghalaya","2007",0
+"Other Crimes Against SCs","Mizoram","2007",0
+"Other Crimes Against SCs","Nagaland","2007",0
+"Other Crimes Against SCs","Odisha","2007",380
+"Other Crimes Against SCs","Puducherry","2007",0
+"Other Crimes Against SCs","Punjab","2007",81
+"Other Crimes Against SCs","Rajasthan","2007",3405
+"Other Crimes Against SCs","Sikkim","2007",1
+"Other Crimes Against SCs","Tamil Nadu","2007",391
+"Other Crimes Against SCs","Tripura","2007",6
+"Other Crimes Against SCs","Uttar Pradesh","2007",2764
+"Other Crimes Against SCs","Uttarakhand","2007",0
+"Other Crimes Against SCs","West Bengal","2007",0
+"Protection of Civil Rights Act","A&N Islands","2007",0
+"Protection of Civil Rights Act","Andhra Pradesh","2007",122
+"Protection of Civil Rights Act","Arunachal Pradesh","2007",0
+"Protection of Civil Rights Act","Assam","2007",1
+"Protection of Civil Rights Act","Bihar","2007",0
+"Protection of Civil Rights Act","Chandigarh","2007",0
+"Protection of Civil Rights Act","Chhattisgarh","2007",0
+"Protection of Civil Rights Act","D&N Haveli","2007",0
+"Protection of Civil Rights Act","Daman & Diu","2007",0
+"Protection of Civil Rights Act","Delhi UT","2007",0
+"Protection of Civil Rights Act","Goa","2007",0
+"Protection of Civil Rights Act","Gujarat","2007",2
+"Protection of Civil Rights Act","Haryana","2007",0
+"Protection of Civil Rights Act","Himachal Pradesh","2007",4
+"Protection of Civil Rights Act","Jammu & Kashmir","2007",1
+"Protection of Civil Rights Act","Jharkhand","2007",0
+"Protection of Civil Rights Act","Karnataka","2007",17
+"Protection of Civil Rights Act","Kerala","2007",0
+"Protection of Civil Rights Act","Lakshadweep","2007",0
+"Protection of Civil Rights Act","Madhya Pradesh","2007",0
+"Protection of Civil Rights Act","Maharashtra","2007",20
+"Protection of Civil Rights Act","Manipur","2007",0
+"Protection of Civil Rights Act","Meghalaya","2007",0
+"Protection of Civil Rights Act","Mizoram","2007",0
+"Protection of Civil Rights Act","Nagaland","2007",0
+"Protection of Civil Rights Act","Odisha","2007",0
+"Protection of Civil Rights Act","Puducherry","2007",24
+"Protection of Civil Rights Act","Punjab","2007",0
+"Protection of Civil Rights Act","Rajasthan","2007",0
+"Protection of Civil Rights Act","Sikkim","2007",0
+"Protection of Civil Rights Act","Tamil Nadu","2007",6
+"Protection of Civil Rights Act","Tripura","2007",0
+"Protection of Civil Rights Act","Uttar Pradesh","2007",8
+"Protection of Civil Rights Act","Uttarakhand","2007",0
+"Protection of Civil Rights Act","West Bengal","2007",1
+"Rape","A&N Islands","2007",0
+"Rape","Andhra Pradesh","2007",105
+"Rape","Arunachal Pradesh","2007",0
+"Rape","Assam","2007",8
+"Rape","Bihar","2007",32
+"Rape","Chandigarh","2007",0
+"Rape","Chhattisgarh","2007",57
+"Rape","D&N Haveli","2007",0
+"Rape","Daman & Diu","2007",0
+"Rape","Delhi UT","2007",0
+"Rape","Goa","2007",0
+"Rape","Gujarat","2007",30
+"Rape","Haryana","2007",21
+"Rape","Himachal Pradesh","2007",6
+"Rape","Jammu & Kashmir","2007",0
+"Rape","Jharkhand","2007",12
+"Rape","Karnataka","2007",20
+"Rape","Kerala","2007",69
+"Rape","Lakshadweep","2007",0
+"Rape","Madhya Pradesh","2007",343
+"Rape","Maharashtra","2007",80
+"Rape","Manipur","2007",0
+"Rape","Meghalaya","2007",0
+"Rape","Mizoram","2007",0
+"Rape","Nagaland","2007",0
+"Rape","Odisha","2007",57
+"Rape","Puducherry","2007",0
+"Rape","Punjab","2007",1
+"Rape","Rajasthan","2007",153
+"Rape","Sikkim","2007",4
+"Rape","Tamil Nadu","2007",27
+"Rape","Tripura","2007",1
+"Rape","Uttar Pradesh","2007",318
+"Rape","Uttarakhand","2007",4
+"Rape","West Bengal","2007",1
+"Robbery","A&N Islands","2007",0
+"Robbery","Andhra Pradesh","2007",0
+"Robbery","Arunachal Pradesh","2007",0
+"Robbery","Assam","2007",3
+"Robbery","Bihar","2007",11
+"Robbery","Chandigarh","2007",0
+"Robbery","Chhattisgarh","2007",1
+"Robbery","D&N Haveli","2007",0
+"Robbery","Daman & Diu","2007",0
+"Robbery","Delhi UT","2007",0
+"Robbery","Goa","2007",0
+"Robbery","Gujarat","2007",19
+"Robbery","Haryana","2007",1
+"Robbery","Himachal Pradesh","2007",0
+"Robbery","Jammu & Kashmir","2007",0
+"Robbery","Jharkhand","2007",0
+"Robbery","Karnataka","2007",0
+"Robbery","Kerala","2007",3
+"Robbery","Lakshadweep","2007",0
+"Robbery","Madhya Pradesh","2007",10
+"Robbery","Maharashtra","2007",11
+"Robbery","Manipur","2007",0
+"Robbery","Meghalaya","2007",0
+"Robbery","Mizoram","2007",0
+"Robbery","Nagaland","2007",0
+"Robbery","Odisha","2007",10
+"Robbery","Puducherry","2007",0
+"Robbery","Punjab","2007",0
+"Robbery","Rajasthan","2007",3
+"Robbery","Sikkim","2007",0
+"Robbery","Tamil Nadu","2007",0
+"Robbery","Tripura","2007",0
+"Robbery","Uttar Pradesh","2007",14
+"Robbery","Uttarakhand","2007",0
+"Robbery","West Bengal","2007",0
+"SC/ST (POA) Act","A&N Islands","2007",0
+"SC/ST (POA) Act","Andhra Pradesh","2007",1200
+"SC/ST (POA) Act","Arunachal Pradesh","2007",0
+"SC/ST (POA) Act","Assam","2007",0
+"SC/ST (POA) Act","Bihar","2007",1933
+"SC/ST (POA) Act","Chandigarh","2007",0
+"SC/ST (POA) Act","Chhattisgarh","2007",150
+"SC/ST (POA) Act","D&N Haveli","2007",0
+"SC/ST (POA) Act","Daman & Diu","2007",0
+"SC/ST (POA) Act","Delhi UT","2007",24
+"SC/ST (POA) Act","Goa","2007",0
+"SC/ST (POA) Act","Gujarat","2007",328
+"SC/ST (POA) Act","Haryana","2007",75
+"SC/ST (POA) Act","Himachal Pradesh","2007",81
+"SC/ST (POA) Act","Jammu & Kashmir","2007",0
+"SC/ST (POA) Act","Jharkhand","2007",274
+"SC/ST (POA) Act","Karnataka","2007",1016
+"SC/ST (POA) Act","Kerala","2007",42
+"SC/ST (POA) Act","Lakshadweep","2007",0
+"SC/ST (POA) Act","Madhya Pradesh","2007",348
+"SC/ST (POA) Act","Maharashtra","2007",370
+"SC/ST (POA) Act","Manipur","2007",0
+"SC/ST (POA) Act","Meghalaya","2007",0
+"SC/ST (POA) Act","Mizoram","2007",0
+"SC/ST (POA) Act","Nagaland","2007",0
+"SC/ST (POA) Act","Odisha","2007",554
+"SC/ST (POA) Act","Puducherry","2007",0
+"SC/ST (POA) Act","Punjab","2007",88
+"SC/ST (POA) Act","Rajasthan","2007",102
+"SC/ST (POA) Act","Sikkim","2007",0
+"SC/ST (POA) Act","Tamil Nadu","2007",1064
+"SC/ST (POA) Act","Tripura","2007",0
+"SC/ST (POA) Act","Uttar Pradesh","2007",2113
+"SC/ST (POA) Act","Uttarakhand","2007",56
+"SC/ST (POA) Act","West Bengal","2007",1
+"Total Crimes against SCs","A&N Islands","2007",0
+"Total Crimes against SCs","Andhra Pradesh","2007",3383
+"Total Crimes against SCs","Arunachal Pradesh","2007",0
+"Total Crimes against SCs","Assam","2007",126
+"Total Crimes against SCs","Bihar","2007",2786
+"Total Crimes against SCs","Chandigarh","2007",0
+"Total Crimes against SCs","Chhattisgarh","2007",511
+"Total Crimes against SCs","D&N Haveli","2007",0
+"Total Crimes against SCs","Daman & Diu","2007",0
+"Total Crimes against SCs","Delhi UT","2007",24
+"Total Crimes against SCs","Goa","2007",0
+"Total Crimes against SCs","Gujarat","2007",1040
+"Total Crimes against SCs","Haryana","2007",227
+"Total Crimes against SCs","Himachal Pradesh","2007",91
+"Total Crimes against SCs","Jammu & Kashmir","2007",1
+"Total Crimes against SCs","Jharkhand","2007",538
+"Total Crimes against SCs","Karnataka","2007",1844
+"Total Crimes against SCs","Kerala","2007",477
+"Total Crimes against SCs","Lakshadweep","2007",0
+"Total Crimes against SCs","Madhya Pradesh","2007",4106
+"Total Crimes against SCs","Maharashtra","2007",1166
+"Total Crimes against SCs","Manipur","2007",0
+"Total Crimes against SCs","Meghalaya","2007",0
+"Total Crimes against SCs","Mizoram","2007",0
+"Total Crimes against SCs","Nagaland","2007",0
+"Total Crimes against SCs","Odisha","2007",1355
+"Total Crimes against SCs","Puducherry","2007",25
+"Total Crimes against SCs","Punjab","2007",177
+"Total Crimes against SCs","Rajasthan","2007",4174
+"Total Crimes against SCs","Sikkim","2007",10
+"Total Crimes against SCs","Tamil Nadu","2007",1743
+"Total Crimes against SCs","Tripura","2007",8
+"Total Crimes against SCs","Uttar Pradesh","2007",6144
+"Total Crimes against SCs","Uttarakhand","2007",71
+"Total Crimes against SCs","West Bengal","2007",4
+"Arson","A&N Islands","2008",0
+"Arson","Andhra Pradesh","2008",5
+"Arson","Arunachal Pradesh","2008",0
+"Arson","Assam","2008",3
+"Arson","Bihar","2008",44
+"Arson","Chandigarh","2008",0
+"Arson","Chhattisgarh","2008",3
+"Arson","D&N Haveli","2008",0
+"Arson","Daman & Diu","2008",0
+"Arson","Delhi UT","2008",0
+"Arson","Goa","2008",0
+"Arson","Gujarat","2008",10
+"Arson","Haryana","2008",2
+"Arson","Himachal Pradesh","2008",0
+"Arson","Jammu & Kashmir","2008",0
+"Arson","Jharkhand","2008",0
+"Arson","Karnataka","2008",1
+"Arson","Kerala","2008",0
+"Arson","Lakshadweep","2008",0
+"Arson","Madhya Pradesh","2008",41
+"Arson","Maharashtra","2008",10
+"Arson","Manipur","2008",0
+"Arson","Meghalaya","2008",0
+"Arson","Mizoram","2008",0
+"Arson","Nagaland","2008",0
+"Arson","Odisha","2008",14
+"Arson","Puducherry","2008",0
+"Arson","Punjab","2008",0
+"Arson","Rajasthan","2008",29
+"Arson","Sikkim","2008",0
+"Arson","Tamil Nadu","2008",8
+"Arson","Tripura","2008",0
+"Arson","Uttar Pradesh","2008",53
+"Arson","Uttarakhand","2008",1
+"Arson","West Bengal","2008",0
+"Dacoity","A&N Islands","2008",0
+"Dacoity","Andhra Pradesh","2008",0
+"Dacoity","Arunachal Pradesh","2008",0
+"Dacoity","Assam","2008",5
+"Dacoity","Bihar","2008",7
+"Dacoity","Chandigarh","2008",0
+"Dacoity","Chhattisgarh","2008",0
+"Dacoity","D&N Haveli","2008",0
+"Dacoity","Daman & Diu","2008",0
+"Dacoity","Delhi UT","2008",0
+"Dacoity","Goa","2008",0
+"Dacoity","Gujarat","2008",7
+"Dacoity","Haryana","2008",0
+"Dacoity","Himachal Pradesh","2008",0
+"Dacoity","Jammu & Kashmir","2008",0
+"Dacoity","Jharkhand","2008",0
+"Dacoity","Karnataka","2008",2
+"Dacoity","Kerala","2008",1
+"Dacoity","Lakshadweep","2008",0
+"Dacoity","Madhya Pradesh","2008",1
+"Dacoity","Maharashtra","2008",17
+"Dacoity","Manipur","2008",0
+"Dacoity","Meghalaya","2008",0
+"Dacoity","Mizoram","2008",0
+"Dacoity","Nagaland","2008",0
+"Dacoity","Odisha","2008",7
+"Dacoity","Puducherry","2008",0
+"Dacoity","Punjab","2008",0
+"Dacoity","Rajasthan","2008",0
+"Dacoity","Sikkim","2008",0
+"Dacoity","Tamil Nadu","2008",0
+"Dacoity","Tripura","2008",0
+"Dacoity","Uttar Pradesh","2008",3
+"Dacoity","Uttarakhand","2008",0
+"Dacoity","West Bengal","2008",0
+"Hurt","A&N Islands","2008",0
+"Hurt","Andhra Pradesh","2008",651
+"Hurt","Arunachal Pradesh","2008",0
+"Hurt","Assam","2008",24
+"Hurt","Bihar","2008",433
+"Hurt","Chandigarh","2008",0
+"Hurt","Chhattisgarh","2008",16
+"Hurt","D&N Haveli","2008",0
+"Hurt","Daman & Diu","2008",0
+"Hurt","Delhi UT","2008",0
+"Hurt","Goa","2008",0
+"Hurt","Gujarat","2008",240
+"Hurt","Haryana","2008",39
+"Hurt","Himachal Pradesh","2008",0
+"Hurt","Jammu & Kashmir","2008",0
+"Hurt","Jharkhand","2008",112
+"Hurt","Karnataka","2008",243
+"Hurt","Kerala","2008",144
+"Hurt","Lakshadweep","2008",0
+"Hurt","Madhya Pradesh","2008",706
+"Hurt","Maharashtra","2008",97
+"Hurt","Manipur","2008",0
+"Hurt","Meghalaya","2008",0
+"Hurt","Mizoram","2008",0
+"Hurt","Nagaland","2008",0
+"Hurt","Odisha","2008",318
+"Hurt","Puducherry","2008",0
+"Hurt","Punjab","2008",3
+"Hurt","Rajasthan","2008",498
+"Hurt","Sikkim","2008",8
+"Hurt","Tamil Nadu","2008",147
+"Hurt","Tripura","2008",1
+"Hurt","Uttar Pradesh","2008",447
+"Hurt","Uttarakhand","2008",6
+"Hurt","West Bengal","2008",1
+"Kidnapping & Abduction","A&N Islands","2008",0
+"Kidnapping & Abduction","Andhra Pradesh","2008",18
+"Kidnapping & Abduction","Arunachal Pradesh","2008",0
+"Kidnapping & Abduction","Assam","2008",20
+"Kidnapping & Abduction","Bihar","2008",29
+"Kidnapping & Abduction","Chandigarh","2008",0
+"Kidnapping & Abduction","Chhattisgarh","2008",0
+"Kidnapping & Abduction","D&N Haveli","2008",1
+"Kidnapping & Abduction","Daman & Diu","2008",0
+"Kidnapping & Abduction","Delhi UT","2008",0
+"Kidnapping & Abduction","Goa","2008",0
+"Kidnapping & Abduction","Gujarat","2008",18
+"Kidnapping & Abduction","Haryana","2008",32
+"Kidnapping & Abduction","Himachal Pradesh","2008",0
+"Kidnapping & Abduction","Jammu & Kashmir","2008",0
+"Kidnapping & Abduction","Jharkhand","2008",5
+"Kidnapping & Abduction","Karnataka","2008",8
+"Kidnapping & Abduction","Kerala","2008",3
+"Kidnapping & Abduction","Lakshadweep","2008",0
+"Kidnapping & Abduction","Madhya Pradesh","2008",27
+"Kidnapping & Abduction","Maharashtra","2008",24
+"Kidnapping & Abduction","Manipur","2008",0
+"Kidnapping & Abduction","Meghalaya","2008",0
+"Kidnapping & Abduction","Mizoram","2008",0
+"Kidnapping & Abduction","Nagaland","2008",0
+"Kidnapping & Abduction","Odisha","2008",32
+"Kidnapping & Abduction","Puducherry","2008",0
+"Kidnapping & Abduction","Punjab","2008",1
+"Kidnapping & Abduction","Rajasthan","2008",36
+"Kidnapping & Abduction","Sikkim","2008",2
+"Kidnapping & Abduction","Tamil Nadu","2008",2
+"Kidnapping & Abduction","Tripura","2008",0
+"Kidnapping & Abduction","Uttar Pradesh","2008",219
+"Kidnapping & Abduction","Uttarakhand","2008",0
+"Kidnapping & Abduction","West Bengal","2008",0
+"Murder","A&N Islands","2008",0
+"Murder","Andhra Pradesh","2008",48
+"Murder","Arunachal Pradesh","2008",0
+"Murder","Assam","2008",9
+"Murder","Bihar","2008",46
+"Murder","Chandigarh","2008",0
+"Murder","Chhattisgarh","2008",7
+"Murder","D&N Haveli","2008",0
+"Murder","Daman & Diu","2008",0
+"Murder","Delhi UT","2008",0
+"Murder","Goa","2008",0
+"Murder","Gujarat","2008",13
+"Murder","Haryana","2008",6
+"Murder","Himachal Pradesh","2008",0
+"Murder","Jammu & Kashmir","2008",0
+"Murder","Jharkhand","2008",7
+"Murder","Karnataka","2008",27
+"Murder","Kerala","2008",3
+"Murder","Lakshadweep","2008",0
+"Murder","Madhya Pradesh","2008",87
+"Murder","Maharashtra","2008",23
+"Murder","Manipur","2008",0
+"Murder","Meghalaya","2008",0
+"Murder","Mizoram","2008",0
+"Murder","Nagaland","2008",0
+"Murder","Odisha","2008",17
+"Murder","Puducherry","2008",0
+"Murder","Punjab","2008",0
+"Murder","Rajasthan","2008",53
+"Murder","Sikkim","2008",1
+"Murder","Tamil Nadu","2008",31
+"Murder","Tripura","2008",1
+"Murder","Uttar Pradesh","2008",239
+"Murder","Uttarakhand","2008",4
+"Murder","West Bengal","2008",0
+"Other Crimes Against SCs","A&N Islands","2008",0
+"Other Crimes Against SCs","Andhra Pradesh","2008",1682
+"Other Crimes Against SCs","Arunachal Pradesh","2008",0
+"Other Crimes Against SCs","Assam","2008",21
+"Other Crimes Against SCs","Bihar","2008",592
+"Other Crimes Against SCs","Chandigarh","2008",1
+"Other Crimes Against SCs","Chhattisgarh","2008",301
+"Other Crimes Against SCs","D&N Haveli","2008",0
+"Other Crimes Against SCs","Daman & Diu","2008",0
+"Other Crimes Against SCs","Delhi UT","2008",0
+"Other Crimes Against SCs","Goa","2008",2
+"Other Crimes Against SCs","Gujarat","2008",484
+"Other Crimes Against SCs","Haryana","2008",101
+"Other Crimes Against SCs","Himachal Pradesh","2008",15
+"Other Crimes Against SCs","Jammu & Kashmir","2008",0
+"Other Crimes Against SCs","Jharkhand","2008",181
+"Other Crimes Against SCs","Karnataka","2008",787
+"Other Crimes Against SCs","Kerala","2008",249
+"Other Crimes Against SCs","Lakshadweep","2008",0
+"Other Crimes Against SCs","Madhya Pradesh","2008",1736
+"Other Crimes Against SCs","Maharashtra","2008",568
+"Other Crimes Against SCs","Manipur","2008",0
+"Other Crimes Against SCs","Meghalaya","2008",0
+"Other Crimes Against SCs","Mizoram","2008",0
+"Other Crimes Against SCs","Nagaland","2008",0
+"Other Crimes Against SCs","Odisha","2008",694
+"Other Crimes Against SCs","Puducherry","2008",0
+"Other Crimes Against SCs","Punjab","2008",13
+"Other Crimes Against SCs","Rajasthan","2008",3450
+"Other Crimes Against SCs","Sikkim","2008",1
+"Other Crimes Against SCs","Tamil Nadu","2008",215
+"Other Crimes Against SCs","Tripura","2008",0
+"Other Crimes Against SCs","Uttar Pradesh","2008",3542
+"Other Crimes Against SCs","Uttarakhand","2008",0
+"Other Crimes Against SCs","West Bengal","2008",10
+"Protection of Civil Rights Act","A&N Islands","2008",0
+"Protection of Civil Rights Act","Andhra Pradesh","2008",123
+"Protection of Civil Rights Act","Arunachal Pradesh","2008",0
+"Protection of Civil Rights Act","Assam","2008",0
+"Protection of Civil Rights Act","Bihar","2008",0
+"Protection of Civil Rights Act","Chandigarh","2008",0
+"Protection of Civil Rights Act","Chhattisgarh","2008",0
+"Protection of Civil Rights Act","D&N Haveli","2008",0
+"Protection of Civil Rights Act","Daman & Diu","2008",0
+"Protection of Civil Rights Act","Delhi UT","2008",0
+"Protection of Civil Rights Act","Goa","2008",0
+"Protection of Civil Rights Act","Gujarat","2008",3
+"Protection of Civil Rights Act","Haryana","2008",2
+"Protection of Civil Rights Act","Himachal Pradesh","2008",3
+"Protection of Civil Rights Act","Jammu & Kashmir","2008",0
+"Protection of Civil Rights Act","Jharkhand","2008",0
+"Protection of Civil Rights Act","Karnataka","2008",49
+"Protection of Civil Rights Act","Kerala","2008",0
+"Protection of Civil Rights Act","Lakshadweep","2008",0
+"Protection of Civil Rights Act","Madhya Pradesh","2008",0
+"Protection of Civil Rights Act","Maharashtra","2008",20
+"Protection of Civil Rights Act","Manipur","2008",0
+"Protection of Civil Rights Act","Meghalaya","2008",0
+"Protection of Civil Rights Act","Mizoram","2008",0
+"Protection of Civil Rights Act","Nagaland","2008",0
+"Protection of Civil Rights Act","Odisha","2008",0
+"Protection of Civil Rights Act","Puducherry","2008",27
+"Protection of Civil Rights Act","Punjab","2008",0
+"Protection of Civil Rights Act","Rajasthan","2008",0
+"Protection of Civil Rights Act","Sikkim","2008",0
+"Protection of Civil Rights Act","Tamil Nadu","2008",3
+"Protection of Civil Rights Act","Tripura","2008",0
+"Protection of Civil Rights Act","Uttar Pradesh","2008",49
+"Protection of Civil Rights Act","Uttarakhand","2008",0
+"Protection of Civil Rights Act","West Bengal","2008",0
+"Rape","A&N Islands","2008",0
+"Rape","Andhra Pradesh","2008",88
+"Rape","Arunachal Pradesh","2008",0
+"Rape","Assam","2008",16
+"Rape","Bihar","2008",23
+"Rape","Chandigarh","2008",0
+"Rape","Chhattisgarh","2008",55
+"Rape","D&N Haveli","2008",0
+"Rape","Daman & Diu","2008",0
+"Rape","Delhi UT","2008",0
+"Rape","Goa","2008",0
+"Rape","Gujarat","2008",30
+"Rape","Haryana","2008",60
+"Rape","Himachal Pradesh","2008",5
+"Rape","Jammu & Kashmir","2008",0
+"Rape","Jharkhand","2008",21
+"Rape","Karnataka","2008",29
+"Rape","Kerala","2008",67
+"Rape","Lakshadweep","2008",0
+"Rape","Madhya Pradesh","2008",357
+"Rape","Maharashtra","2008",93
+"Rape","Manipur","2008",0
+"Rape","Meghalaya","2008",0
+"Rape","Mizoram","2008",0
+"Rape","Nagaland","2008",0
+"Rape","Odisha","2008",48
+"Rape","Puducherry","2008",0
+"Rape","Punjab","2008",5
+"Rape","Rajasthan","2008",153
+"Rape","Sikkim","2008",3
+"Rape","Tamil Nadu","2008",17
+"Rape","Tripura","2008",2
+"Rape","Uttar Pradesh","2008",375
+"Rape","Uttarakhand","2008",6
+"Rape","West Bengal","2008",0
+"Robbery","A&N Islands","2008",0
+"Robbery","Andhra Pradesh","2008",0
+"Robbery","Arunachal Pradesh","2008",0
+"Robbery","Assam","2008",6
+"Robbery","Bihar","2008",17
+"Robbery","Chandigarh","2008",0
+"Robbery","Chhattisgarh","2008",0
+"Robbery","D&N Haveli","2008",0
+"Robbery","Daman & Diu","2008",0
+"Robbery","Delhi UT","2008",0
+"Robbery","Goa","2008",0
+"Robbery","Gujarat","2008",24
+"Robbery","Haryana","2008",0
+"Robbery","Himachal Pradesh","2008",0
+"Robbery","Jammu & Kashmir","2008",0
+"Robbery","Jharkhand","2008",0
+"Robbery","Karnataka","2008",0
+"Robbery","Kerala","2008",1
+"Robbery","Lakshadweep","2008",0
+"Robbery","Madhya Pradesh","2008",10
+"Robbery","Maharashtra","2008",6
+"Robbery","Manipur","2008",0
+"Robbery","Meghalaya","2008",0
+"Robbery","Mizoram","2008",0
+"Robbery","Nagaland","2008",0
+"Robbery","Odisha","2008",4
+"Robbery","Puducherry","2008",0
+"Robbery","Punjab","2008",0
+"Robbery","Rajasthan","2008",1
+"Robbery","Sikkim","2008",1
+"Robbery","Tamil Nadu","2008",1
+"Robbery","Tripura","2008",0
+"Robbery","Uttar Pradesh","2008",10
+"Robbery","Uttarakhand","2008",0
+"Robbery","West Bengal","2008",0
+"SC/ST (POA) Act","A&N Islands","2008",0
+"SC/ST (POA) Act","Andhra Pradesh","2008",1383
+"SC/ST (POA) Act","Arunachal Pradesh","2008",0
+"SC/ST (POA) Act","Assam","2008",0
+"SC/ST (POA) Act","Bihar","2008",2426
+"SC/ST (POA) Act","Chandigarh","2008",1
+"SC/ST (POA) Act","Chhattisgarh","2008",2
+"SC/ST (POA) Act","D&N Haveli","2008",0
+"SC/ST (POA) Act","Daman & Diu","2008",0
+"SC/ST (POA) Act","Delhi UT","2008",34
+"SC/ST (POA) Act","Goa","2008",2
+"SC/ST (POA) Act","Gujarat","2008",402
+"SC/ST (POA) Act","Haryana","2008",99
+"SC/ST (POA) Act","Himachal Pradesh","2008",48
+"SC/ST (POA) Act","Jammu & Kashmir","2008",0
+"SC/ST (POA) Act","Jharkhand","2008",272
+"SC/ST (POA) Act","Karnataka","2008",1246
+"SC/ST (POA) Act","Kerala","2008",51
+"SC/ST (POA) Act","Lakshadweep","2008",0
+"SC/ST (POA) Act","Madhya Pradesh","2008",0
+"SC/ST (POA) Act","Maharashtra","2008",334
+"SC/ST (POA) Act","Manipur","2008",0
+"SC/ST (POA) Act","Meghalaya","2008",0
+"SC/ST (POA) Act","Mizoram","2008",0
+"SC/ST (POA) Act","Nagaland","2008",0
+"SC/ST (POA) Act","Odisha","2008",702
+"SC/ST (POA) Act","Puducherry","2008",2
+"SC/ST (POA) Act","Punjab","2008",79
+"SC/ST (POA) Act","Rajasthan","2008",82
+"SC/ST (POA) Act","Sikkim","2008",1
+"SC/ST (POA) Act","Tamil Nadu","2008",1194
+"SC/ST (POA) Act","Tripura","2008",0
+"SC/ST (POA) Act","Uttar Pradesh","2008",3072
+"SC/ST (POA) Act","Uttarakhand","2008",25
+"SC/ST (POA) Act","West Bengal","2008",8
+"Total Crimes against SCs","A&N Islands","2008",0
+"Total Crimes against SCs","Andhra Pradesh","2008",3998
+"Total Crimes against SCs","Arunachal Pradesh","2008",0
+"Total Crimes against SCs","Assam","2008",104
+"Total Crimes against SCs","Bihar","2008",3617
+"Total Crimes against SCs","Chandigarh","2008",2
+"Total Crimes against SCs","Chhattisgarh","2008",384
+"Total Crimes against SCs","D&N Haveli","2008",1
+"Total Crimes against SCs","Daman & Diu","2008",0
+"Total Crimes against SCs","Delhi UT","2008",34
+"Total Crimes against SCs","Goa","2008",4
+"Total Crimes against SCs","Gujarat","2008",1231
+"Total Crimes against SCs","Haryana","2008",341
+"Total Crimes against SCs","Himachal Pradesh","2008",71
+"Total Crimes against SCs","Jammu & Kashmir","2008",0
+"Total Crimes against SCs","Jharkhand","2008",598
+"Total Crimes against SCs","Karnataka","2008",2392
+"Total Crimes against SCs","Kerala","2008",519
+"Total Crimes against SCs","Lakshadweep","2008",0
+"Total Crimes against SCs","Madhya Pradesh","2008",2965
+"Total Crimes against SCs","Maharashtra","2008",1192
+"Total Crimes against SCs","Manipur","2008",0
+"Total Crimes against SCs","Meghalaya","2008",0
+"Total Crimes against SCs","Mizoram","2008",0
+"Total Crimes against SCs","Nagaland","2008",0
+"Total Crimes against SCs","Odisha","2008",1836
+"Total Crimes against SCs","Puducherry","2008",29
+"Total Crimes against SCs","Punjab","2008",101
+"Total Crimes against SCs","Rajasthan","2008",4302
+"Total Crimes against SCs","Sikkim","2008",17
+"Total Crimes against SCs","Tamil Nadu","2008",1618
+"Total Crimes against SCs","Tripura","2008",4
+"Total Crimes against SCs","Uttar Pradesh","2008",8009
+"Total Crimes against SCs","Uttarakhand","2008",42
+"Total Crimes against SCs","West Bengal","2008",19
+"Arson","A&N Islands","2009",0
+"Arson","Andhra Pradesh","2009",12
+"Arson","Arunachal Pradesh","2009",0
+"Arson","Assam","2009",0
+"Arson","Bihar","2009",40
+"Arson","Chandigarh","2009",0
+"Arson","Chhattisgarh","2009",0
+"Arson","D&N Haveli","2009",0
+"Arson","Daman & Diu","2009",0
+"Arson","Delhi UT","2009",0
+"Arson","Goa","2009",0
+"Arson","Gujarat","2009",3
+"Arson","Haryana","2009",1
+"Arson","Himachal Pradesh","2009",0
+"Arson","Jammu & Kashmir","2009",0
+"Arson","Jharkhand","2009",0
+"Arson","Karnataka","2009",0
+"Arson","Kerala","2009",1
+"Arson","Lakshadweep","2009",0
+"Arson","Madhya Pradesh","2009",31
+"Arson","Maharashtra","2009",8
+"Arson","Manipur","2009",0
+"Arson","Meghalaya","2009",0
+"Arson","Mizoram","2009",0
+"Arson","Nagaland","2009",0
+"Arson","Odisha","2009",16
+"Arson","Puducherry","2009",0
+"Arson","Punjab","2009",0
+"Arson","Rajasthan","2009",39
+"Arson","Sikkim","2009",2
+"Arson","Tamil Nadu","2009",4
+"Arson","Tripura","2009",0
+"Arson","Uttar Pradesh","2009",38
+"Arson","Uttarakhand","2009",0
+"Arson","West Bengal","2009",0
+"Dacoity","A&N Islands","2009",0
+"Dacoity","Andhra Pradesh","2009",1
+"Dacoity","Arunachal Pradesh","2009",0
+"Dacoity","Assam","2009",0
+"Dacoity","Bihar","2009",0
+"Dacoity","Chandigarh","2009",0
+"Dacoity","Chhattisgarh","2009",0
+"Dacoity","D&N Haveli","2009",0
+"Dacoity","Daman & Diu","2009",0
+"Dacoity","Delhi UT","2009",0
+"Dacoity","Goa","2009",0
+"Dacoity","Gujarat","2009",8
+"Dacoity","Haryana","2009",0
+"Dacoity","Himachal Pradesh","2009",0
+"Dacoity","Jammu & Kashmir","2009",0
+"Dacoity","Jharkhand","2009",3
+"Dacoity","Karnataka","2009",0
+"Dacoity","Kerala","2009",1
+"Dacoity","Lakshadweep","2009",0
+"Dacoity","Madhya Pradesh","2009",0
+"Dacoity","Maharashtra","2009",20
+"Dacoity","Manipur","2009",0
+"Dacoity","Meghalaya","2009",0
+"Dacoity","Mizoram","2009",0
+"Dacoity","Nagaland","2009",0
+"Dacoity","Odisha","2009",5
+"Dacoity","Puducherry","2009",0
+"Dacoity","Punjab","2009",0
+"Dacoity","Rajasthan","2009",0
+"Dacoity","Sikkim","2009",0
+"Dacoity","Tamil Nadu","2009",0
+"Dacoity","Tripura","2009",0
+"Dacoity","Uttar Pradesh","2009",4
+"Dacoity","Uttarakhand","2009",0
+"Dacoity","West Bengal","2009",0
+"Hurt","A&N Islands","2009",0
+"Hurt","Andhra Pradesh","2009",722
+"Hurt","Arunachal Pradesh","2009",0
+"Hurt","Assam","2009",0
+"Hurt","Bihar","2009",539
+"Hurt","Chandigarh","2009",0
+"Hurt","Chhattisgarh","2009",13
+"Hurt","D&N Haveli","2009",0
+"Hurt","Daman & Diu","2009",0
+"Hurt","Delhi UT","2009",0
+"Hurt","Goa","2009",1
+"Hurt","Gujarat","2009",241
+"Hurt","Haryana","2009",48
+"Hurt","Himachal Pradesh","2009",1
+"Hurt","Jammu & Kashmir","2009",0
+"Hurt","Jharkhand","2009",86
+"Hurt","Karnataka","2009",262
+"Hurt","Kerala","2009",148
+"Hurt","Lakshadweep","2009",0
+"Hurt","Madhya Pradesh","2009",714
+"Hurt","Maharashtra","2009",56
+"Hurt","Manipur","2009",0
+"Hurt","Meghalaya","2009",0
+"Hurt","Mizoram","2009",0
+"Hurt","Nagaland","2009",0
+"Hurt","Odisha","2009",390
+"Hurt","Puducherry","2009",0
+"Hurt","Punjab","2009",12
+"Hurt","Rajasthan","2009",557
+"Hurt","Sikkim","2009",8
+"Hurt","Tamil Nadu","2009",105
+"Hurt","Tripura","2009",0
+"Hurt","Uttar Pradesh","2009",403
+"Hurt","Uttarakhand","2009",12
+"Hurt","West Bengal","2009",4
+"Kidnapping & Abduction","A&N Islands","2009",0
+"Kidnapping & Abduction","Andhra Pradesh","2009",19
+"Kidnapping & Abduction","Arunachal Pradesh","2009",0
+"Kidnapping & Abduction","Assam","2009",0
+"Kidnapping & Abduction","Bihar","2009",13
+"Kidnapping & Abduction","Chandigarh","2009",0
+"Kidnapping & Abduction","Chhattisgarh","2009",0
+"Kidnapping & Abduction","D&N Haveli","2009",1
+"Kidnapping & Abduction","Daman & Diu","2009",0
+"Kidnapping & Abduction","Delhi UT","2009",0
+"Kidnapping & Abduction","Goa","2009",0
+"Kidnapping & Abduction","Gujarat","2009",34
+"Kidnapping & Abduction","Haryana","2009",32
+"Kidnapping & Abduction","Himachal Pradesh","2009",0
+"Kidnapping & Abduction","Jammu & Kashmir","2009",0
+"Kidnapping & Abduction","Jharkhand","2009",4
+"Kidnapping & Abduction","Karnataka","2009",6
+"Kidnapping & Abduction","Kerala","2009",2
+"Kidnapping & Abduction","Lakshadweep","2009",0
+"Kidnapping & Abduction","Madhya Pradesh","2009",52
+"Kidnapping & Abduction","Maharashtra","2009",10
+"Kidnapping & Abduction","Manipur","2009",0
+"Kidnapping & Abduction","Meghalaya","2009",0
+"Kidnapping & Abduction","Mizoram","2009",0
+"Kidnapping & Abduction","Nagaland","2009",0
+"Kidnapping & Abduction","Odisha","2009",33
+"Kidnapping & Abduction","Puducherry","2009",0
+"Kidnapping & Abduction","Punjab","2009",2
+"Kidnapping & Abduction","Rajasthan","2009",36
+"Kidnapping & Abduction","Sikkim","2009",1
+"Kidnapping & Abduction","Tamil Nadu","2009",8
+"Kidnapping & Abduction","Tripura","2009",1
+"Kidnapping & Abduction","Uttar Pradesh","2009",254
+"Kidnapping & Abduction","Uttarakhand","2009",2
+"Kidnapping & Abduction","West Bengal","2009",1
+"Murder","A&N Islands","2009",0
+"Murder","Andhra Pradesh","2009",35
+"Murder","Arunachal Pradesh","2009",0
+"Murder","Assam","2009",0
+"Murder","Bihar","2009",22
+"Murder","Chandigarh","2009",0
+"Murder","Chhattisgarh","2009",11
+"Murder","D&N Haveli","2009",0
+"Murder","Daman & Diu","2009",0
+"Murder","Delhi UT","2009",0
+"Murder","Goa","2009",0
+"Murder","Gujarat","2009",20
+"Murder","Haryana","2009",7
+"Murder","Himachal Pradesh","2009",1
+"Murder","Jammu & Kashmir","2009",0
+"Murder","Jharkhand","2009",5
+"Murder","Karnataka","2009",38
+"Murder","Kerala","2009",3
+"Murder","Lakshadweep","2009",0
+"Murder","Madhya Pradesh","2009",101
+"Murder","Maharashtra","2009",27
+"Murder","Manipur","2009",0
+"Murder","Meghalaya","2009",0
+"Murder","Mizoram","2009",0
+"Murder","Nagaland","2009",0
+"Murder","Odisha","2009",25
+"Murder","Puducherry","2009",0
+"Murder","Punjab","2009",3
+"Murder","Rajasthan","2009",65
+"Murder","Sikkim","2009",2
+"Murder","Tamil Nadu","2009",27
+"Murder","Tripura","2009",0
+"Murder","Uttar Pradesh","2009",235
+"Murder","Uttarakhand","2009",2
+"Murder","West Bengal","2009",0
+"Other Crimes Against SCs","A&N Islands","2009",0
+"Other Crimes Against SCs","Andhra Pradesh","2009",1836
+"Other Crimes Against SCs","Arunachal Pradesh","2009",0
+"Other Crimes Against SCs","Assam","2009",0
+"Other Crimes Against SCs","Bihar","2009",661
+"Other Crimes Against SCs","Chandigarh","2009",0
+"Other Crimes Against SCs","Chhattisgarh","2009",204
+"Other Crimes Against SCs","D&N Haveli","2009",0
+"Other Crimes Against SCs","Daman & Diu","2009",2
+"Other Crimes Against SCs","Delhi UT","2009",0
+"Other Crimes Against SCs","Goa","2009",2
+"Other Crimes Against SCs","Gujarat","2009",435
+"Other Crimes Against SCs","Haryana","2009",92
+"Other Crimes Against SCs","Himachal Pradesh","2009",18
+"Other Crimes Against SCs","Jammu & Kashmir","2009",0
+"Other Crimes Against SCs","Jharkhand","2009",254
+"Other Crimes Against SCs","Karnataka","2009",719
+"Other Crimes Against SCs","Kerala","2009",205
+"Other Crimes Against SCs","Lakshadweep","2009",0
+"Other Crimes Against SCs","Madhya Pradesh","2009",1820
+"Other Crimes Against SCs","Maharashtra","2009",547
+"Other Crimes Against SCs","Manipur","2009",0
+"Other Crimes Against SCs","Meghalaya","2009",0
+"Other Crimes Against SCs","Mizoram","2009",0
+"Other Crimes Against SCs","Nagaland","2009",0
+"Other Crimes Against SCs","Odisha","2009",511
+"Other Crimes Against SCs","Puducherry","2009",0
+"Other Crimes Against SCs","Punjab","2009",9
+"Other Crimes Against SCs","Rajasthan","2009",4014
+"Other Crimes Against SCs","Sikkim","2009",1
+"Other Crimes Against SCs","Tamil Nadu","2009",107
+"Other Crimes Against SCs","Tripura","2009",3
+"Other Crimes Against SCs","Uttar Pradesh","2009",3645
+"Other Crimes Against SCs","Uttarakhand","2009",0
+"Other Crimes Against SCs","West Bengal","2009",6
+"Protection of Civil Rights Act","A&N Islands","2009",0
+"Protection of Civil Rights Act","Andhra Pradesh","2009",39
+"Protection of Civil Rights Act","Arunachal Pradesh","2009",0
+"Protection of Civil Rights Act","Assam","2009",0
+"Protection of Civil Rights Act","Bihar","2009",0
+"Protection of Civil Rights Act","Chandigarh","2009",0
+"Protection of Civil Rights Act","Chhattisgarh","2009",0
+"Protection of Civil Rights Act","D&N Haveli","2009",0
+"Protection of Civil Rights Act","Daman & Diu","2009",0
+"Protection of Civil Rights Act","Delhi UT","2009",2
+"Protection of Civil Rights Act","Goa","2009",0
+"Protection of Civil Rights Act","Gujarat","2009",2
+"Protection of Civil Rights Act","Haryana","2009",0
+"Protection of Civil Rights Act","Himachal Pradesh","2009",1
+"Protection of Civil Rights Act","Jammu & Kashmir","2009",1
+"Protection of Civil Rights Act","Jharkhand","2009",0
+"Protection of Civil Rights Act","Karnataka","2009",10
+"Protection of Civil Rights Act","Kerala","2009",0
+"Protection of Civil Rights Act","Lakshadweep","2009",0
+"Protection of Civil Rights Act","Madhya Pradesh","2009",0
+"Protection of Civil Rights Act","Maharashtra","2009",24
+"Protection of Civil Rights Act","Manipur","2009",0
+"Protection of Civil Rights Act","Meghalaya","2009",0
+"Protection of Civil Rights Act","Mizoram","2009",0
+"Protection of Civil Rights Act","Nagaland","2009",0
+"Protection of Civil Rights Act","Odisha","2009",0
+"Protection of Civil Rights Act","Puducherry","2009",26
+"Protection of Civil Rights Act","Punjab","2009",0
+"Protection of Civil Rights Act","Rajasthan","2009",0
+"Protection of Civil Rights Act","Sikkim","2009",0
+"Protection of Civil Rights Act","Tamil Nadu","2009",2
+"Protection of Civil Rights Act","Tripura","2009",0
+"Protection of Civil Rights Act","Uttar Pradesh","2009",61
+"Protection of Civil Rights Act","Uttarakhand","2009",0
+"Protection of Civil Rights Act","West Bengal","2009",0
+"Rape","A&N Islands","2009",0
+"Rape","Andhra Pradesh","2009",99
+"Rape","Arunachal Pradesh","2009",0
+"Rape","Assam","2009",0
+"Rape","Bihar","2009",19
+"Rape","Chandigarh","2009",0
+"Rape","Chhattisgarh","2009",55
+"Rape","D&N Haveli","2009",0
+"Rape","Daman & Diu","2009",0
+"Rape","Delhi UT","2009",0
+"Rape","Goa","2009",0
+"Rape","Gujarat","2009",28
+"Rape","Haryana","2009",32
+"Rape","Himachal Pradesh","2009",7
+"Rape","Jammu & Kashmir","2009",0
+"Rape","Jharkhand","2009",8
+"Rape","Karnataka","2009",39
+"Rape","Kerala","2009",62
+"Rape","Lakshadweep","2009",0
+"Rape","Madhya Pradesh","2009",321
+"Rape","Maharashtra","2009",105
+"Rape","Manipur","2009",0
+"Rape","Meghalaya","2009",0
+"Rape","Mizoram","2009",0
+"Rape","Nagaland","2009",0
+"Rape","Odisha","2009",63
+"Rape","Puducherry","2009",0
+"Rape","Punjab","2009",11
+"Rape","Rajasthan","2009",163
+"Rape","Sikkim","2009",1
+"Rape","Tamil Nadu","2009",11
+"Rape","Tripura","2009",0
+"Rape","Uttar Pradesh","2009",317
+"Rape","Uttarakhand","2009",9
+"Rape","West Bengal","2009",0
+"Robbery","A&N Islands","2009",0
+"Robbery","Andhra Pradesh","2009",4
+"Robbery","Arunachal Pradesh","2009",0
+"Robbery","Assam","2009",0
+"Robbery","Bihar","2009",8
+"Robbery","Chandigarh","2009",0
+"Robbery","Chhattisgarh","2009",0
+"Robbery","D&N Haveli","2009",0
+"Robbery","Daman & Diu","2009",0
+"Robbery","Delhi UT","2009",0
+"Robbery","Goa","2009",0
+"Robbery","Gujarat","2009",11
+"Robbery","Haryana","2009",0
+"Robbery","Himachal Pradesh","2009",0
+"Robbery","Jammu & Kashmir","2009",0
+"Robbery","Jharkhand","2009",1
+"Robbery","Karnataka","2009",3
+"Robbery","Kerala","2009",3
+"Robbery","Lakshadweep","2009",0
+"Robbery","Madhya Pradesh","2009",1
+"Robbery","Maharashtra","2009",8
+"Robbery","Manipur","2009",0
+"Robbery","Meghalaya","2009",0
+"Robbery","Mizoram","2009",0
+"Robbery","Nagaland","2009",0
+"Robbery","Odisha","2009",14
+"Robbery","Puducherry","2009",0
+"Robbery","Punjab","2009",0
+"Robbery","Rajasthan","2009",1
+"Robbery","Sikkim","2009",1
+"Robbery","Tamil Nadu","2009",1
+"Robbery","Tripura","2009",0
+"Robbery","Uttar Pradesh","2009",11
+"Robbery","Uttarakhand","2009",0
+"Robbery","West Bengal","2009",0
+"SC/ST (POA) Act","A&N Islands","2009",0
+"SC/ST (POA) Act","Andhra Pradesh","2009",1737
+"SC/ST (POA) Act","Arunachal Pradesh","2009",0
+"SC/ST (POA) Act","Assam","2009",0
+"SC/ST (POA) Act","Bihar","2009",2534
+"SC/ST (POA) Act","Chandigarh","2009",0
+"SC/ST (POA) Act","Chhattisgarh","2009",1
+"SC/ST (POA) Act","D&N Haveli","2009",0
+"SC/ST (POA) Act","Daman & Diu","2009",0
+"SC/ST (POA) Act","Delhi UT","2009",31
+"SC/ST (POA) Act","Goa","2009",0
+"SC/ST (POA) Act","Gujarat","2009",400
+"SC/ST (POA) Act","Haryana","2009",91
+"SC/ST (POA) Act","Himachal Pradesh","2009",60
+"SC/ST (POA) Act","Jammu & Kashmir","2009",0
+"SC/ST (POA) Act","Jharkhand","2009",270
+"SC/ST (POA) Act","Karnataka","2009",1097
+"SC/ST (POA) Act","Kerala","2009",42
+"SC/ST (POA) Act","Lakshadweep","2009",0
+"SC/ST (POA) Act","Madhya Pradesh","2009",0
+"SC/ST (POA) Act","Maharashtra","2009",291
+"SC/ST (POA) Act","Manipur","2009",0
+"SC/ST (POA) Act","Meghalaya","2009",0
+"SC/ST (POA) Act","Mizoram","2009",0
+"SC/ST (POA) Act","Nagaland","2009",0
+"SC/ST (POA) Act","Odisha","2009",652
+"SC/ST (POA) Act","Puducherry","2009",3
+"SC/ST (POA) Act","Punjab","2009",71
+"SC/ST (POA) Act","Rajasthan","2009",110
+"SC/ST (POA) Act","Sikkim","2009",0
+"SC/ST (POA) Act","Tamil Nadu","2009",1047
+"SC/ST (POA) Act","Tripura","2009",3
+"SC/ST (POA) Act","Uttar Pradesh","2009",2554
+"SC/ST (POA) Act","Uttarakhand","2009",33
+"SC/ST (POA) Act","West Bengal","2009",10
+"Total Crimes against SCs","A&N Islands","2009",0
+"Total Crimes against SCs","Andhra Pradesh","2009",4504
+"Total Crimes against SCs","Arunachal Pradesh","2009",0
+"Total Crimes against SCs","Assam","2009",0
+"Total Crimes against SCs","Bihar","2009",3836
+"Total Crimes against SCs","Chandigarh","2009",0
+"Total Crimes against SCs","Chhattisgarh","2009",284
+"Total Crimes against SCs","D&N Haveli","2009",1
+"Total Crimes against SCs","Daman & Diu","2009",2
+"Total Crimes against SCs","Delhi UT","2009",33
+"Total Crimes against SCs","Goa","2009",3
+"Total Crimes against SCs","Gujarat","2009",1182
+"Total Crimes against SCs","Haryana","2009",303
+"Total Crimes against SCs","Himachal Pradesh","2009",88
+"Total Crimes against SCs","Jammu & Kashmir","2009",1
+"Total Crimes against SCs","Jharkhand","2009",631
+"Total Crimes against SCs","Karnataka","2009",2174
+"Total Crimes against SCs","Kerala","2009",467
+"Total Crimes against SCs","Lakshadweep","2009",0
+"Total Crimes against SCs","Madhya Pradesh","2009",3040
+"Total Crimes against SCs","Maharashtra","2009",1096
+"Total Crimes against SCs","Manipur","2009",0
+"Total Crimes against SCs","Meghalaya","2009",0
+"Total Crimes against SCs","Mizoram","2009",0
+"Total Crimes against SCs","Nagaland","2009",0
+"Total Crimes against SCs","Odisha","2009",1709
+"Total Crimes against SCs","Puducherry","2009",29
+"Total Crimes against SCs","Punjab","2009",108
+"Total Crimes against SCs","Rajasthan","2009",4985
+"Total Crimes against SCs","Sikkim","2009",16
+"Total Crimes against SCs","Tamil Nadu","2009",1312
+"Total Crimes against SCs","Tripura","2009",7
+"Total Crimes against SCs","Uttar Pradesh","2009",7522
+"Total Crimes against SCs","Uttarakhand","2009",58
+"Total Crimes against SCs","West Bengal","2009",21
+"Arson","A&N Islands","2010",0
+"Arson","Andhra Pradesh","2010",17
+"Arson","Arunachal Pradesh","2010",0
+"Arson","Assam","2010",0
+"Arson","Bihar","2010",15
+"Arson","Chandigarh","2010",0
+"Arson","Chhattisgarh","2010",2
+"Arson","D&N Haveli","2010",0
+"Arson","Daman & Diu","2010",0
+"Arson","Delhi UT","2010",0
+"Arson","Goa","2010",0
+"Arson","Gujarat","2010",4
+"Arson","Haryana","2010",2
+"Arson","Himachal Pradesh","2010",0
+"Arson","Jammu & Kashmir","2010",0
+"Arson","Jharkhand","2010",0
+"Arson","Karnataka","2010",1
+"Arson","Kerala","2010",2
+"Arson","Lakshadweep","2010",0
+"Arson","Madhya Pradesh","2010",24
+"Arson","Maharashtra","2010",12
+"Arson","Manipur","2010",0
+"Arson","Meghalaya","2010",0
+"Arson","Mizoram","2010",0
+"Arson","Nagaland","2010",0
+"Arson","Odisha","2010",6
+"Arson","Puducherry","2010",0
+"Arson","Punjab","2010",0
+"Arson","Rajasthan","2010",31
+"Arson","Sikkim","2010",0
+"Arson","Tamil Nadu","2010",4
+"Arson","Tripura","2010",0
+"Arson","Uttar Pradesh","2010",29
+"Arson","Uttarakhand","2010",0
+"Arson","West Bengal","2010",1
+"Dacoity","A&N Islands","2010",0
+"Dacoity","Andhra Pradesh","2010",0
+"Dacoity","Arunachal Pradesh","2010",0
+"Dacoity","Assam","2010",0
+"Dacoity","Bihar","2010",0
+"Dacoity","Chandigarh","2010",0
+"Dacoity","Chhattisgarh","2010",0
+"Dacoity","D&N Haveli","2010",0
+"Dacoity","Daman & Diu","2010",0
+"Dacoity","Delhi UT","2010",0
+"Dacoity","Goa","2010",0
+"Dacoity","Gujarat","2010",6
+"Dacoity","Haryana","2010",0
+"Dacoity","Himachal Pradesh","2010",0
+"Dacoity","Jammu & Kashmir","2010",0
+"Dacoity","Jharkhand","2010",7
+"Dacoity","Karnataka","2010",3
+"Dacoity","Kerala","2010",0
+"Dacoity","Lakshadweep","2010",0
+"Dacoity","Madhya Pradesh","2010",0
+"Dacoity","Maharashtra","2010",22
+"Dacoity","Manipur","2010",0
+"Dacoity","Meghalaya","2010",0
+"Dacoity","Mizoram","2010",0
+"Dacoity","Nagaland","2010",0
+"Dacoity","Odisha","2010",0
+"Dacoity","Puducherry","2010",0
+"Dacoity","Punjab","2010",0
+"Dacoity","Rajasthan","2010",0
+"Dacoity","Sikkim","2010",0
+"Dacoity","Tamil Nadu","2010",0
+"Dacoity","Tripura","2010",0
+"Dacoity","Uttar Pradesh","2010",3
+"Dacoity","Uttarakhand","2010",0
+"Dacoity","West Bengal","2010",0
+"Hurt","A&N Islands","2010",0
+"Hurt","Andhra Pradesh","2010",709
+"Hurt","Arunachal Pradesh","2010",0
+"Hurt","Assam","2010",0
+"Hurt","Bihar","2010",351
+"Hurt","Chandigarh","2010",0
+"Hurt","Chhattisgarh","2010",11
+"Hurt","D&N Haveli","2010",0
+"Hurt","Daman & Diu","2010",0
+"Hurt","Delhi UT","2010",0
+"Hurt","Goa","2010",0
+"Hurt","Gujarat","2010",291
+"Hurt","Haryana","2010",39
+"Hurt","Himachal Pradesh","2010",2
+"Hurt","Jammu & Kashmir","2010",0
+"Hurt","Jharkhand","2010",135
+"Hurt","Karnataka","2010",214
+"Hurt","Kerala","2010",205
+"Hurt","Lakshadweep","2010",0
+"Hurt","Madhya Pradesh","2010",877
+"Hurt","Maharashtra","2010",77
+"Hurt","Manipur","2010",0
+"Hurt","Meghalaya","2010",0
+"Hurt","Mizoram","2010",0
+"Hurt","Nagaland","2010",0
+"Hurt","Odisha","2010",376
+"Hurt","Puducherry","2010",1
+"Hurt","Punjab","2010",13
+"Hurt","Rajasthan","2010",564
+"Hurt","Sikkim","2010",1
+"Hurt","Tamil Nadu","2010",149
+"Hurt","Tripura","2010",2
+"Hurt","Uttar Pradesh","2010",323
+"Hurt","Uttarakhand","2010",4
+"Hurt","West Bengal","2010",0
+"Kidnapping & Abduction","A&N Islands","2010",0
+"Kidnapping & Abduction","Andhra Pradesh","2010",18
+"Kidnapping & Abduction","Arunachal Pradesh","2010",0
+"Kidnapping & Abduction","Assam","2010",0
+"Kidnapping & Abduction","Bihar","2010",20
+"Kidnapping & Abduction","Chandigarh","2010",0
+"Kidnapping & Abduction","Chhattisgarh","2010",0
+"Kidnapping & Abduction","D&N Haveli","2010",0
+"Kidnapping & Abduction","Daman & Diu","2010",0
+"Kidnapping & Abduction","Delhi UT","2010",0
+"Kidnapping & Abduction","Goa","2010",0
+"Kidnapping & Abduction","Gujarat","2010",28
+"Kidnapping & Abduction","Haryana","2010",23
+"Kidnapping & Abduction","Himachal Pradesh","2010",0
+"Kidnapping & Abduction","Jammu & Kashmir","2010",0
+"Kidnapping & Abduction","Jharkhand","2010",5
+"Kidnapping & Abduction","Karnataka","2010",16
+"Kidnapping & Abduction","Kerala","2010",2
+"Kidnapping & Abduction","Lakshadweep","2010",0
+"Kidnapping & Abduction","Madhya Pradesh","2010",69
+"Kidnapping & Abduction","Maharashtra","2010",25
+"Kidnapping & Abduction","Manipur","2010",0
+"Kidnapping & Abduction","Meghalaya","2010",0
+"Kidnapping & Abduction","Mizoram","2010",0
+"Kidnapping & Abduction","Nagaland","2010",0
+"Kidnapping & Abduction","Odisha","2010",2
+"Kidnapping & Abduction","Puducherry","2010",1
+"Kidnapping & Abduction","Punjab","2010",0
+"Kidnapping & Abduction","Rajasthan","2010",51
+"Kidnapping & Abduction","Sikkim","2010",0
+"Kidnapping & Abduction","Tamil Nadu","2010",0
+"Kidnapping & Abduction","Tripura","2010",0
+"Kidnapping & Abduction","Uttar Pradesh","2010",248
+"Kidnapping & Abduction","Uttarakhand","2010",2
+"Kidnapping & Abduction","West Bengal","2010",0
+"Murder","A&N Islands","2010",0
+"Murder","Andhra Pradesh","2010",43
+"Murder","Arunachal Pradesh","2010",0
+"Murder","Assam","2010",0
+"Murder","Bihar","2010",24
+"Murder","Chandigarh","2010",0
+"Murder","Chhattisgarh","2010",8
+"Murder","D&N Haveli","2010",0
+"Murder","Daman & Diu","2010",0
+"Murder","Delhi UT","2010",0
+"Murder","Goa","2010",0
+"Murder","Gujarat","2010",15
+"Murder","Haryana","2010",13
+"Murder","Himachal Pradesh","2010",0
+"Murder","Jammu & Kashmir","2010",0
+"Murder","Jharkhand","2010",4
+"Murder","Karnataka","2010",16
+"Murder","Kerala","2010",4
+"Murder","Lakshadweep","2010",0
+"Murder","Madhya Pradesh","2010",102
+"Murder","Maharashtra","2010",24
+"Murder","Manipur","2010",0
+"Murder","Meghalaya","2010",0
+"Murder","Mizoram","2010",0
+"Murder","Nagaland","2010",0
+"Murder","Odisha","2010",9
+"Murder","Puducherry","2010",1
+"Murder","Punjab","2010",4
+"Murder","Rajasthan","2010",56
+"Murder","Sikkim","2010",0
+"Murder","Tamil Nadu","2010",20
+"Murder","Tripura","2010",0
+"Murder","Uttar Pradesh","2010",229
+"Murder","Uttarakhand","2010",0
+"Murder","West Bengal","2010",0
+"Other Crimes Against SCs","A&N Islands","2010",0
+"Other Crimes Against SCs","Andhra Pradesh","2010",1874
+"Other Crimes Against SCs","Arunachal Pradesh","2010",0
+"Other Crimes Against SCs","Assam","2010",6
+"Other Crimes Against SCs","Bihar","2010",536
+"Other Crimes Against SCs","Chandigarh","2010",0
+"Other Crimes Against SCs","Chhattisgarh","2010",205
+"Other Crimes Against SCs","D&N Haveli","2010",0
+"Other Crimes Against SCs","Daman & Diu","2010",0
+"Other Crimes Against SCs","Delhi UT","2010",0
+"Other Crimes Against SCs","Goa","2010",0
+"Other Crimes Against SCs","Gujarat","2010",390
+"Other Crimes Against SCs","Haryana","2010",132
+"Other Crimes Against SCs","Himachal Pradesh","2010",21
+"Other Crimes Against SCs","Jammu & Kashmir","2010",0
+"Other Crimes Against SCs","Jharkhand","2010",170
+"Other Crimes Against SCs","Karnataka","2010",899
+"Other Crimes Against SCs","Kerala","2010",258
+"Other Crimes Against SCs","Lakshadweep","2010",0
+"Other Crimes Against SCs","Madhya Pradesh","2010",1969
+"Other Crimes Against SCs","Maharashtra","2010",519
+"Other Crimes Against SCs","Manipur","2010",0
+"Other Crimes Against SCs","Meghalaya","2010",0
+"Other Crimes Against SCs","Mizoram","2010",0
+"Other Crimes Against SCs","Nagaland","2010",0
+"Other Crimes Against SCs","Odisha","2010",32
+"Other Crimes Against SCs","Puducherry","2010",0
+"Other Crimes Against SCs","Punjab","2010",30
+"Other Crimes Against SCs","Rajasthan","2010",3974
+"Other Crimes Against SCs","Sikkim","2010",1
+"Other Crimes Against SCs","Tamil Nadu","2010",186
+"Other Crimes Against SCs","Tripura","2010",8
+"Other Crimes Against SCs","Uttar Pradesh","2010",3795
+"Other Crimes Against SCs","Uttarakhand","2010",0
+"Other Crimes Against SCs","West Bengal","2010",34
+"Protection of Civil Rights Act","A&N Islands","2010",0
+"Protection of Civil Rights Act","Andhra Pradesh","2010",50
+"Protection of Civil Rights Act","Arunachal Pradesh","2010",0
+"Protection of Civil Rights Act","Assam","2010",0
+"Protection of Civil Rights Act","Bihar","2010",0
+"Protection of Civil Rights Act","Chandigarh","2010",0
+"Protection of Civil Rights Act","Chhattisgarh","2010",0
+"Protection of Civil Rights Act","D&N Haveli","2010",0
+"Protection of Civil Rights Act","Daman & Diu","2010",0
+"Protection of Civil Rights Act","Delhi UT","2010",0
+"Protection of Civil Rights Act","Goa","2010",0
+"Protection of Civil Rights Act","Gujarat","2010",0
+"Protection of Civil Rights Act","Haryana","2010",0
+"Protection of Civil Rights Act","Himachal Pradesh","2010",1
+"Protection of Civil Rights Act","Jammu & Kashmir","2010",1
+"Protection of Civil Rights Act","Jharkhand","2010",0
+"Protection of Civil Rights Act","Karnataka","2010",33
+"Protection of Civil Rights Act","Kerala","2010",0
+"Protection of Civil Rights Act","Lakshadweep","2010",0
+"Protection of Civil Rights Act","Madhya Pradesh","2010",1
+"Protection of Civil Rights Act","Maharashtra","2010",25
+"Protection of Civil Rights Act","Manipur","2010",0
+"Protection of Civil Rights Act","Meghalaya","2010",0
+"Protection of Civil Rights Act","Mizoram","2010",0
+"Protection of Civil Rights Act","Nagaland","2010",0
+"Protection of Civil Rights Act","Odisha","2010",3
+"Protection of Civil Rights Act","Puducherry","2010",26
+"Protection of Civil Rights Act","Punjab","2010",0
+"Protection of Civil Rights Act","Rajasthan","2010",0
+"Protection of Civil Rights Act","Sikkim","2010",0
+"Protection of Civil Rights Act","Tamil Nadu","2010",3
+"Protection of Civil Rights Act","Tripura","2010",0
+"Protection of Civil Rights Act","Uttar Pradesh","2010",0
+"Protection of Civil Rights Act","Uttarakhand","2010",0
+"Protection of Civil Rights Act","West Bengal","2010",0
+"Rape","A&N Islands","2010",0
+"Rape","Andhra Pradesh","2010",100
+"Rape","Arunachal Pradesh","2010",0
+"Rape","Assam","2010",0
+"Rape","Bihar","2010",16
+"Rape","Chandigarh","2010",0
+"Rape","Chhattisgarh","2010",44
+"Rape","D&N Haveli","2010",0
+"Rape","Daman & Diu","2010",0
+"Rape","Delhi UT","2010",0
+"Rape","Goa","2010",0
+"Rape","Gujarat","2010",34
+"Rape","Haryana","2010",37
+"Rape","Himachal Pradesh","2010",5
+"Rape","Jammu & Kashmir","2010",0
+"Rape","Jharkhand","2010",10
+"Rape","Karnataka","2010",27
+"Rape","Kerala","2010",77
+"Rape","Lakshadweep","2010",0
+"Rape","Madhya Pradesh","2010",316
+"Rape","Maharashtra","2010",89
+"Rape","Manipur","2010",0
+"Rape","Meghalaya","2010",0
+"Rape","Mizoram","2010",0
+"Rape","Nagaland","2010",0
+"Rape","Odisha","2010",51
+"Rape","Puducherry","2010",0
+"Rape","Punjab","2010",18
+"Rape","Rajasthan","2010",200
+"Rape","Sikkim","2010",0
+"Rape","Tamil Nadu","2010",11
+"Rape","Tripura","2010",0
+"Rape","Uttar Pradesh","2010",311
+"Rape","Uttarakhand","2010",3
+"Rape","West Bengal","2010",1
+"Robbery","A&N Islands","2010",0
+"Robbery","Andhra Pradesh","2010",1
+"Robbery","Arunachal Pradesh","2010",0
+"Robbery","Assam","2010",0
+"Robbery","Bihar","2010",6
+"Robbery","Chandigarh","2010",0
+"Robbery","Chhattisgarh","2010",0
+"Robbery","D&N Haveli","2010",0
+"Robbery","Daman & Diu","2010",0
+"Robbery","Delhi UT","2010",0
+"Robbery","Goa","2010",0
+"Robbery","Gujarat","2010",20
+"Robbery","Haryana","2010",3
+"Robbery","Himachal Pradesh","2010",0
+"Robbery","Jammu & Kashmir","2010",0
+"Robbery","Jharkhand","2010",1
+"Robbery","Karnataka","2010",4
+"Robbery","Kerala","2010",0
+"Robbery","Lakshadweep","2010",0
+"Robbery","Madhya Pradesh","2010",3
+"Robbery","Maharashtra","2010",20
+"Robbery","Manipur","2010",0
+"Robbery","Meghalaya","2010",0
+"Robbery","Mizoram","2010",0
+"Robbery","Nagaland","2010",0
+"Robbery","Odisha","2010",7
+"Robbery","Puducherry","2010",0
+"Robbery","Punjab","2010",0
+"Robbery","Rajasthan","2010",0
+"Robbery","Sikkim","2010",0
+"Robbery","Tamil Nadu","2010",3
+"Robbery","Tripura","2010",0
+"Robbery","Uttar Pradesh","2010",6
+"Robbery","Uttarakhand","2010",1
+"Robbery","West Bengal","2010",0
+"SC/ST (POA) Act","A&N Islands","2010",0
+"SC/ST (POA) Act","Andhra Pradesh","2010",1509
+"SC/ST (POA) Act","Arunachal Pradesh","2010",0
+"SC/ST (POA) Act","Assam","2010",1
+"SC/ST (POA) Act","Bihar","2010",2548
+"SC/ST (POA) Act","Chandigarh","2010",0
+"SC/ST (POA) Act","Chhattisgarh","2010",1
+"SC/ST (POA) Act","D&N Haveli","2010",0
+"SC/ST (POA) Act","Daman & Diu","2010",0
+"SC/ST (POA) Act","Delhi UT","2010",16
+"SC/ST (POA) Act","Goa","2010",1
+"SC/ST (POA) Act","Gujarat","2010",220
+"SC/ST (POA) Act","Haryana","2010",131
+"SC/ST (POA) Act","Himachal Pradesh","2010",72
+"SC/ST (POA) Act","Jammu & Kashmir","2010",0
+"SC/ST (POA) Act","Jharkhand","2010",245
+"SC/ST (POA) Act","Karnataka","2010",1292
+"SC/ST (POA) Act","Kerala","2010",35
+"SC/ST (POA) Act","Lakshadweep","2010",0
+"SC/ST (POA) Act","Madhya Pradesh","2010",13
+"SC/ST (POA) Act","Maharashtra","2010",319
+"SC/ST (POA) Act","Manipur","2010",0
+"SC/ST (POA) Act","Meghalaya","2010",0
+"SC/ST (POA) Act","Mizoram","2010",0
+"SC/ST (POA) Act","Nagaland","2010",0
+"SC/ST (POA) Act","Odisha","2010",1224
+"SC/ST (POA) Act","Puducherry","2010",2
+"SC/ST (POA) Act","Punjab","2010",50
+"SC/ST (POA) Act","Rajasthan","2010",103
+"SC/ST (POA) Act","Sikkim","2010",1
+"SC/ST (POA) Act","Tamil Nadu","2010",1255
+"SC/ST (POA) Act","Tripura","2010",1
+"SC/ST (POA) Act","Uttar Pradesh","2010",1328
+"SC/ST (POA) Act","Uttarakhand","2010",25
+"SC/ST (POA) Act","West Bengal","2010",27
+"Total Crimes against SCs","A&N Islands","2010",0
+"Total Crimes against SCs","Andhra Pradesh","2010",4321
+"Total Crimes against SCs","Arunachal Pradesh","2010",0
+"Total Crimes against SCs","Assam","2010",7
+"Total Crimes against SCs","Bihar","2010",3516
+"Total Crimes against SCs","Chandigarh","2010",0
+"Total Crimes against SCs","Chhattisgarh","2010",271
+"Total Crimes against SCs","D&N Haveli","2010",0
+"Total Crimes against SCs","Daman & Diu","2010",0
+"Total Crimes against SCs","Delhi UT","2010",16
+"Total Crimes against SCs","Goa","2010",1
+"Total Crimes against SCs","Gujarat","2010",1008
+"Total Crimes against SCs","Haryana","2010",380
+"Total Crimes against SCs","Himachal Pradesh","2010",101
+"Total Crimes against SCs","Jammu & Kashmir","2010",1
+"Total Crimes against SCs","Jharkhand","2010",577
+"Total Crimes against SCs","Karnataka","2010",2505
+"Total Crimes against SCs","Kerala","2010",583
+"Total Crimes against SCs","Lakshadweep","2010",0
+"Total Crimes against SCs","Madhya Pradesh","2010",3374
+"Total Crimes against SCs","Maharashtra","2010",1132
+"Total Crimes against SCs","Manipur","2010",0
+"Total Crimes against SCs","Meghalaya","2010",0
+"Total Crimes against SCs","Mizoram","2010",0
+"Total Crimes against SCs","Nagaland","2010",0
+"Total Crimes against SCs","Odisha","2010",1710
+"Total Crimes against SCs","Puducherry","2010",31
+"Total Crimes against SCs","Punjab","2010",115
+"Total Crimes against SCs","Rajasthan","2010",4979
+"Total Crimes against SCs","Sikkim","2010",3
+"Total Crimes against SCs","Tamil Nadu","2010",1631
+"Total Crimes against SCs","Tripura","2010",11
+"Total Crimes against SCs","Uttar Pradesh","2010",6272
+"Total Crimes against SCs","Uttarakhand","2010",35
+"Total Crimes against SCs","West Bengal","2010",63
+"Arson","A&N Islands","2011",0
+"Arson","Andhra Pradesh","2011",14
+"Arson","Arunachal Pradesh","2011",0
+"Arson","Assam","2011",0
+"Arson","Bihar","2011",13
+"Arson","Chandigarh","2011",0
+"Arson","Chhattisgarh","2011",0
+"Arson","D&N Haveli","2011",0
+"Arson","Daman & Diu","2011",0
+"Arson","Delhi UT","2011",0
+"Arson","Goa","2011",0
+"Arson","Gujarat","2011",10
+"Arson","Haryana","2011",6
+"Arson","Himachal Pradesh","2011",0
+"Arson","Jammu & Kashmir","2011",0
+"Arson","Jharkhand","2011",0
+"Arson","Karnataka","2011",1
+"Arson","Kerala","2011",2
+"Arson","Lakshadweep","2011",0
+"Arson","Madhya Pradesh","2011",28
+"Arson","Maharashtra","2011",7
+"Arson","Manipur","2011",0
+"Arson","Meghalaya","2011",0
+"Arson","Mizoram","2011",0
+"Arson","Nagaland","2011",0
+"Arson","Odisha","2011",17
+"Arson","Puducherry","2011",0
+"Arson","Punjab","2011",0
+"Arson","Rajasthan","2011",28
+"Arson","Sikkim","2011",0
+"Arson","Tamil Nadu","2011",4
+"Arson","Tripura","2011",0
+"Arson","Uttar Pradesh","2011",39
+"Arson","Uttarakhand","2011",0
+"Arson","West Bengal","2011",0
+"Dacoity","A&N Islands","2011",0
+"Dacoity","Andhra Pradesh","2011",1
+"Dacoity","Arunachal Pradesh","2011",0
+"Dacoity","Assam","2011",0
+"Dacoity","Bihar","2011",3
+"Dacoity","Chandigarh","2011",0
+"Dacoity","Chhattisgarh","2011",0
+"Dacoity","D&N Haveli","2011",0
+"Dacoity","Daman & Diu","2011",0
+"Dacoity","Delhi UT","2011",0
+"Dacoity","Goa","2011",0
+"Dacoity","Gujarat","2011",9
+"Dacoity","Haryana","2011",1
+"Dacoity","Himachal Pradesh","2011",0
+"Dacoity","Jammu & Kashmir","2011",0
+"Dacoity","Jharkhand","2011",1
+"Dacoity","Karnataka","2011",0
+"Dacoity","Kerala","2011",0
+"Dacoity","Lakshadweep","2011",0
+"Dacoity","Madhya Pradesh","2011",1
+"Dacoity","Maharashtra","2011",16
+"Dacoity","Manipur","2011",0
+"Dacoity","Meghalaya","2011",0
+"Dacoity","Mizoram","2011",0
+"Dacoity","Nagaland","2011",0
+"Dacoity","Odisha","2011",1
+"Dacoity","Puducherry","2011",0
+"Dacoity","Punjab","2011",0
+"Dacoity","Rajasthan","2011",0
+"Dacoity","Sikkim","2011",0
+"Dacoity","Tamil Nadu","2011",0
+"Dacoity","Tripura","2011",0
+"Dacoity","Uttar Pradesh","2011",3
+"Dacoity","Uttarakhand","2011",0
+"Dacoity","West Bengal","2011",0
+"Hurt","A&N Islands","2011",0
+"Hurt","Andhra Pradesh","2011",708
+"Hurt","Arunachal Pradesh","2011",0
+"Hurt","Assam","2011",0
+"Hurt","Bihar","2011",355
+"Hurt","Chandigarh","2011",0
+"Hurt","Chhattisgarh","2011",82
+"Hurt","D&N Haveli","2011",0
+"Hurt","Daman & Diu","2011",0
+"Hurt","Delhi UT","2011",0
+"Hurt","Goa","2011",0
+"Hurt","Gujarat","2011",279
+"Hurt","Haryana","2011",28
+"Hurt","Himachal Pradesh","2011",0
+"Hurt","Jammu & Kashmir","2011",0
+"Hurt","Jharkhand","2011",123
+"Hurt","Karnataka","2011",182
+"Hurt","Kerala","2011",293
+"Hurt","Lakshadweep","2011",0
+"Hurt","Madhya Pradesh","2011",900
+"Hurt","Maharashtra","2011",84
+"Hurt","Manipur","2011",0
+"Hurt","Meghalaya","2011",0
+"Hurt","Mizoram","2011",0
+"Hurt","Nagaland","2011",0
+"Hurt","Odisha","2011",127
+"Hurt","Puducherry","2011",0
+"Hurt","Punjab","2011",27
+"Hurt","Rajasthan","2011",510
+"Hurt","Sikkim","2011",2
+"Hurt","Tamil Nadu","2011",206
+"Hurt","Tripura","2011",10
+"Hurt","Uttar Pradesh","2011",320
+"Hurt","Uttarakhand","2011",4
+"Hurt","West Bengal","2011",7
+"Kidnapping & Abduction","A&N Islands","2011",0
+"Kidnapping & Abduction","Andhra Pradesh","2011",19
+"Kidnapping & Abduction","Arunachal Pradesh","2011",0
+"Kidnapping & Abduction","Assam","2011",0
+"Kidnapping & Abduction","Bihar","2011",29
+"Kidnapping & Abduction","Chandigarh","2011",0
+"Kidnapping & Abduction","Chhattisgarh","2011",1
+"Kidnapping & Abduction","D&N Haveli","2011",0
+"Kidnapping & Abduction","Daman & Diu","2011",0
+"Kidnapping & Abduction","Delhi UT","2011",0
+"Kidnapping & Abduction","Goa","2011",0
+"Kidnapping & Abduction","Gujarat","2011",35
+"Kidnapping & Abduction","Haryana","2011",18
+"Kidnapping & Abduction","Himachal Pradesh","2011",0
+"Kidnapping & Abduction","Jammu & Kashmir","2011",0
+"Kidnapping & Abduction","Jharkhand","2011",11
+"Kidnapping & Abduction","Karnataka","2011",11
+"Kidnapping & Abduction","Kerala","2011",6
+"Kidnapping & Abduction","Lakshadweep","2011",0
+"Kidnapping & Abduction","Madhya Pradesh","2011",62
+"Kidnapping & Abduction","Maharashtra","2011",12
+"Kidnapping & Abduction","Manipur","2011",0
+"Kidnapping & Abduction","Meghalaya","2011",0
+"Kidnapping & Abduction","Mizoram","2011",0
+"Kidnapping & Abduction","Nagaland","2011",0
+"Kidnapping & Abduction","Odisha","2011",5
+"Kidnapping & Abduction","Puducherry","2011",0
+"Kidnapping & Abduction","Punjab","2011",2
+"Kidnapping & Abduction","Rajasthan","2011",30
+"Kidnapping & Abduction","Sikkim","2011",1
+"Kidnapping & Abduction","Tamil Nadu","2011",7
+"Kidnapping & Abduction","Tripura","2011",3
+"Kidnapping & Abduction","Uttar Pradesh","2011",363
+"Kidnapping & Abduction","Uttarakhand","2011",1
+"Kidnapping & Abduction","West Bengal","2011",0
+"Murder","A&N Islands","2011",0
+"Murder","Andhra Pradesh","2011",64
+"Murder","Arunachal Pradesh","2011",0
+"Murder","Assam","2011",0
+"Murder","Bihar","2011",29
+"Murder","Chandigarh","2011",0
+"Murder","Chhattisgarh","2011",2
+"Murder","D&N Haveli","2011",0
+"Murder","Daman & Diu","2011",0
+"Murder","Delhi UT","2011",0
+"Murder","Goa","2011",0
+"Murder","Gujarat","2011",12
+"Murder","Haryana","2011",14
+"Murder","Himachal Pradesh","2011",1
+"Murder","Jammu & Kashmir","2011",0
+"Murder","Jharkhand","2011",4
+"Murder","Karnataka","2011",31
+"Murder","Kerala","2011",3
+"Murder","Lakshadweep","2011",0
+"Murder","Madhya Pradesh","2011",99
+"Murder","Maharashtra","2011",26
+"Murder","Manipur","2011",0
+"Murder","Meghalaya","2011",0
+"Murder","Mizoram","2011",0
+"Murder","Nagaland","2011",0
+"Murder","Odisha","2011",13
+"Murder","Puducherry","2011",0
+"Murder","Punjab","2011",5
+"Murder","Rajasthan","2011",51
+"Murder","Sikkim","2011",0
+"Murder","Tamil Nadu","2011",29
+"Murder","Tripura","2011",1
+"Murder","Uttar Pradesh","2011",286
+"Murder","Uttarakhand","2011",3
+"Murder","West Bengal","2011",0
+"Other Crimes Against SCs","A&N Islands","2011",0
+"Other Crimes Against SCs","Andhra Pradesh","2011",1630
+"Other Crimes Against SCs","Arunachal Pradesh","2011",0
+"Other Crimes Against SCs","Assam","2011",0
+"Other Crimes Against SCs","Bihar","2011",138
+"Other Crimes Against SCs","Chandigarh","2011",1
+"Other Crimes Against SCs","Chhattisgarh","2011",127
+"Other Crimes Against SCs","D&N Haveli","2011",1
+"Other Crimes Against SCs","Daman & Diu","2011",0
+"Other Crimes Against SCs","Delhi UT","2011",4
+"Other Crimes Against SCs","Goa","2011",2
+"Other Crimes Against SCs","Gujarat","2011",460
+"Other Crimes Against SCs","Haryana","2011",135
+"Other Crimes Against SCs","Himachal Pradesh","2011",3
+"Other Crimes Against SCs","Jammu & Kashmir","2011",0
+"Other Crimes Against SCs","Jharkhand","2011",200
+"Other Crimes Against SCs","Karnataka","2011",882
+"Other Crimes Against SCs","Kerala","2011",291
+"Other Crimes Against SCs","Lakshadweep","2011",0
+"Other Crimes Against SCs","Madhya Pradesh","2011",1819
+"Other Crimes Against SCs","Maharashtra","2011",577
+"Other Crimes Against SCs","Manipur","2011",0
+"Other Crimes Against SCs","Meghalaya","2011",0
+"Other Crimes Against SCs","Mizoram","2011",0
+"Other Crimes Against SCs","Nagaland","2011",0
+"Other Crimes Against SCs","Odisha","2011",0
+"Other Crimes Against SCs","Puducherry","2011",2
+"Other Crimes Against SCs","Punjab","2011",22
+"Other Crimes Against SCs","Rajasthan","2011",4239
+"Other Crimes Against SCs","Sikkim","2011",4
+"Other Crimes Against SCs","Tamil Nadu","2011",107
+"Other Crimes Against SCs","Tripura","2011",4
+"Other Crimes Against SCs","Uttar Pradesh","2011",4296
+"Other Crimes Against SCs","Uttarakhand","2011",0
+"Other Crimes Against SCs","West Bengal","2011",14
+"Protection of Civil Rights Act","A&N Islands","2011",0
+"Protection of Civil Rights Act","Andhra Pradesh","2011",10
+"Protection of Civil Rights Act","Arunachal Pradesh","2011",0
+"Protection of Civil Rights Act","Assam","2011",0
+"Protection of Civil Rights Act","Bihar","2011",0
+"Protection of Civil Rights Act","Chandigarh","2011",0
+"Protection of Civil Rights Act","Chhattisgarh","2011",0
+"Protection of Civil Rights Act","D&N Haveli","2011",0
+"Protection of Civil Rights Act","Daman & Diu","2011",0
+"Protection of Civil Rights Act","Delhi UT","2011",0
+"Protection of Civil Rights Act","Goa","2011",0
+"Protection of Civil Rights Act","Gujarat","2011",2
+"Protection of Civil Rights Act","Haryana","2011",0
+"Protection of Civil Rights Act","Himachal Pradesh","2011",3
+"Protection of Civil Rights Act","Jammu & Kashmir","2011",1
+"Protection of Civil Rights Act","Jharkhand","2011",0
+"Protection of Civil Rights Act","Karnataka","2011",8
+"Protection of Civil Rights Act","Kerala","2011",1
+"Protection of Civil Rights Act","Lakshadweep","2011",0
+"Protection of Civil Rights Act","Madhya Pradesh","2011",0
+"Protection of Civil Rights Act","Maharashtra","2011",10
+"Protection of Civil Rights Act","Manipur","2011",0
+"Protection of Civil Rights Act","Meghalaya","2011",0
+"Protection of Civil Rights Act","Mizoram","2011",0
+"Protection of Civil Rights Act","Nagaland","2011",0
+"Protection of Civil Rights Act","Odisha","2011",0
+"Protection of Civil Rights Act","Puducherry","2011",15
+"Protection of Civil Rights Act","Punjab","2011",0
+"Protection of Civil Rights Act","Rajasthan","2011",5
+"Protection of Civil Rights Act","Sikkim","2011",0
+"Protection of Civil Rights Act","Tamil Nadu","2011",12
+"Protection of Civil Rights Act","Tripura","2011",0
+"Protection of Civil Rights Act","Uttar Pradesh","2011",0
+"Protection of Civil Rights Act","Uttarakhand","2011",0
+"Protection of Civil Rights Act","West Bengal","2011",0
+"Rape","A&N Islands","2011",0
+"Rape","Andhra Pradesh","2011",131
+"Rape","Arunachal Pradesh","2011",0
+"Rape","Assam","2011",0
+"Rape","Bihar","2011",29
+"Rape","Chandigarh","2011",0
+"Rape","Chhattisgarh","2011",40
+"Rape","D&N Haveli","2011",0
+"Rape","Daman & Diu","2011",0
+"Rape","Delhi UT","2011",0
+"Rape","Goa","2011",0
+"Rape","Gujarat","2011",45
+"Rape","Haryana","2011",56
+"Rape","Himachal Pradesh","2011",5
+"Rape","Jammu & Kashmir","2011",0
+"Rape","Jharkhand","2011",15
+"Rape","Karnataka","2011",32
+"Rape","Kerala","2011",106
+"Rape","Lakshadweep","2011",0
+"Rape","Madhya Pradesh","2011",327
+"Rape","Maharashtra","2011",95
+"Rape","Manipur","2011",0
+"Rape","Meghalaya","2011",0
+"Rape","Mizoram","2011",0
+"Rape","Nagaland","2011",0
+"Rape","Odisha","2011",35
+"Rape","Puducherry","2011",0
+"Rape","Punjab","2011",9
+"Rape","Rajasthan","2011",216
+"Rape","Sikkim","2011",2
+"Rape","Tamil Nadu","2011",11
+"Rape","Tripura","2011",2
+"Rape","Uttar Pradesh","2011",397
+"Rape","Uttarakhand","2011",3
+"Rape","West Bengal","2011",1
+"Robbery","A&N Islands","2011",0
+"Robbery","Andhra Pradesh","2011",0
+"Robbery","Arunachal Pradesh","2011",0
+"Robbery","Assam","2011",0
+"Robbery","Bihar","2011",3
+"Robbery","Chandigarh","2011",0
+"Robbery","Chhattisgarh","2011",1
+"Robbery","D&N Haveli","2011",0
+"Robbery","Daman & Diu","2011",0
+"Robbery","Delhi UT","2011",0
+"Robbery","Goa","2011",0
+"Robbery","Gujarat","2011",19
+"Robbery","Haryana","2011",0
+"Robbery","Himachal Pradesh","2011",0
+"Robbery","Jammu & Kashmir","2011",0
+"Robbery","Jharkhand","2011",0
+"Robbery","Karnataka","2011",3
+"Robbery","Kerala","2011",0
+"Robbery","Lakshadweep","2011",0
+"Robbery","Madhya Pradesh","2011",5
+"Robbery","Maharashtra","2011",12
+"Robbery","Manipur","2011",0
+"Robbery","Meghalaya","2011",0
+"Robbery","Mizoram","2011",0
+"Robbery","Nagaland","2011",0
+"Robbery","Odisha","2011",1
+"Robbery","Puducherry","2011",0
+"Robbery","Punjab","2011",1
+"Robbery","Rajasthan","2011",1
+"Robbery","Sikkim","2011",0
+"Robbery","Tamil Nadu","2011",4
+"Robbery","Tripura","2011",1
+"Robbery","Uttar Pradesh","2011",3
+"Robbery","Uttarakhand","2011",0
+"Robbery","West Bengal","2011",0
+"SC/ST (POA) Act","A&N Islands","2011",0
+"SC/ST (POA) Act","Andhra Pradesh","2011",1439
+"SC/ST (POA) Act","Arunachal Pradesh","2011",0
+"SC/ST (POA) Act","Assam","2011",0
+"SC/ST (POA) Act","Bihar","2011",3024
+"SC/ST (POA) Act","Chandigarh","2011",1
+"SC/ST (POA) Act","Chhattisgarh","2011",0
+"SC/ST (POA) Act","D&N Haveli","2011",0
+"SC/ST (POA) Act","Daman & Diu","2011",0
+"SC/ST (POA) Act","Delhi UT","2011",24
+"SC/ST (POA) Act","Goa","2011",2
+"SC/ST (POA) Act","Gujarat","2011",192
+"SC/ST (POA) Act","Haryana","2011",150
+"SC/ST (POA) Act","Himachal Pradesh","2011",82
+"SC/ST (POA) Act","Jammu & Kashmir","2011",0
+"SC/ST (POA) Act","Jharkhand","2011",282
+"SC/ST (POA) Act","Karnataka","2011",1331
+"SC/ST (POA) Act","Kerala","2011",59
+"SC/ST (POA) Act","Lakshadweep","2011",0
+"SC/ST (POA) Act","Madhya Pradesh","2011",4
+"SC/ST (POA) Act","Maharashtra","2011",304
+"SC/ST (POA) Act","Manipur","2011",0
+"SC/ST (POA) Act","Meghalaya","2011",0
+"SC/ST (POA) Act","Mizoram","2011",0
+"SC/ST (POA) Act","Nagaland","2011",0
+"SC/ST (POA) Act","Odisha","2011",1256
+"SC/ST (POA) Act","Puducherry","2011",1
+"SC/ST (POA) Act","Punjab","2011",24
+"SC/ST (POA) Act","Rajasthan","2011",102
+"SC/ST (POA) Act","Sikkim","2011",0
+"SC/ST (POA) Act","Tamil Nadu","2011",1011
+"SC/ST (POA) Act","Tripura","2011",1
+"SC/ST (POA) Act","Uttar Pradesh","2011",1995
+"SC/ST (POA) Act","Uttarakhand","2011",21
+"SC/ST (POA) Act","West Bengal","2011",37
+"Total Crimes against SCs","A&N Islands","2011",0
+"Total Crimes against SCs","Andhra Pradesh","2011",4016
+"Total Crimes against SCs","Arunachal Pradesh","2011",0
+"Total Crimes against SCs","Assam","2011",0
+"Total Crimes against SCs","Bihar","2011",3623
+"Total Crimes against SCs","Chandigarh","2011",2
+"Total Crimes against SCs","Chhattisgarh","2011",253
+"Total Crimes against SCs","D&N Haveli","2011",1
+"Total Crimes against SCs","Daman & Diu","2011",0
+"Total Crimes against SCs","Delhi UT","2011",28
+"Total Crimes against SCs","Goa","2011",4
+"Total Crimes against SCs","Gujarat","2011",1063
+"Total Crimes against SCs","Haryana","2011",408
+"Total Crimes against SCs","Himachal Pradesh","2011",94
+"Total Crimes against SCs","Jammu & Kashmir","2011",1
+"Total Crimes against SCs","Jharkhand","2011",636
+"Total Crimes against SCs","Karnataka","2011",2481
+"Total Crimes against SCs","Kerala","2011",761
+"Total Crimes against SCs","Lakshadweep","2011",0
+"Total Crimes against SCs","Madhya Pradesh","2011",3245
+"Total Crimes against SCs","Maharashtra","2011",1143
+"Total Crimes against SCs","Manipur","2011",0
+"Total Crimes against SCs","Meghalaya","2011",0
+"Total Crimes against SCs","Mizoram","2011",0
+"Total Crimes against SCs","Nagaland","2011",0
+"Total Crimes against SCs","Odisha","2011",1455
+"Total Crimes against SCs","Puducherry","2011",18
+"Total Crimes against SCs","Punjab","2011",90
+"Total Crimes against SCs","Rajasthan","2011",5182
+"Total Crimes against SCs","Sikkim","2011",9
+"Total Crimes against SCs","Tamil Nadu","2011",1391
+"Total Crimes against SCs","Tripura","2011",22
+"Total Crimes against SCs","Uttar Pradesh","2011",7702
+"Total Crimes against SCs","Uttarakhand","2011",32
+"Total Crimes against SCs","West Bengal","2011",59
+"Arson","A&N Islands","2012",0
+"Arson","Andhra Pradesh","2012",7
+"Arson","Arunachal Pradesh","2012",0
+"Arson","Assam","2012",0
+"Arson","Bihar","2012",47
+"Arson","Chandigarh","2012",0
+"Arson","Chhattisgarh","2012",2
+"Arson","D&N Haveli","2012",0
+"Arson","Daman & Diu","2012",0
+"Arson","Delhi UT","2012",0
+"Arson","Goa","2012",0
+"Arson","Gujarat","2012",3
+"Arson","Haryana","2012",4
+"Arson","Himachal Pradesh","2012",0
+"Arson","Jammu & Kashmir","2012",0
+"Arson","Jharkhand","2012",1
+"Arson","Karnataka","2012",1
+"Arson","Kerala","2012",5
+"Arson","Lakshadweep","2012",0
+"Arson","Madhya Pradesh","2012",27
+"Arson","Maharashtra","2012",9
+"Arson","Manipur","2012",0
+"Arson","Meghalaya","2012",0
+"Arson","Mizoram","2012",0
+"Arson","Nagaland","2012",0
+"Arson","Odisha","2012",31
+"Arson","Puducherry","2012",0
+"Arson","Punjab","2012",0
+"Arson","Rajasthan","2012",32
+"Arson","Sikkim","2012",0
+"Arson","Tamil Nadu","2012",5
+"Arson","Tripura","2012",1
+"Arson","Uttar Pradesh","2012",39
+"Arson","Uttarakhand","2012",0
+"Arson","West Bengal","2012",0
+"Dacoity","A&N Islands","2012",0
+"Dacoity","Andhra Pradesh","2012",0
+"Dacoity","Arunachal Pradesh","2012",0
+"Dacoity","Assam","2012",0
+"Dacoity","Bihar","2012",0
+"Dacoity","Chandigarh","2012",0
+"Dacoity","Chhattisgarh","2012",0
+"Dacoity","D&N Haveli","2012",0
+"Dacoity","Daman & Diu","2012",0
+"Dacoity","Delhi UT","2012",0
+"Dacoity","Goa","2012",0
+"Dacoity","Gujarat","2012",5
+"Dacoity","Haryana","2012",0
+"Dacoity","Himachal Pradesh","2012",0
+"Dacoity","Jammu & Kashmir","2012",0
+"Dacoity","Jharkhand","2012",0
+"Dacoity","Karnataka","2012",0
+"Dacoity","Kerala","2012",0
+"Dacoity","Lakshadweep","2012",0
+"Dacoity","Madhya Pradesh","2012",2
+"Dacoity","Maharashtra","2012",16
+"Dacoity","Manipur","2012",0
+"Dacoity","Meghalaya","2012",0
+"Dacoity","Mizoram","2012",0
+"Dacoity","Nagaland","2012",0
+"Dacoity","Odisha","2012",1
+"Dacoity","Puducherry","2012",0
+"Dacoity","Punjab","2012",0
+"Dacoity","Rajasthan","2012",0
+"Dacoity","Sikkim","2012",0
+"Dacoity","Tamil Nadu","2012",0
+"Dacoity","Tripura","2012",0
+"Dacoity","Uttar Pradesh","2012",3
+"Dacoity","Uttarakhand","2012",0
+"Dacoity","West Bengal","2012",0
+"Hurt","A&N Islands","2012",0
+"Hurt","Andhra Pradesh","2012",626
+"Hurt","Arunachal Pradesh","2012",0
+"Hurt","Assam","2012",0
+"Hurt","Bihar","2012",191
+"Hurt","Chandigarh","2012",0
+"Hurt","Chhattisgarh","2012",81
+"Hurt","D&N Haveli","2012",0
+"Hurt","Daman & Diu","2012",0
+"Hurt","Delhi UT","2012",0
+"Hurt","Goa","2012",0
+"Hurt","Gujarat","2012",236
+"Hurt","Haryana","2012",15
+"Hurt","Himachal Pradesh","2012",0
+"Hurt","Jammu & Kashmir","2012",0
+"Hurt","Jharkhand","2012",171
+"Hurt","Karnataka","2012",161
+"Hurt","Kerala","2012",288
+"Hurt","Lakshadweep","2012",0
+"Hurt","Madhya Pradesh","2012",704
+"Hurt","Maharashtra","2012",81
+"Hurt","Manipur","2012",0
+"Hurt","Meghalaya","2012",0
+"Hurt","Mizoram","2012",0
+"Hurt","Nagaland","2012",0
+"Hurt","Odisha","2012",188
+"Hurt","Puducherry","2012",0
+"Hurt","Punjab","2012",21
+"Hurt","Rajasthan","2012",568
+"Hurt","Sikkim","2012",0
+"Hurt","Tamil Nadu","2012",191
+"Hurt","Tripura","2012",36
+"Hurt","Uttar Pradesh","2012",281
+"Hurt","Uttarakhand","2012",9
+"Hurt","West Bengal","2012",7
+"Kidnapping & Abduction","A&N Islands","2012",0
+"Kidnapping & Abduction","Andhra Pradesh","2012",11
+"Kidnapping & Abduction","Arunachal Pradesh","2012",0
+"Kidnapping & Abduction","Assam","2012",0
+"Kidnapping & Abduction","Bihar","2012",0
+"Kidnapping & Abduction","Chandigarh","2012",0
+"Kidnapping & Abduction","Chhattisgarh","2012",3
+"Kidnapping & Abduction","D&N Haveli","2012",0
+"Kidnapping & Abduction","Daman & Diu","2012",0
+"Kidnapping & Abduction","Delhi UT","2012",0
+"Kidnapping & Abduction","Goa","2012",0
+"Kidnapping & Abduction","Gujarat","2012",32
+"Kidnapping & Abduction","Haryana","2012",27
+"Kidnapping & Abduction","Himachal Pradesh","2012",0
+"Kidnapping & Abduction","Jammu & Kashmir","2012",0
+"Kidnapping & Abduction","Jharkhand","2012",2
+"Kidnapping & Abduction","Karnataka","2012",5
+"Kidnapping & Abduction","Kerala","2012",2
+"Kidnapping & Abduction","Lakshadweep","2012",0
+"Kidnapping & Abduction","Madhya Pradesh","2012",64
+"Kidnapping & Abduction","Maharashtra","2012",23
+"Kidnapping & Abduction","Manipur","2012",0
+"Kidnapping & Abduction","Meghalaya","2012",0
+"Kidnapping & Abduction","Mizoram","2012",0
+"Kidnapping & Abduction","Nagaland","2012",0
+"Kidnapping & Abduction","Odisha","2012",11
+"Kidnapping & Abduction","Puducherry","2012",0
+"Kidnapping & Abduction","Punjab","2012",2
+"Kidnapping & Abduction","Rajasthan","2012",43
+"Kidnapping & Abduction","Sikkim","2012",0
+"Kidnapping & Abduction","Tamil Nadu","2012",4
+"Kidnapping & Abduction","Tripura","2012",1
+"Kidnapping & Abduction","Uttar Pradesh","2012",258
+"Kidnapping & Abduction","Uttarakhand","2012",2
+"Kidnapping & Abduction","West Bengal","2012",0
+"Murder","A&N Islands","2012",0
+"Murder","Andhra Pradesh","2012",54
+"Murder","Arunachal Pradesh","2012",0
+"Murder","Assam","2012",0
+"Murder","Bihar","2012",27
+"Murder","Chandigarh","2012",0
+"Murder","Chhattisgarh","2012",6
+"Murder","D&N Haveli","2012",0
+"Murder","Daman & Diu","2012",0
+"Murder","Delhi UT","2012",0
+"Murder","Goa","2012",0
+"Murder","Gujarat","2012",23
+"Murder","Haryana","2012",19
+"Murder","Himachal Pradesh","2012",0
+"Murder","Jammu & Kashmir","2012",0
+"Murder","Jharkhand","2012",1
+"Murder","Karnataka","2012",36
+"Murder","Kerala","2012",1
+"Murder","Lakshadweep","2012",0
+"Murder","Madhya Pradesh","2012",88
+"Murder","Maharashtra","2012",36
+"Murder","Manipur","2012",0
+"Murder","Meghalaya","2012",0
+"Murder","Mizoram","2012",0
+"Murder","Nagaland","2012",0
+"Murder","Odisha","2012",11
+"Murder","Puducherry","2012",2
+"Murder","Punjab","2012",4
+"Murder","Rajasthan","2012",66
+"Murder","Sikkim","2012",1
+"Murder","Tamil Nadu","2012",37
+"Murder","Tripura","2012",2
+"Murder","Uttar Pradesh","2012",234
+"Murder","Uttarakhand","2012",3
+"Murder","West Bengal","2012",0
+"Other Crimes Against SCs","A&N Islands","2012",0
+"Other Crimes Against SCs","Andhra Pradesh","2012",1444
+"Other Crimes Against SCs","Arunachal Pradesh","2012",0
+"Other Crimes Against SCs","Assam","2012",2
+"Other Crimes Against SCs","Bihar","2012",81
+"Other Crimes Against SCs","Chandigarh","2012",1
+"Other Crimes Against SCs","Chhattisgarh","2012",107
+"Other Crimes Against SCs","D&N Haveli","2012",0
+"Other Crimes Against SCs","Daman & Diu","2012",0
+"Other Crimes Against SCs","Delhi UT","2012",6
+"Other Crimes Against SCs","Goa","2012",5
+"Other Crimes Against SCs","Gujarat","2012",449
+"Other Crimes Against SCs","Haryana","2012",102
+"Other Crimes Against SCs","Himachal Pradesh","2012",30
+"Other Crimes Against SCs","Jammu & Kashmir","2012",1
+"Other Crimes Against SCs","Jharkhand","2012",177
+"Other Crimes Against SCs","Karnataka","2012",1013
+"Other Crimes Against SCs","Kerala","2012",348
+"Other Crimes Against SCs","Lakshadweep","2012",0
+"Other Crimes Against SCs","Madhya Pradesh","2012",1621
+"Other Crimes Against SCs","Maharashtra","2012",544
+"Other Crimes Against SCs","Manipur","2012",0
+"Other Crimes Against SCs","Meghalaya","2012",0
+"Other Crimes Against SCs","Mizoram","2012",0
+"Other Crimes Against SCs","Nagaland","2012",0
+"Other Crimes Against SCs","Odisha","2012",0
+"Other Crimes Against SCs","Puducherry","2012",1
+"Other Crimes Against SCs","Punjab","2012",24
+"Other Crimes Against SCs","Rajasthan","2012",4536
+"Other Crimes Against SCs","Sikkim","2012",1
+"Other Crimes Against SCs","Tamil Nadu","2012",222
+"Other Crimes Against SCs","Tripura","2012",31
+"Other Crimes Against SCs","Uttar Pradesh","2012",3360
+"Other Crimes Against SCs","Uttarakhand","2012",0
+"Other Crimes Against SCs","West Bengal","2012",58
+"Protection of Civil Rights Act","A&N Islands","2012",0
+"Protection of Civil Rights Act","Andhra Pradesh","2012",9
+"Protection of Civil Rights Act","Arunachal Pradesh","2012",0
+"Protection of Civil Rights Act","Assam","2012",0
+"Protection of Civil Rights Act","Bihar","2012",0
+"Protection of Civil Rights Act","Chandigarh","2012",0
+"Protection of Civil Rights Act","Chhattisgarh","2012",0
+"Protection of Civil Rights Act","D&N Haveli","2012",0
+"Protection of Civil Rights Act","Daman & Diu","2012",0
+"Protection of Civil Rights Act","Delhi UT","2012",0
+"Protection of Civil Rights Act","Goa","2012",1
+"Protection of Civil Rights Act","Gujarat","2012",2
+"Protection of Civil Rights Act","Haryana","2012",0
+"Protection of Civil Rights Act","Himachal Pradesh","2012",3
+"Protection of Civil Rights Act","Jammu & Kashmir","2012",1
+"Protection of Civil Rights Act","Jharkhand","2012",0
+"Protection of Civil Rights Act","Karnataka","2012",11
+"Protection of Civil Rights Act","Kerala","2012",0
+"Protection of Civil Rights Act","Lakshadweep","2012",0
+"Protection of Civil Rights Act","Madhya Pradesh","2012",0
+"Protection of Civil Rights Act","Maharashtra","2012",5
+"Protection of Civil Rights Act","Manipur","2012",0
+"Protection of Civil Rights Act","Meghalaya","2012",0
+"Protection of Civil Rights Act","Mizoram","2012",0
+"Protection of Civil Rights Act","Nagaland","2012",0
+"Protection of Civil Rights Act","Odisha","2012",0
+"Protection of Civil Rights Act","Puducherry","2012",20
+"Protection of Civil Rights Act","Punjab","2012",0
+"Protection of Civil Rights Act","Rajasthan","2012",0
+"Protection of Civil Rights Act","Sikkim","2012",0
+"Protection of Civil Rights Act","Tamil Nadu","2012",9
+"Protection of Civil Rights Act","Tripura","2012",0
+"Protection of Civil Rights Act","Uttar Pradesh","2012",1
+"Protection of Civil Rights Act","Uttarakhand","2012",0
+"Protection of Civil Rights Act","West Bengal","2012",0
+"Rape","A&N Islands","2012",0
+"Rape","Andhra Pradesh","2012",104
+"Rape","Arunachal Pradesh","2012",0
+"Rape","Assam","2012",0
+"Rape","Bihar","2012",39
+"Rape","Chandigarh","2012",0
+"Rape","Chhattisgarh","2012",63
+"Rape","D&N Haveli","2012",0
+"Rape","Daman & Diu","2012",0
+"Rape","Delhi UT","2012",0
+"Rape","Goa","2012",0
+"Rape","Gujarat","2012",45
+"Rape","Haryana","2012",67
+"Rape","Himachal Pradesh","2012",13
+"Rape","Jammu & Kashmir","2012",0
+"Rape","Jharkhand","2012",8
+"Rape","Karnataka","2012",43
+"Rape","Kerala","2012",99
+"Rape","Lakshadweep","2012",0
+"Rape","Madhya Pradesh","2012",367
+"Rape","Maharashtra","2012",97
+"Rape","Manipur","2012",0
+"Rape","Meghalaya","2012",0
+"Rape","Mizoram","2012",0
+"Rape","Nagaland","2012",0
+"Rape","Odisha","2012",79
+"Rape","Puducherry","2012",0
+"Rape","Punjab","2012",12
+"Rape","Rajasthan","2012",202
+"Rape","Sikkim","2012",3
+"Rape","Tamil Nadu","2012",34
+"Rape","Tripura","2012",4
+"Rape","Uttar Pradesh","2012",285
+"Rape","Uttarakhand","2012",5
+"Rape","West Bengal","2012",7
+"Robbery","A&N Islands","2012",0
+"Robbery","Andhra Pradesh","2012",1
+"Robbery","Arunachal Pradesh","2012",0
+"Robbery","Assam","2012",0
+"Robbery","Bihar","2012",0
+"Robbery","Chandigarh","2012",0
+"Robbery","Chhattisgarh","2012",0
+"Robbery","D&N Haveli","2012",0
+"Robbery","Daman & Diu","2012",0
+"Robbery","Delhi UT","2012",0
+"Robbery","Goa","2012",0
+"Robbery","Gujarat","2012",16
+"Robbery","Haryana","2012",3
+"Robbery","Himachal Pradesh","2012",0
+"Robbery","Jammu & Kashmir","2012",0
+"Robbery","Jharkhand","2012",0
+"Robbery","Karnataka","2012",1
+"Robbery","Kerala","2012",0
+"Robbery","Lakshadweep","2012",0
+"Robbery","Madhya Pradesh","2012",1
+"Robbery","Maharashtra","2012",13
+"Robbery","Manipur","2012",0
+"Robbery","Meghalaya","2012",0
+"Robbery","Mizoram","2012",0
+"Robbery","Nagaland","2012",0
+"Robbery","Odisha","2012",1
+"Robbery","Puducherry","2012",0
+"Robbery","Punjab","2012",0
+"Robbery","Rajasthan","2012",1
+"Robbery","Sikkim","2012",0
+"Robbery","Tamil Nadu","2012",2
+"Robbery","Tripura","2012",0
+"Robbery","Uttar Pradesh","2012",1
+"Robbery","Uttarakhand","2012",0
+"Robbery","West Bengal","2012",0
+"SC/ST (POA) Act","A&N Islands","2012",0
+"SC/ST (POA) Act","Andhra Pradesh","2012",801
+"SC/ST (POA) Act","Arunachal Pradesh","2012",0
+"SC/ST (POA) Act","Assam","2012",2
+"SC/ST (POA) Act","Bihar","2012",4436
+"SC/ST (POA) Act","Chandigarh","2012",1
+"SC/ST (POA) Act","Chhattisgarh","2012",0
+"SC/ST (POA) Act","D&N Haveli","2012",0
+"SC/ST (POA) Act","Daman & Diu","2012",0
+"SC/ST (POA) Act","Delhi UT","2012",38
+"SC/ST (POA) Act","Goa","2012",4
+"SC/ST (POA) Act","Gujarat","2012",217
+"SC/ST (POA) Act","Haryana","2012",15
+"SC/ST (POA) Act","Himachal Pradesh","2012",83
+"SC/ST (POA) Act","Jammu & Kashmir","2012",0
+"SC/ST (POA) Act","Jharkhand","2012",336
+"SC/ST (POA) Act","Karnataka","2012",1334
+"SC/ST (POA) Act","Kerala","2012",67
+"SC/ST (POA) Act","Lakshadweep","2012",0
+"SC/ST (POA) Act","Madhya Pradesh","2012",1
+"SC/ST (POA) Act","Maharashtra","2012",267
+"SC/ST (POA) Act","Manipur","2012",0
+"SC/ST (POA) Act","Meghalaya","2012",0
+"SC/ST (POA) Act","Mizoram","2012",0
+"SC/ST (POA) Act","Nagaland","2012",0
+"SC/ST (POA) Act","Odisha","2012",1943
+"SC/ST (POA) Act","Puducherry","2012",1
+"SC/ST (POA) Act","Punjab","2012",8
+"SC/ST (POA) Act","Rajasthan","2012",111
+"SC/ST (POA) Act","Sikkim","2012",0
+"SC/ST (POA) Act","Tamil Nadu","2012",1143
+"SC/ST (POA) Act","Tripura","2012",1
+"SC/ST (POA) Act","Uttar Pradesh","2012",1740
+"SC/ST (POA) Act","Uttarakhand","2012",14
+"SC/ST (POA) Act","West Bengal","2012",13
+"Total Crimes against SCs","A&N Islands","2012",0
+"Total Crimes against SCs","Andhra Pradesh","2012",3057
+"Total Crimes against SCs","Arunachal Pradesh","2012",0
+"Total Crimes against SCs","Assam","2012",4
+"Total Crimes against SCs","Bihar","2012",4821
+"Total Crimes against SCs","Chandigarh","2012",2
+"Total Crimes against SCs","Chhattisgarh","2012",262
+"Total Crimes against SCs","D&N Haveli","2012",0
+"Total Crimes against SCs","Daman & Diu","2012",0
+"Total Crimes against SCs","Delhi UT","2012",44
+"Total Crimes against SCs","Goa","2012",10
+"Total Crimes against SCs","Gujarat","2012",1028
+"Total Crimes against SCs","Haryana","2012",252
+"Total Crimes against SCs","Himachal Pradesh","2012",129
+"Total Crimes against SCs","Jammu & Kashmir","2012",2
+"Total Crimes against SCs","Jharkhand","2012",696
+"Total Crimes against SCs","Karnataka","2012",2605
+"Total Crimes against SCs","Kerala","2012",810
+"Total Crimes against SCs","Lakshadweep","2012",0
+"Total Crimes against SCs","Madhya Pradesh","2012",2875
+"Total Crimes against SCs","Maharashtra","2012",1091
+"Total Crimes against SCs","Manipur","2012",0
+"Total Crimes against SCs","Meghalaya","2012",0
+"Total Crimes against SCs","Mizoram","2012",0
+"Total Crimes against SCs","Nagaland","2012",0
+"Total Crimes against SCs","Odisha","2012",2265
+"Total Crimes against SCs","Puducherry","2012",24
+"Total Crimes against SCs","Punjab","2012",71
+"Total Crimes against SCs","Rajasthan","2012",5559
+"Total Crimes against SCs","Sikkim","2012",5
+"Total Crimes against SCs","Tamil Nadu","2012",1647
+"Total Crimes against SCs","Tripura","2012",76
+"Total Crimes against SCs","Uttar Pradesh","2012",6202
+"Total Crimes against SCs","Uttarakhand","2012",33
+"Total Crimes against SCs","West Bengal","2012",85
+"Arson","A&N Islands","2013",0
+"Arson","Andhra Pradesh","2013",5
+"Arson","Arunachal Pradesh","2013",0
+"Arson","Assam","2013",0
+"Arson","Bihar","2013",51
+"Arson","Chandigarh","2013",0
+"Arson","Chhattisgarh","2013",1
+"Arson","D&N Haveli","2013",0
+"Arson","Daman & Diu","2013",0
+"Arson","Delhi UT","2013",0
+"Arson","Goa","2013",0
+"Arson","Gujarat","2013",10
+"Arson","Haryana","2013",2
+"Arson","Himachal Pradesh","2013",0
+"Arson","Jammu & Kashmir","2013",0
+"Arson","Jharkhand","2013",1
+"Arson","Karnataka","2013",1
+"Arson","Kerala","2013",1
+"Arson","Lakshadweep","2013",0
+"Arson","Madhya Pradesh","2013",25
+"Arson","Maharashtra","2013",10
+"Arson","Manipur","2013",0
+"Arson","Meghalaya","2013",0
+"Arson","Mizoram","2013",0
+"Arson","Nagaland","2013",0
+"Arson","Odisha","2013",20
+"Arson","Puducherry","2013",0
+"Arson","Punjab","2013",0
+"Arson","Rajasthan","2013",26
+"Arson","Sikkim","2013",0
+"Arson","Tamil Nadu","2013",6
+"Arson","Tripura","2013",0
+"Arson","Uttar Pradesh","2013",29
+"Arson","Uttarakhand","2013",0
+"Arson","West Bengal","2013",1
+"Dacoity","A&N Islands","2013",0
+"Dacoity","Andhra Pradesh","2013",3
+"Dacoity","Arunachal Pradesh","2013",0
+"Dacoity","Assam","2013",0
+"Dacoity","Bihar","2013",0
+"Dacoity","Chandigarh","2013",0
+"Dacoity","Chhattisgarh","2013",0
+"Dacoity","D&N Haveli","2013",0
+"Dacoity","Daman & Diu","2013",0
+"Dacoity","Delhi UT","2013",0
+"Dacoity","Goa","2013",0
+"Dacoity","Gujarat","2013",9
+"Dacoity","Haryana","2013",1
+"Dacoity","Himachal Pradesh","2013",0
+"Dacoity","Jammu & Kashmir","2013",0
+"Dacoity","Jharkhand","2013",0
+"Dacoity","Karnataka","2013",3
+"Dacoity","Kerala","2013",0
+"Dacoity","Lakshadweep","2013",0
+"Dacoity","Madhya Pradesh","2013",0
+"Dacoity","Maharashtra","2013",26
+"Dacoity","Manipur","2013",0
+"Dacoity","Meghalaya","2013",0
+"Dacoity","Mizoram","2013",0
+"Dacoity","Nagaland","2013",0
+"Dacoity","Odisha","2013",1
+"Dacoity","Puducherry","2013",0
+"Dacoity","Punjab","2013",0
+"Dacoity","Rajasthan","2013",0
+"Dacoity","Sikkim","2013",0
+"Dacoity","Tamil Nadu","2013",0
+"Dacoity","Tripura","2013",0
+"Dacoity","Uttar Pradesh","2013",2
+"Dacoity","Uttarakhand","2013",0
+"Dacoity","West Bengal","2013",0
+"Hurt","A&N Islands","2013",0
+"Hurt","Andhra Pradesh","2013",659
+"Hurt","Arunachal Pradesh","2013",0
+"Hurt","Assam","2013",0
+"Hurt","Bihar","2013",289
+"Hurt","Chandigarh","2013",0
+"Hurt","Chhattisgarh","2013",49
+"Hurt","D&N Haveli","2013",0
+"Hurt","Daman & Diu","2013",1
+"Hurt","Delhi UT","2013",0
+"Hurt","Goa","2013",0
+"Hurt","Gujarat","2013",273
+"Hurt","Haryana","2013",9
+"Hurt","Himachal Pradesh","2013",0
+"Hurt","Jammu & Kashmir","2013",0
+"Hurt","Jharkhand","2013",268
+"Hurt","Karnataka","2013",249
+"Hurt","Kerala","2013",275
+"Hurt","Lakshadweep","2013",0
+"Hurt","Madhya Pradesh","2013",817
+"Hurt","Maharashtra","2013",167
+"Hurt","Manipur","2013",0
+"Hurt","Meghalaya","2013",0
+"Hurt","Mizoram","2013",0
+"Hurt","Nagaland","2013",0
+"Hurt","Odisha","2013",646
+"Hurt","Puducherry","2013",0
+"Hurt","Punjab","2013",37
+"Hurt","Rajasthan","2013",574
+"Hurt","Sikkim","2013",3
+"Hurt","Tamil Nadu","2013",260
+"Hurt","Tripura","2013",13
+"Hurt","Uttar Pradesh","2013",302
+"Hurt","Uttarakhand","2013",8
+"Hurt","West Bengal","2013",2
+"Kidnapping & Abduction","A&N Islands","2013",0
+"Kidnapping & Abduction","Andhra Pradesh","2013",14
+"Kidnapping & Abduction","Arunachal Pradesh","2013",0
+"Kidnapping & Abduction","Assam","2013",0
+"Kidnapping & Abduction","Bihar","2013",9
+"Kidnapping & Abduction","Chandigarh","2013",0
+"Kidnapping & Abduction","Chhattisgarh","2013",7
+"Kidnapping & Abduction","D&N Haveli","2013",0
+"Kidnapping & Abduction","Daman & Diu","2013",0
+"Kidnapping & Abduction","Delhi UT","2013",0
+"Kidnapping & Abduction","Goa","2013",0
+"Kidnapping & Abduction","Gujarat","2013",38
+"Kidnapping & Abduction","Haryana","2013",37
+"Kidnapping & Abduction","Himachal Pradesh","2013",0
+"Kidnapping & Abduction","Jammu & Kashmir","2013",0
+"Kidnapping & Abduction","Jharkhand","2013",4
+"Kidnapping & Abduction","Karnataka","2013",11
+"Kidnapping & Abduction","Kerala","2013",2
+"Kidnapping & Abduction","Lakshadweep","2013",0
+"Kidnapping & Abduction","Madhya Pradesh","2013",72
+"Kidnapping & Abduction","Maharashtra","2013",33
+"Kidnapping & Abduction","Manipur","2013",0
+"Kidnapping & Abduction","Meghalaya","2013",0
+"Kidnapping & Abduction","Mizoram","2013",0
+"Kidnapping & Abduction","Nagaland","2013",0
+"Kidnapping & Abduction","Odisha","2013",22
+"Kidnapping & Abduction","Puducherry","2013",0
+"Kidnapping & Abduction","Punjab","2013",8
+"Kidnapping & Abduction","Rajasthan","2013",53
+"Kidnapping & Abduction","Sikkim","2013",2
+"Kidnapping & Abduction","Tamil Nadu","2013",5
+"Kidnapping & Abduction","Tripura","2013",1
+"Kidnapping & Abduction","Uttar Pradesh","2013",304
+"Kidnapping & Abduction","Uttarakhand","2013",4
+"Kidnapping & Abduction","West Bengal","2013",2
+"Murder","A&N Islands","2013",0
+"Murder","Andhra Pradesh","2013",53
+"Murder","Arunachal Pradesh","2013",0
+"Murder","Assam","2013",0
+"Murder","Bihar","2013",50
+"Murder","Chandigarh","2013",0
+"Murder","Chhattisgarh","2013",6
+"Murder","D&N Haveli","2013",0
+"Murder","Daman & Diu","2013",0
+"Murder","Delhi UT","2013",0
+"Murder","Goa","2013",0
+"Murder","Gujarat","2013",29
+"Murder","Haryana","2013",22
+"Murder","Himachal Pradesh","2013",0
+"Murder","Jammu & Kashmir","2013",0
+"Murder","Jharkhand","2013",6
+"Murder","Karnataka","2013",31
+"Murder","Kerala","2013",2
+"Murder","Lakshadweep","2013",0
+"Murder","Madhya Pradesh","2013",77
+"Murder","Maharashtra","2013",40
+"Murder","Manipur","2013",0
+"Murder","Meghalaya","2013",0
+"Murder","Mizoram","2013",0
+"Murder","Nagaland","2013",0
+"Murder","Odisha","2013",19
+"Murder","Puducherry","2013",0
+"Murder","Punjab","2013",7
+"Murder","Rajasthan","2013",76
+"Murder","Sikkim","2013",0
+"Murder","Tamil Nadu","2013",28
+"Murder","Tripura","2013",3
+"Murder","Uttar Pradesh","2013",222
+"Murder","Uttarakhand","2013",5
+"Murder","West Bengal","2013",0
+"Other Crimes Against SCs","A&N Islands","2013",0
+"Other Crimes Against SCs","Andhra Pradesh","2013",1720
+"Other Crimes Against SCs","Arunachal Pradesh","2013",0
+"Other Crimes Against SCs","Assam","2013",4
+"Other Crimes Against SCs","Bihar","2013",669
+"Other Crimes Against SCs","Chandigarh","2013",2
+"Other Crimes Against SCs","Chhattisgarh","2013",121
+"Other Crimes Against SCs","D&N Haveli","2013",0
+"Other Crimes Against SCs","Daman & Diu","2013",0
+"Other Crimes Against SCs","Delhi UT","2013",26
+"Other Crimes Against SCs","Goa","2013",8
+"Other Crimes Against SCs","Gujarat","2013",528
+"Other Crimes Against SCs","Haryana","2013",275
+"Other Crimes Against SCs","Himachal Pradesh","2013",44
+"Other Crimes Against SCs","Jammu & Kashmir","2013",0
+"Other Crimes Against SCs","Jharkhand","2013",214
+"Other Crimes Against SCs","Karnataka","2013",811
+"Other Crimes Against SCs","Kerala","2013",287
+"Other Crimes Against SCs","Lakshadweep","2013",0
+"Other Crimes Against SCs","Madhya Pradesh","2013",1554
+"Other Crimes Against SCs","Maharashtra","2013",903
+"Other Crimes Against SCs","Manipur","2013",0
+"Other Crimes Against SCs","Meghalaya","2013",0
+"Other Crimes Against SCs","Mizoram","2013",0
+"Other Crimes Against SCs","Nagaland","2013",0
+"Other Crimes Against SCs","Odisha","2013",0
+"Other Crimes Against SCs","Puducherry","2013",1
+"Other Crimes Against SCs","Punjab","2013",39
+"Other Crimes Against SCs","Rajasthan","2013",5339
+"Other Crimes Against SCs","Sikkim","2013",0
+"Other Crimes Against SCs","Tamil Nadu","2013",173
+"Other Crimes Against SCs","Tripura","2013",28
+"Other Crimes Against SCs","Uttar Pradesh","2013",3978
+"Other Crimes Against SCs","Uttarakhand","2013",0
+"Other Crimes Against SCs","West Bengal","2013",73
+"Protection of Civil Rights Act","A&N Islands","2013",0
+"Protection of Civil Rights Act","Andhra Pradesh","2013",6
+"Protection of Civil Rights Act","Arunachal Pradesh","2013",0
+"Protection of Civil Rights Act","Assam","2013",0
+"Protection of Civil Rights Act","Bihar","2013",0
+"Protection of Civil Rights Act","Chandigarh","2013",0
+"Protection of Civil Rights Act","Chhattisgarh","2013",0
+"Protection of Civil Rights Act","D&N Haveli","2013",0
+"Protection of Civil Rights Act","Daman & Diu","2013",0
+"Protection of Civil Rights Act","Delhi UT","2013",3
+"Protection of Civil Rights Act","Goa","2013",1
+"Protection of Civil Rights Act","Gujarat","2013",0
+"Protection of Civil Rights Act","Haryana","2013",0
+"Protection of Civil Rights Act","Himachal Pradesh","2013",4
+"Protection of Civil Rights Act","Jammu & Kashmir","2013",0
+"Protection of Civil Rights Act","Jharkhand","2013",0
+"Protection of Civil Rights Act","Karnataka","2013",11
+"Protection of Civil Rights Act","Kerala","2013",0
+"Protection of Civil Rights Act","Lakshadweep","2013",0
+"Protection of Civil Rights Act","Madhya Pradesh","2013",0
+"Protection of Civil Rights Act","Maharashtra","2013",21
+"Protection of Civil Rights Act","Manipur","2013",0
+"Protection of Civil Rights Act","Meghalaya","2013",0
+"Protection of Civil Rights Act","Mizoram","2013",0
+"Protection of Civil Rights Act","Nagaland","2013",0
+"Protection of Civil Rights Act","Odisha","2013",0
+"Protection of Civil Rights Act","Puducherry","2013",15
+"Protection of Civil Rights Act","Punjab","2013",0
+"Protection of Civil Rights Act","Rajasthan","2013",0
+"Protection of Civil Rights Act","Sikkim","2013",0
+"Protection of Civil Rights Act","Tamil Nadu","2013",1
+"Protection of Civil Rights Act","Tripura","2013",0
+"Protection of Civil Rights Act","Uttar Pradesh","2013",0
+"Protection of Civil Rights Act","Uttarakhand","2013",0
+"Protection of Civil Rights Act","West Bengal","2013",0
+"Rape","A&N Islands","2013",0
+"Rape","Andhra Pradesh","2013",114
+"Rape","Arunachal Pradesh","2013",0
+"Rape","Assam","2013",0
+"Rape","Bihar","2013",68
+"Rape","Chandigarh","2013",0
+"Rape","Chhattisgarh","2013",55
+"Rape","D&N Haveli","2013",0
+"Rape","Daman & Diu","2013",0
+"Rape","Delhi UT","2013",0
+"Rape","Goa","2013",0
+"Rape","Gujarat","2013",75
+"Rape","Haryana","2013",131
+"Rape","Himachal Pradesh","2013",18
+"Rape","Jammu & Kashmir","2013",0
+"Rape","Jharkhand","2013",6
+"Rape","Karnataka","2013",67
+"Rape","Kerala","2013",115
+"Rape","Lakshadweep","2013",0
+"Rape","Madhya Pradesh","2013",397
+"Rape","Maharashtra","2013",179
+"Rape","Manipur","2013",1
+"Rape","Meghalaya","2013",0
+"Rape","Mizoram","2013",0
+"Rape","Nagaland","2013",0
+"Rape","Odisha","2013",99
+"Rape","Puducherry","2013",1
+"Rape","Punjab","2013",22
+"Rape","Rajasthan","2013",294
+"Rape","Sikkim","2013",0
+"Rape","Tamil Nadu","2013",28
+"Rape","Tripura","2013",3
+"Rape","Uttar Pradesh","2013",391
+"Rape","Uttarakhand","2013",7
+"Rape","West Bengal","2013",2
+"Robbery","A&N Islands","2013",0
+"Robbery","Andhra Pradesh","2013",1
+"Robbery","Arunachal Pradesh","2013",0
+"Robbery","Assam","2013",0
+"Robbery","Bihar","2013",1
+"Robbery","Chandigarh","2013",0
+"Robbery","Chhattisgarh","2013",1
+"Robbery","D&N Haveli","2013",0
+"Robbery","Daman & Diu","2013",0
+"Robbery","Delhi UT","2013",0
+"Robbery","Goa","2013",0
+"Robbery","Gujarat","2013",16
+"Robbery","Haryana","2013",2
+"Robbery","Himachal Pradesh","2013",0
+"Robbery","Jammu & Kashmir","2013",0
+"Robbery","Jharkhand","2013",0
+"Robbery","Karnataka","2013",2
+"Robbery","Kerala","2013",1
+"Robbery","Lakshadweep","2013",0
+"Robbery","Madhya Pradesh","2013",1
+"Robbery","Maharashtra","2013",22
+"Robbery","Manipur","2013",0
+"Robbery","Meghalaya","2013",0
+"Robbery","Mizoram","2013",0
+"Robbery","Nagaland","2013",0
+"Robbery","Odisha","2013",0
+"Robbery","Puducherry","2013",0
+"Robbery","Punjab","2013",0
+"Robbery","Rajasthan","2013",1
+"Robbery","Sikkim","2013",1
+"Robbery","Tamil Nadu","2013",10
+"Robbery","Tripura","2013",0
+"Robbery","Uttar Pradesh","2013",3
+"Robbery","Uttarakhand","2013",0
+"Robbery","West Bengal","2013",0
+"SC/ST (POA) Act","A&N Islands","2013",0
+"SC/ST (POA) Act","Andhra Pradesh","2013",695
+"SC/ST (POA) Act","Arunachal Pradesh","2013",0
+"SC/ST (POA) Act","Assam","2013",4
+"SC/ST (POA) Act","Bihar","2013",5584
+"SC/ST (POA) Act","Chandigarh","2013",2
+"SC/ST (POA) Act","Chhattisgarh","2013",2
+"SC/ST (POA) Act","D&N Haveli","2013",0
+"SC/ST (POA) Act","Daman & Diu","2013",0
+"SC/ST (POA) Act","Delhi UT","2013",26
+"SC/ST (POA) Act","Goa","2013",3
+"SC/ST (POA) Act","Gujarat","2013",212
+"SC/ST (POA) Act","Haryana","2013",14
+"SC/ST (POA) Act","Himachal Pradesh","2013",82
+"SC/ST (POA) Act","Jammu & Kashmir","2013",0
+"SC/ST (POA) Act","Jharkhand","2013",479
+"SC/ST (POA) Act","Karnataka","2013",1380
+"SC/ST (POA) Act","Kerala","2013",73
+"SC/ST (POA) Act","Lakshadweep","2013",0
+"SC/ST (POA) Act","Madhya Pradesh","2013",2
+"SC/ST (POA) Act","Maharashtra","2013",277
+"SC/ST (POA) Act","Manipur","2013",0
+"SC/ST (POA) Act","Meghalaya","2013",0
+"SC/ST (POA) Act","Mizoram","2013",0
+"SC/ST (POA) Act","Nagaland","2013",0
+"SC/ST (POA) Act","Odisha","2013",1785
+"SC/ST (POA) Act","Puducherry","2013",4
+"SC/ST (POA) Act","Punjab","2013",13
+"SC/ST (POA) Act","Rajasthan","2013",112
+"SC/ST (POA) Act","Sikkim","2013",0
+"SC/ST (POA) Act","Tamil Nadu","2013",1334
+"SC/ST (POA) Act","Tripura","2013",0
+"SC/ST (POA) Act","Uttar Pradesh","2013",1847
+"SC/ST (POA) Act","Uttarakhand","2013",10
+"SC/ST (POA) Act","West Bengal","2013",35
+"Total Crimes against SCs","A&N Islands","2013",0
+"Total Crimes against SCs","Andhra Pradesh","2013",3270
+"Total Crimes against SCs","Arunachal Pradesh","2013",0
+"Total Crimes against SCs","Assam","2013",8
+"Total Crimes against SCs","Bihar","2013",6721
+"Total Crimes against SCs","Chandigarh","2013",4
+"Total Crimes against SCs","Chhattisgarh","2013",242
+"Total Crimes against SCs","D&N Haveli","2013",0
+"Total Crimes against SCs","Daman & Diu","2013",1
+"Total Crimes against SCs","Delhi UT","2013",55
+"Total Crimes against SCs","Goa","2013",12
+"Total Crimes against SCs","Gujarat","2013",1190
+"Total Crimes against SCs","Haryana","2013",493
+"Total Crimes against SCs","Himachal Pradesh","2013",148
+"Total Crimes against SCs","Jammu & Kashmir","2013",0
+"Total Crimes against SCs","Jharkhand","2013",978
+"Total Crimes against SCs","Karnataka","2013",2566
+"Total Crimes against SCs","Kerala","2013",756
+"Total Crimes against SCs","Lakshadweep","2013",0
+"Total Crimes against SCs","Madhya Pradesh","2013",2945
+"Total Crimes against SCs","Maharashtra","2013",1678
+"Total Crimes against SCs","Manipur","2013",1
+"Total Crimes against SCs","Meghalaya","2013",0
+"Total Crimes against SCs","Mizoram","2013",0
+"Total Crimes against SCs","Nagaland","2013",0
+"Total Crimes against SCs","Odisha","2013",2592
+"Total Crimes against SCs","Puducherry","2013",21
+"Total Crimes against SCs","Punjab","2013",126
+"Total Crimes against SCs","Rajasthan","2013",6475
+"Total Crimes against SCs","Sikkim","2013",6
+"Total Crimes against SCs","Tamil Nadu","2013",1845
+"Total Crimes against SCs","Tripura","2013",48
+"Total Crimes against SCs","Uttar Pradesh","2013",7078
+"Total Crimes against SCs","Uttarakhand","2013",34
+"Total Crimes against SCs","West Bengal","2013",115

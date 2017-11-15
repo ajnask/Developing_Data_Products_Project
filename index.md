@@ -1,0 +1,72 @@
+---
+title       : Developing Data Products 
+subtitle    : Course Project
+author      : Ajnas Mujthabha K
+job         : 
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow      # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## Caste Based Crime In India
+
+This presentation is being created as part of the peer assessment for the "Developing Data Products" course in coursera. The assignment is geared toward ensuring the following concepts,
+
+- <b> Shiny </b> to build data product application
+- <b> R-Presentatoin</b> or <b>slidify</b> to create data product related presentations
+
+
+---
+## Caste Based Crime In India
+
+India's caste system is among the world's oldest forms of surviving social stratification.  
+
+### What is <a href="https://en.wikipedia.org/wiki/Caste_system_in_India">Caste System</a>?  
+
+The system which divides Hindus into rigid hierarchical groups based on their karma (work) and dharma (the Hindi word for religion, but here it means duty) is generally accepted to be more than 3,000 years old.
+
+### What is <a href="https://en.wikipedia.org/wiki/Caste-related_violence_in_India">Case Based Crime</a>?  
+
+Caste Based Crime implies the crime against a lower caste member by people in the upper caste. In this application, Crimes against the historically marginalized Scheduled Castes and Scheduled Tribes (SC and ST) by the upper castes in India by extreme form of prejudice, discrimination and violence is studied.  
+
+--- .class #id 
+## The Application
+
+To understand the statistics of Caste based violence in India, a small application called <b>Caste Based Crime in India</b> has been developed and deployed <a href="https://ajnask.shinyapps.io/Caste_Based_Crime_in_India/">here</a>.  
+
+The application allows the user to,
+- Select a particular crime (from a list of crimes)
+- Select a state in India to see the trend from 2001 to 2013
+- Option to select two states for comparison
+- See total statistics of crimes
+
+---
+## The data
+
+Data for the analysis was taken from <a href= "https://data.gov.in/catalog/crime-against-schedule-caste">Open Government Data Platform India (OGD)</a>. Datasets for years from 2001 to 2013 was downloaded and compiled accordingly. 
+
+
+```r
+crime <- read.csv("CasteCrimeStatusIndia.csv")
+head(crime)
+```
+
+```
+##   Crime          State.UT Year Count
+## 1 Arson       A&N Islands 2001     0
+## 2 Arson    Andhra Pradesh 2001     6
+## 3 Arson Arunachal Pradesh 2001     0
+## 4 Arson             Assam 2001     1
+## 5 Arson             Bihar 2001    17
+## 6 Arson        Chandigarh 2001     0
+```
+
+The complete code for the application along with the data set is available <b><a href= "https://github.com/ajnask/Developing_Data_Products_Project">here</a></b>
+
+
+
+
+
